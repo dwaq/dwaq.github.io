@@ -13,6 +13,26 @@
 	<meta name=apple-mobile-web-app-title content="Dillon Nichols">
 	<meta name=msapplication-TileImage content=images/touch/ms-touch-icon-144x144-precomposed.png>
 	<meta name=msapplication-TileColor content=#3372DF>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+	<script>
+	$(document).ready(function(){
+		// http://stackoverflow.com/a/17460277
+		$(".psu").click(function () {
+			$header = $(this);
+			//getting the next element
+			$content = $header.next();
+			//open up the content needed - toggle the slide- if visible, slide up, if not slidedown.
+			$content.slideToggle(500, function () {
+					//execute this after slideToggle is done
+					//change text of header based on visibility of content div
+					$header.text(function () {
+							//change text based on condition
+							return $content.is(":visible") ? "Collapse courses" : "Expand courses";
+					});
+			});
+		});
+	});
+	</script>
 	<link rel=stylesheet href=styles/components/main.min.css>
 	<style>/* Used to indent semesters and classes */
 	.indent h4{
@@ -56,6 +76,7 @@
 
 <main class=indent>
 <h3 id="bachelor-of-science-in-electrical-engineering-from-the-pennsylvania-state-university">Bachelor of Science in Electrical Engineering from The Pennsylvania State University</h3>
+<a href="#ignore-click" class="psu button--primary">Expand courses</a>
 <div class="psu-courses">
 <h4 id="fall-2009">Fall 2009</h4>
 <li><a href="http://bulletins.psu.edu/undergrad/courses/C/EDSGN/100">EDSGN 100 - Introduction to Engineering Design</a></li>
