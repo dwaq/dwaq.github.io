@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Dillon Nichols</title>
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+		<style>
+			.container {
+				margin: auto;
+				align-items: center;
+				max-width: 680px;
+				padding: 13px;
+			}
+			.caption {
+				text-align: center;
+			}
+			.caption p {
+				margin: 0;
+			}
+			.center {
+				text-align: center;
+			}
+			.no-border {
+				border: none;
+			}
+		</style>
+
+	</head>
+	<body>
+		<div class="container">
+
+
+		<div class="page-header">
+			<h1>Homebrew Gameboy Cartridge</h1>
+		</div>
+
+
+		<div class="page-header">
+			<h2>Introduction Video</h2>
+		</div>
+		<!-- 16:9 aspect ratio -->
+		<div class="embed-responsive embed-responsive-16by9">
+			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kmgT78ODRdU"></iframe>
+		</div>
+		<p>The PCB is tested as working, but my programmer currently can only program 2 megabits of the 4 megabit flash chip. I am working on a fix for my programmer, but currently the Homebrew Gameboy Cartridge works without a hitch on files 2 megabits or smaller.</p>
+
+		<p>Visit my GitHub at <a href="https://github.com/dwaq/Homebrew-Gameboy-Cartridge">https://github.com/dwaq/Homebrew-Gameboy-Cartridge</a> for details.</p>
+
+		<div class="page-header">
+			<h2>Files Needed</h2>
+		</div>
+
+		<p>All digital files that are available, including the schematic, board files, code, and gerbers are located on my <a href="https://github.com/dwaq/Homebrew-Gameboy-Cartridge">GitHub</a>.</p>
+
+		<h4>Some notes:</h4>
+		<ul>
+			<li>The schematic and board files were designed in Eagle V6.0. I have created all of the parts for this project. They are located in the <a href="https://github.com/dwaq/Homebrew-Gameboy-Cartridge/blob/master/gameboy.lbr">gameboy.lbr</a> file.</li>
+			<li>I used ITEAD Studio's <a href="http://iteadstudio.com/store/images/produce/PCB/PCB%20prototype/ITeadstudio_DRC.rar">DRC file for Eagle</a> to try and meet their limitations for board design. There are errors from solder mask placement, but the boards turned out fine with them.</li>
+			<li>I used Sparkfun's <a href="http://www.sparkfun.com/tutorial/Eagle-DFM/sfe-gerb274x.cam">CAM file for Eagle</a> to export the board files into gerbers. The gerbers that I sent to ITEAD Studio to be manufactured are located in <a href="https://github.com/dwaq/Homebrew-Gameboy-Cartridge/tree/master/GerberFiles">the GerberFiles folder of my github</a> for anybody that wants their own board without having to go through all the steps to export it theirselves. Keep in mind the drill files use 2:4 Leading.</li>
+		</ul>
+
+		<div class="page-header">
+			<h2>Parts Needed</h2>
+		</div>
+
+		<div class="panel panel-default">
+			<table class="table">
+				<tbody>
+					<tr>
+						<th>Part</th>
+						<th>Where to order</th>
+						<th>Quantity</th>
+						<th>Description</th>
+					</tr>
+					<tr>
+						<td>Gameboy Game Cartridge</td>
+						<td><br /></td>
+						<td>1</td>
+						<td>Must have a MBC1 chip</td>
+					</tr>
+					<tr>
+						<td>AT49F040</td>
+						<td><br /></td>
+						<td>1</td>
+						<td>4 megabit flash chip</td>
+					</tr>
+					<tr>
+						<td>PLCC-44 Socket</td>
+						<td><br /></td>
+						<td>1</td>
+						<td>Allows removal of flash chip</td>
+					</tr>
+					<tr>
+						<td>PLCC Puller</td>
+						<td><br /></td>
+						<td>1</td>
+						<td>Eases removal of flash chip</td>
+					</tr>
+					<tr>
+						<td>10nF Capacitor</td>
+						<td><br /></td>
+						<td>1</td>
+						<td>Decouples the power</td>
+					</tr>
+					<tr>
+						<td>47kΩ Resistor</td>
+						<td><br /></td>
+						<td>1</td>
+						<td>Pulls line high</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<div class="page-header">
+			<h2>Future Plans</h2>
+		</div>
+
+		<p>I bought a <a href="http://www.kickstarter.com/projects/printrbot/printrbot-your-first-3d-printer">Printrbot from Kickstarter</a> because I've been interested in 3D printing and thought this was the best and lowest-cost way of doing it myself. When I finally recieve it, I will design a case for this game. I will add the files when I finally make it.</p>
+		<p>I have also thought about making another version of this cartridge that uses a more spacious flash chip and would have battery backup for saves. The trouble I am having is finding a flash chip that I have the ability to program, yet can also fit on the PCB.</p>
+		<p>I would also like to make a programmer so the flash chip would not have to be removed from the cartridge for programming.</p>
+
+		<div class="page-header">
+			<h2>Want to try one for yourself?</h2>
+		</div>
+
+		<div class="thumbnail no-border">
+			<a href="https://www.tindie.com/products/Dillon1337/homebrew-gameboy-cartridge/">
+				<img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie">
+				<div class="caption">
+					<p>Click here to go to this item's Tindie page.</p>
+				</div>
+			</a>
+		</div>
+
+		<div class="page-header">
+			<h2>License</h2>
+		</div>
+
+		<div class="thumbnail no-border">
+			<a href="http://creativecommons.org/licenses/by/3.0/" rel="license">
+				<img src="http://i.creativecommons.org/l/by/3.0/88x31.png" alt="Creative Commons License">
+				<div class="caption">
+					<p>This work is licensed under a Creative Commons Attribution 3.0 Unported License.</p>
+				</div>
+			</a>
+		</div>
+
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+		</div>
+	</body>
+</html>
