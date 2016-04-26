@@ -7,6 +7,28 @@
 		<title>Dillon Nichols</title>
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+		<style>
+			.container {
+				margin: auto;
+				align-items: center;
+				max-width: 680px;
+				padding: 13px;
+			}
+			.caption {
+				text-align: center;
+			}
+			.caption p {
+				margin: 0;
+			}
+			.center {
+				text-align: center;
+			}
+			.no-border {
+				border: none;
+			}
+		</style>
+
 	</head>
 	<body>
 		<div class="container">
@@ -16,6 +38,252 @@
 			<h1>MSP430 Reaction Game</h1>
 		</div>
 
+
+		<div class="page-header">
+			<h2>Introduction Video</h2>
+		</div>
+		<!-- 16:9 aspect ratio -->
+		<div class="embed-responsive embed-responsive-16by9">
+			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WAzl3TEJ_OY"></iframe>
+		</div>
+		<p><strong>Edit:</strong> I've added the ability to restart the game with a different speed or the same speed after the game has been finished. You can view the flow chart of how the game is played below under the Gameplay heading.</p>
+
+		<div class="page-header">
+			<h2>Photos</h2>
+		</div>
+
+		<div class="thumbnail">
+			<img src="msp430-reaction-game/populated.jpg" alt="Fully populated board">
+			<div class="caption">
+				<p>Fully populated board</p>
+			</div>
+		</div>
+
+		<div class="thumbnail">
+			<img src="msp430-reaction-game/front.jpg" alt="Front of PCB">
+			<div class="caption">
+				<p>Front of PCB</p>
+			</div>
+		</div>
+
+		<div class="thumbnail">
+			<img src="msp430-reaction-game/rear.jpg" alt="Rear of PCB">
+			<div class="caption">
+				<p>Rear of PCB</p>
+			</div>
+		</div>
+
+		<div class="page-header">
+			<h2>Gameplay</h2>
+		</div>
+
+		<div class="thumbnail">
+			<img src="msp430-reaction-game/gameplay.jpg" alt="Gameplay">
+		</div>
+
+		<div class="page-header">
+			<h2>Files Needed</h2>
+		</div>
+
+		<p>All digital files that are available, including the schematic, board files, code, and gerbers are located on my <a href="https://github.com/dwaq/MSP430-Reaction-Game">GitHub</a>.</p>
+
+		<h4>Some notes:</h4>
+		<ul>
+			<li>The schematic and board files were designed in Eagle V6.0. I used parts from the <a href="https://github.com/sparkfun/SparkFun-Eagle-Libraries">SparkFun Electronics Eagle Libraries</a>, the <a href="http://www.ti.com/litv/zip/slac060e">Texas Instruments Parts Library</a>, and the stock Eagle library. I have modified some of the parts in each to better suit my needs.</li>
+			<li>I used ITEAD Studio's <a href="http://iteadstudio.com/store/images/produce/PCB/PCB%20prototype/ITeadstudio_DRC.rar">DRC file for Eagle</a> to try and meet their limitations for board design. There are errors from solder mask placement, but the boards turned out fine with them.</li>
+			<li>I used Sparkfun's <a href="http://www.sparkfun.com/tutorial/Eagle-DFM/sfe-gerb274x.cam">CAM file for Eagle</a> to export the board files into gerbers. The gerbers that I sent to ITEAD Studio to be manufactured are located in <a href="https://github.com/dwaq/MSP430-Reaction-Game/tree/master/GerberFiles">the GerberFiles folder of my GitHub</a> for anybody that wants their own board without having to go through all the steps to export it theirselves. Keep in mind the drill files use 2:4 Leading.</li>
+			<li>The C code was created using Code Composer Studio V4.2.5.</li>
+		</ul>
+
+		<div class="page-header">
+			<h2>Parts Needed</h2>
+		</div>
+
+		<div class="panel panel-default">
+			<table class="table">
+				<tbody>
+					<tr>
+						<th>Part</th>
+						<th>Where to order</th>
+						<th>Quantity</th>
+						<th>Description</th>
+					</tr>
+					<tr>
+						<td>9V Battery Snap</td>
+						<td><a href="http://www.sparkfun.com/wish_lists/32296">Sparkfun Wishlist</a></td>
+						<td>1</td>
+						<td>Power supply for circuit</td>
+					</tr>
+					<tr>
+						<td>On/Off Switch</td>
+						<td><a href="http://www.sparkfun.com/wish_lists/32296">Sparkfun Wishlist</a></td>
+						<td>1</td>
+						<td>Turn the power on and off</td>
+					</tr>
+					<tr>
+						<td>3.3V Voltage Regulator</td>
+						<td><a href="http://www.sparkfun.com/wish_lists/32296">Sparkfun Wishlist</a></td>
+						<td>1</td>
+						<td>Drop the 9V supply to 3.3V needed for the circuit</td>
+					</tr>
+					<tr>
+						<td>Potentiometer</td>
+						<td><a href="http://www.sparkfun.com/wish_lists/32296">Sparkfun Wishlist</a></td>
+						<td>1</td>
+						<td>Adjust the speed that the LEDs flash</td>
+					</tr>
+					<tr>
+						<td>10KΩ Resistor</td>
+						<td><a href="http://www.sparkfun.com/wish_lists/32296">Sparkfun Wishlist</a></td>
+						<td>2</td>
+						<td>Pull up switches up to VCC</td>
+					</tr>
+					<tr>
+						<td>Pushbutton Switch</td>
+						<td><a href="http://www.sparkfun.com/wish_lists/32296">Sparkfun Wishlist</a></td>
+						<td>2</td>
+						<td>Select buttons to start and stop the game</td>
+					</tr>
+					<tr>
+						<td>10uF Electrolytic  Capacitor </td>
+						<td><a href="http://www.sparkfun.com/wish_lists/32296">Sparkfun Wishlist</a></td>
+						<td>1</td>
+						<td>Needed for voltage regulation</td>
+					</tr>
+					<tr>
+						<td>0.1uF Ceramic         Capacitor</td>
+						<td><a href="http://www.sparkfun.com/wish_lists/32296">Sparkfun Wishlist</a></td>
+						<td>2</td>
+						<td>Needed for voltage regulation and for MSP430 voltage decoupling</td>
+					</tr>
+					<tr>
+						<td>LED</td>
+						<td><a href="http://www.sparkfun.com/wish_lists/32296">Sparkfun Wishlist</a></td>
+						<td>8</td>
+						<td>Display for game</td>
+					</tr>
+					<tr>
+						<td>330Ω Resistor</td>
+						<td><a href="http://www.sparkfun.com/wish_lists/32296">Sparkfun Wishlist</a></td>
+						<td>8</td>
+						<td>Current limiting for LEDs</td>
+					</tr>
+					<tr>
+						<td>74HC595</td>
+						<td><a href="http://www.sparkfun.com/wish_lists/32296">Sparkfun Wishlist</a></td>
+						<td>1</td>
+						<td>Drive 8 LEDs with 3 pins of MSP430</td>
+					</tr>
+					<tr>
+						<td>Programming Header</td>
+						<td><a href="http://www.sparkfun.com/wish_lists/32296">Sparkfun Wishlist</a></td>
+						<td>1</td>
+						<td>Allows for in-circuit programming of the MSP430</td>
+					</tr>
+					<tr>
+						<td>Female-to-Female Jumper Wires</td>
+						<td><a href="http://www.sparkfun.com/wish_lists/32296">Sparkfun Wishlist</a></td>
+						<td>1</td>
+						<td>Connect programming header to TI Launchpad</td>
+					</tr>
+					<tr>
+						<td>TI MSP430 Launchpad</td>
+						<td><a href="http://processors.wiki.ti.com/index.php/MSP430_LaunchPad_%28MSP-EXP430G2%29" target="_blank">Texas Instruments</a></td>
+						<td>1</td>
+						<td>To program the MSP430 chip</td>
+					</tr>
+					<tr>
+						<td>MSP430G2231</td>
+						<td><a href="http://www.ti.com/product/msp430g2231" target="_blank">Texas Instruments</a></td>
+						<td>1</td>
+						<td>Microcontroller to do the hard work</td>
+					</tr>
+					<tr>
+						<td>47KΩ Resistor</td>
+						<td><a href="http://www.digikey.com/product-detail/en/yageo/CFR-12JB-52-47K/47KEBK-ND/3958" target="_blank">Digikey</a></td>
+						<td>1</td>
+						<td>Pulls RST line up to VCC</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<div class="page-header">
+			<h2>Advice</h2>
+		</div>
+
+		<ul>
+			<li>Polarity (direction) only matters on the round capacitor, not the two other capacitors. Align the side with the white line on the capacitor with the minus sign on the board.</li>
+			<li>In the Sparkfun Wishlist, there are short or tall buttons. Choose one or the other. They both work but I prefer the short ones. I may end up using the tall ones if I 3D print a case for the game.</li>
+			<li>None of the resistors are absolute values. I didn't have the 47KΩ, so I used a 50KΩ one. I also used 150Ω resistors for the LEDs instead of the 330Ω resistors on Sparkfun.</li>
+			<li>The MSP430G2231 microcontroller should be included with the Launchpad kit from Texas Instruments.</li>
+			<li>You can use the following two ways to program the microcontroller:</li>
+			<ol>
+				<li>Solder the MSP430G2231 and the programming headers to the board and use <a href="http://www.sparkfun.com/products/8430">these jumper wires</a> (or similar) to program it in-circuit.</li>
+				<li>Add a <a href="http://www.sparkfun.com/products/7939">DIP Socket</a> to the board where the MSP430G2231 should go and move the MSP430 chip to the Lauunchpad to program it. The programming header and female-to-female jumper wires won't be necessary with this method.</li>
+			</ol>
+		</ul>
+
+		<div class="page-header">
+			<h2>How to Program MSP430G2231 on Windows</h2>
+		</div>
+
+		<div class="thumbnail">
+			<img src="msp430-reaction-game/programming.jpg" alt="Programming hookup">
+			<div class="caption">
+				<p>Programming hookup (Explained in step 5)</p>
+			</div>
+		</div>
+
+		<ol>
+			<li>Download and install the newest version of <a href="http://processors.wiki.ti.com/index.php/Download_CCS">Code Composer Studio</a></li>
+			<li>Download the <a href="https://raw.github.com/dwaq/MSP430-Reaction-Game/master/MSP430-Reaction-Game.c">code file located on my GitHub</a></li>
+			<li>Create a new CCS Project in Code Composer Studio</li>
+			<ol>
+				<li>Name it as you wish</li>
+				<li>On the fourth window, set the device variant as MSP430G2231</li>
+				<li>Leave everything else as the default values</li>
+			</ol>
+			<li>Right click the new project file on the left side and select "Add Files.." and choose the .c code file downloaded from GitHub</li>
+			<li>Attach the VCC, GND, RST, and TEST pins as seen above (ensure that only the Launchpad is powering the circuit)</li>
+			<li>Choose the bug icon to "Debug Active Project"</li>
+			<li>It should move to the Debug Pane on Code Composer Studio</li>
+			<li>Press "F8" or the green and yellow button that looks like "| |>" to run the code and ensure it works</li>
+			<li>Congrats, the MSP430G2231 chip is programmed!</li>
+		</ol>
+
+		<div class="page-header">
+			<h2>Future Plans</h2>
+		</div>
+
+		<p>I bought a <a href="http://www.kickstarter.com/projects/printrbot/printrbot-your-first-3d-printer">Printrbot from Kickstarter</a> because I've been interested in 3D printing and thought this was the best and lowest-cost way of doing it myself. When I finally recieve it, I will design a case for this game. I will add the files when I finally make it.</p>
+		<p>I have also thought about making another version of this game with nothing but surface mount parts. I plan on adding two colors of LEDs so it can randomly pick a position to stop the LED by lighting that position in a different color. It would also have the logic to determine if you've won by matching them or lost by being off. This is currently nothing but an idea but I will but I will put work into it when I have more free time after school is out over the Summer.<p>
+
+		<div class="page-header">
+			<h2>Want to try one for yourself?</h2>
+		</div>
+
+		<div class="thumbnail no-border">
+			<a href="https://www.tindie.com/products/Dillon1337/msp430-reaction-game/">
+				<img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie">
+				<div class="caption">
+					<p>Click here to go to this item's Tindie page.</p>
+				</div>
+			</a>
+		</div>
+
+		<div class="page-header">
+			<h2>License</h2>
+		</div>
+
+		<div class="thumbnail no-border">
+			<a href="http://creativecommons.org/licenses/by/3.0/" rel="license">
+				<img src="http://i.creativecommons.org/l/by/3.0/88x31.png" alt="Creative Commons License">
+				<div class="caption">
+					<p>This work is licensed under a Creative Commons Attribution 3.0 Unported License.</p>
+				</div>
+			</a>
+		</div>
 
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
