@@ -7,6 +7,39 @@
 		<title>Dillon Nichols</title>
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+        <style>
+            /* Sticky footer styles from:
+            http://getbootstrap.com/examples/sticky-footer/
+            -------------------------------------------------- */
+            html {
+              position: relative;
+              min-height: 100%;
+            }
+            body {
+              /* Margin bottom by footer height */
+              margin-bottom: 60px;
+            }
+            .footer {
+              position: absolute;
+              bottom: 0;
+              width: 100%;
+              /* Set the fixed height of the footer here */
+              height: 60px;
+              background-color: #f8f8f8;
+            }
+            .container {
+              margin: auto;
+              align-items: center;
+              max-width: 680px;
+              padding: 13px;
+            }
+            img.center {
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+			}
+        </style>
 	</head>
 	<body>
 		<div class="container">
@@ -70,55 +103,29 @@
 			</div>
 		</div>
 
-		<div class="page-header">
-  			<h2>Around the web</h2>
-		</div>
+		</div> <!-- container -->
 
-		<div class="jumbotron">
-			<div class="row">
-				<div class="col-md-4">
-					<div class="media">
-						<div class="media-left">
-							<a href="#">
-								<img src="public/images/twitter-bird.svg" alt="Twitter" class="media-object" height="64" width="64">
-							</a>
-						</div>
-						<div class="media-body">
-							<h2 class="media-heading">Twitter</h2>
-							...
-						</div>
+		<footer class="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-4">
+						<a href="https://twitter.com/Dillon1337">
+							<img src="public/images/twitter-bird.svg" alt="Twitter" class="media-object center" height="28" width="28">
+						</a>
 					</div>
-				</div>
-
-				<div class="col-md-4">
-					<div class="media">
-						<div class="media-left">
-							<a href="#">
-								<img src="public/images/google-plus.svg" alt="Twitter" class="media-object" height="64" width="64">
-							</a>
-						</div>
-						<div class="media-body">
-							<h2 class="media-heading">Google+</h2>
-							...
-						</div>
+					<div class="col-xs-4">
+						<a href="https://github.com/dwaq/">
+							<img src="public/images/github-mark.svg" alt="GitHub" class="media-object center" height="28" width="28">
+						</a>
 					</div>
-				</div>
-
-				<div class="col-md-4">
-					<div class="media">
-						<div class="media-left">
-							<a href="#">
-								<img src="public/images/github-mark.svg" alt="GitHub" class="media-object" height="64" width="64">
-							</a>
-						</div>
-						<div class="media-body">
-							<h2 class="media-heading">GitHub</h2>
-							...
-						</div>
+					<div class="col-xs-4">
+						<a href="https://plus.google.com/+DillonNichols">
+							<img src="public/images/google-plus.svg" alt="Google+" class="media-object center" height="28" width="28">
+						</a>
 					</div>
 				</div>
 			</div>
-		</div>
+		</footer>
 
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
