@@ -11,6 +11,44 @@
 	</head>
 	<body>
 		<div class="container">
+		<!-- Static navbar -->
+		<nav class="navbar navbar-default">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="/">Dillon Nichols</a>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+						<li><a href="/">Home</a></li>
+						<li><a href="http://tinkeringetc.blogspot.com/">Blog</a></li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="/projects/msp430-reaction-game.html">MSP430 Reaction Game</a></li>
+								<li><a href="/projects/homebrew-gameboy-cartridge.html">Homebrew Gameboy Cartridge</a></li>
+								<li><a href="http://theopenbar.org/">The Open Bar</a></li>
+							</ul>
+						</li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Qualifications <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li class="active"><a href="/qualifications/penn-state-education.html">Penn State Education</a></li>
+								<li><a href="/qualifications/engineering-experiences.html">Engineering Experiences</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+				<!--/.nav-collapse -->
+			</div>
+			<!--/.container-fluid -->
+		</nav>
+
 			<div class="page-header">
 				<h1>Bachelor of Science</h1>
 				<h2>Electrical Engineering</h2>
@@ -63,7 +101,30 @@
 				<li><a href="http://bulletins.psu.edu/undergrad/courses/E/E%20E/441/201314SP">EE 441 - Semiconductor Integrated Circuit Technology</a></li>
 				<li><a href="http://bulletins.psu.edu/undergrad/courses/E/E%20E/410/200708SP">EE 410 - Linear Electronic Design</a></li>
 			</ul>
-		</div><!-- container -->
+
+		<nav class="navbar navbar-default navbar-fixed-bottom">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-4">
+						<a href="https://twitter.com/Dillon1337">
+							<img src="/public/images/twitter-bird.svg" alt="Twitter" class="media-object center" height="28" width="28">
+						</a>
+					</div>
+					<div class="col-xs-4">
+						<a href="https://github.com/dwaq/">
+							<img src="/public/images/github-mark.svg" alt="GitHub" class="media-object center" height="28" width="28">
+						</a>
+					</div>
+					<div class="col-xs-4">
+						<a href="https://plus.google.com/+DillonNichols">
+							<img src="/public/images/google-plus.svg" alt="Google+" class="media-object center" height="28" width="28">
+						</a>
+					</div>
+				</div>
+			</div>
+		</nav>
+
+		</div> <!-- container -->
 
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
