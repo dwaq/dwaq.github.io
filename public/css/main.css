@@ -25,3 +25,10 @@ body {
 .no-border {
 	border: none;
 }
+/* Add margin on panel header and text (mostly for mobile) */
+.panel h3{
+	margin:10px;
+}
+.panel p{
+	margin:10px;
+}
