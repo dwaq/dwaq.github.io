@@ -32,3 +32,8 @@ body {
 .panel p{
 	margin:10px;
 }
+/* Hanging indent on Design Workshops and Seminars list */
+#seminar li{
+    padding-left: 5em;
+    text-indent: -5em;
+}
