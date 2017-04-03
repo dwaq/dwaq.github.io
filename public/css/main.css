@@ -34,7 +34,7 @@ body {
 }
 /* Set images on homepage to 100% width */
 .home {
-	width: 100%;
+	width: 100% !important;
 }
 /* Hanging indent on Design Workshops and Seminars list */
 #seminar li{
