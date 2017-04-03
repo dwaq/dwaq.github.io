@@ -32,6 +32,10 @@ body {
 .panel p{
 	margin:10px;
 }
+/* Set images on homepage to 100% width */
+.home img{
+	width: 100%;
+}
 /* Hanging indent on Design Workshops and Seminars list */
 #seminar li{
     padding-left: 5em;
