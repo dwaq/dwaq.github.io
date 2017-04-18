@@ -2,10 +2,14 @@
 body {
 	margin-bottom: 70px;
 }
-/* Sets width of view */
+/* Reduce height of bootstrap footer */
+.navbar {
+	min-height: 0px !important;
+}
+/* Sets width of view and padding around icons */
 .container {
 	max-width: 680px;
-	padding: 13px;
+	padding: 7px;
 }
 /* Centers images in footer */
 .center {
