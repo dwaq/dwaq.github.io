@@ -34,4 +34,11 @@ $('.date').click(function() {
       theme        : 'light'    // or dark
     });
   });
+
+  // scroll to tweet
+  // https://stackoverflow.com/a/9348152/7564623
+  $('html,body').animate({
+     scrollTop: $("#tweet").offset().top
+  });
+
 });
