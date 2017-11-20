@@ -17,7 +17,7 @@ $('.date').click(function() {
   var date = this.id;
 
   // open the json file
-  $.getJSON("tweets2017.json", function(id) {
+  $.getJSON("makevember/tweets2017.json", function(id) {
     // get the tweetID based on the date in the json
     var tweetID = id[date];
 
