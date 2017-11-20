@@ -10,8 +10,8 @@
 
 .flex-container>div {
   background-color: #F8F8F8;
-  margin: 10px;
-  padding:20px;
+  margin: 5px;
+  padding: 5px;
   width: 14%;
   font-size: 30px;
 }
@@ -19,12 +19,14 @@
 .month>div {
   background-color: #F1F1F1;
   width: 100%;
-  padding: 0;
+  padding: 0px;
   font-size: 35px;
 }
 
 .week>div {
-  padding: 0;
+  background-color: #F1F1F1;
+  margin: 0px;
+  padding: 0px;
   font-size: 20px;
 }
 
