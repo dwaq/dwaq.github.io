@@ -1,3 +1,12 @@
+// change color of date on hover
+$('.date').hover(
+  function() {
+    $(this).css("background-color", "#47B2F4"); // twitter blue
+  }, function() {
+    $(this).css("background-color", "#F8F8F8");
+  }
+);
+
 $('.date').click(function() {
   // remove old content:
   $("#tweet").empty();
