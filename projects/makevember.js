@@ -1,5 +1,3 @@
-$( ".date" ).hover(
-  function() {
-    $( ".tweet" ).html( $( "<span> ***</span>" ) );
-  }
-);
+$('.date').mouseover(function() {
+  $( ".tweet" ).html(this.id);
+});
