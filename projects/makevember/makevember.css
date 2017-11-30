@@ -35,6 +35,10 @@
   width: 361px !important;
 }
 
+#tweet>p{
+  text-align: center;
+}
+
 #tweet iframe {
   border: none !important;
   box-shadow: none !important;
