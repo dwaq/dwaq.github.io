@@ -1,6 +1,6 @@
 /* Margin bottom by footer height */
 body {
-	margin-bottom: 70px;
+	margin-bottom: 40px;
 }
 /* Reduce height of bootstrap footer */
 .navbar {
