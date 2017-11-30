@@ -1,0 +1,42 @@
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: stretch;
+  width: 100%;
+  text-align: center;
+  background-color: #F1F1F1;
+}
+
+.flex-container>div {
+  background-color: #F8F8F8;
+  margin: 5px;
+  padding: 5px;
+  width: 14%;
+  font-size: 30px;
+}
+
+.month>div {
+  background-color: #F1F1F1;
+  width: 100%;
+  padding: 0px;
+  font-size: 35px;
+}
+
+.week>div {
+  background-color: #F1F1F1;
+  margin: 0px;
+  padding: 0px;
+  font-size: 20px;
+}
+
+#tweet {
+  margin: auto;
+  width: 400px !important;
+  padding:20px;
+}
+
+#tweet iframe {
+  border: none !important;
+  box-shadow: none !important;
+}

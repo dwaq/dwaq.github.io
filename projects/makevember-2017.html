@@ -4,10 +4,11 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Homebrew Gameboy Cartridge</title>
+		<title>#Makevember 2017</title>
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 		<link rel="stylesheet" href="/public/css/main.min.css">
+		<link rel="stylesheet" href="makevember/makevember.css">
 	</head>
 	<body>
 		<div class="container">
@@ -31,8 +32,8 @@
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
 							<ul class="dropdown-menu">
 								<li><a href="/projects/msp430-reaction-game">MSP430 Reaction Game</a></li>
-								<li class="active"><a href="/projects/homebrew-gameboy-cartridge">Homebrew Gameboy Cartridge</a></li>
-								<li><a href="/projects/makevember-2017">#Makevember 2017</a></li>
+								<li><a href="/projects/homebrew-gameboy-cartridge">Homebrew Gameboy Cartridge</a></li>
+								<li class="active"><a href="/projects/makevember-2017">#Makevember 2017</a></li>
 								<li><a href="https://hackaday.io/project/10171-the-open-bar">The Open Bar</a></li>
 							</ul>
 						</li>
@@ -51,111 +52,70 @@
 		</nav>
 
 		<div class="page-header">
-			<h1>Homebrew Gameboy Cartridge</h1>
+			<h1>#Makevember 2017</h1>
+		</div>
+		<p>This is my project log for <a href="https://chickengrylls.wordpress.com/2017/10/31/the-makevember-manifesto/">#makevember</a>, where I made something every day in November.</p>
+
+		<div class="flex-container month">
+			<div>November 2017</div>
+		</div>
+		<div class="flex-container week">
+			<div>Sun</div>
+			<div>Mon</div>
+			<div>Tues</div>
+			<div>Wed</div>
+			<div>Thur</div>
+			<div>Fri</div>
+			<div>Sat</div>
+		</div>
+		<div class="flex-container">
+			<div></div>
+			<div></div>
+			<div></div>
+			<div class="date" id="1">1</div>
+			<div class="date" id="2">2</div>
+			<div class="date" id="3">3</div>
+			<div class="date" id="4">4</div>
+		</div>
+		<div class="flex-container">
+			<div class="date" id="5">5</div>
+			<div class="date" id="6">6</div>
+			<div class="date" id="7">7</div>
+			<div class="date" id="8">8</div>
+			<div class="date" id="9">9</div>
+			<div class="date" id="10">10</div>
+			<div class="date" id="11">11</div>
+		</div>
+		<div class="flex-container">
+			<div class="date" id="12">12</div>
+			<div class="date" id="13">13</div>
+			<div class="date" id="14">14</div>
+			<div class="date" id="15">15</div>
+			<div class="date" id="16">16</div>
+			<div class="date" id="17">17</div>
+			<div class="date" id="18">18</div>
+		</div>
+		<div class="flex-container">
+			<div class="date" id="19">19</div>
+			<div class="date" id="20">20</div>
+			<div class="date" id="21">21</div>
+			<div class="date" id="22">22</div>
+			<div class="date" id="23">23</div>
+			<div class="date" id="24">24</div>
+			<div class="date" id="25">25</div>
+		</div>
+		<div class="flex-container">
+			<div class="date" id="26">26</div>
+			<div class="date" id="27">27</div>
+			<div class="date" id="28">28</div>
+			<div class="date" id="29">29</div>
+			<div class="date" id="30">30</div>
+			<div></div>
+			<div></div>
 		</div>
 
-
-		<div class="page-header">
-			<h2>Introduction Video</h2>
-		</div>
-		<!-- 16:9 aspect ratio -->
-		<div class="embed-responsive embed-responsive-16by9">
-			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kmgT78ODRdU"></iframe>
-		</div>
-
-		<div class="page-header">
-			<h2>Files Needed</h2>
-		</div>
-
-		<p>All digital files that are available, including the schematic, board files, code, and gerbers are located on my <a href="https://github.com/dwaq/Homebrew-Gameboy-Cartridge">GitHub</a>.</p>
-
-		<h4>Notes:</h4>
-		<ul>
-			<li>The schematic and board files were designed in Eagle V6.0. I have created all of the parts for this project. They are located in the <a href="https://github.com/dwaq/Homebrew-Gameboy-Cartridge/blob/master/gameboy.lbr">gameboy.lbr</a> file.</li>
-			<li>I used ITEAD Studio's <a href="http://iteadstudio.com/store/images/produce/PCB/PCB%20prototype/ITeadstudio_DRC.rar">DRC file for Eagle</a> to try and meet their limitations for board design. There are errors from solder mask placement, but the boards turned out fine with them.</li>
-			<li>I used Sparkfun's <a href="http://www.sparkfun.com/tutorial/Eagle-DFM/sfe-gerb274x.cam">CAM file for Eagle</a> to export the board files into gerbers. The gerbers that I sent to ITEAD Studio to be manufactured are located in <a href="https://github.com/dwaq/Homebrew-Gameboy-Cartridge/tree/master/GerberFiles">the GerberFiles folder of my github</a> for anybody that wants their own board without having to go through all the steps to export it theirselves. Keep in mind the drill files use 2:4 Leading.</li>
-		</ul>
-
-		<div class="page-header">
-			<h2>Parts Needed</h2>
-		</div>
-
-		<div class="panel panel-default">
-			<table class="table">
-				<tbody>
-					<tr>
-						<th>Part</th>
-						<th>Quantity</th>
-						<th>Description</th>
-					</tr>
-					<tr>
-						<td>Gameboy Game Cartridge</td>
-						<td>1</td>
-						<td>Must have a MBC1 chip</td>
-					</tr>
-					<tr>
-						<td>AT49F040</td>
-						<td>1</td>
-						<td>4 megabit (512kB) flash chip</td>
-					</tr>
-					<tr>
-						<td>PLCC-44 Socket</td>
-						<td>1</td>
-						<td>Allows removal of flash chip</td>
-					</tr>
-					<tr>
-						<td>PLCC Puller</td>
-						<td>1</td>
-						<td>Eases removal of flash chip</td>
-					</tr>
-					<tr>
-						<td>10nF Capacitor</td>
-						<td>1</td>
-						<td>Decouples the power</td>
-					</tr>
-					<tr>
-						<td>47kΩ Resistor</td>
-						<td>1</td>
-						<td>Pulls line high</td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
-
-		<div class="page-header">
-			<h2>ROM Programmer</h2>
-		</div>
-
-		<img src="homebrew-gameboy-cartridge/TL866.JPG" class="img-responsive" alt="TL866 programmer with PLCC-32 Socket to DIP-32 Adapter">
-
-		<br>
-
-		<p>I recommend a <a href="http://www.autoelectric.cn/EN/TL866_MAIN">TL866 programmer</a> to read and write data on the AT49F040 flash chips. You will also need a <a href="https://www.digikey.com/catalog/en/partgroup/plcc-32-socket-to-dip-32-smt-adapter/64405">PLCC-32 Socket to DIP-32 Adapter</a>. Both of these components are readily available on Amazon, eBay, or other online retailers.</p>
-
-		<div class="page-header">
-			<h2>Want to try one for yourself?</h2>
-		</div>
-
-		<div class="thumbnail no-border">
-			<a href="https://www.tindie.com/products/Dillon1337/homebrew-gameboy-cartridge/">
-				<img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie">
-				<div class="caption">
-					<p>Click here to go to this item's Tindie page.</p>
-				</div>
-			</a>
-		</div>
-
-		<div class="page-header">
-			<h2>License</h2>
-		</div>
-
-		<div class="thumbnail no-border">
-			<a href="https://creativecommons.org/licenses/by/3.0/" rel="license">
-				<img src="https://i.creativecommons.org/l/by/3.0/88x31.png" alt="Creative Commons License">
-				<div class="caption">
-					<p>This work is licensed under a Creative Commons Attribution 3.0 Unported License.</p>
-				</div>
-			</a>
+		<div id="tweet">
+			<p>Click on a date to display that day's project!</p>
 		</div>
 
 		<nav class="navbar navbar-default navbar-fixed-bottom">
@@ -189,6 +149,8 @@
 
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+		<script src="makevember/makevember.js"></script>
+		<script sync src="https://platform.twitter.com/widgets.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
