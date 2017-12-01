@@ -30,6 +30,10 @@
   font-size: 20px;
 }
 
+.date {
+  cursor: pointer;
+}
+
 #tweet {
   margin: auto;
   width: 361px !important;
