@@ -41,7 +41,12 @@ body {
 	width: 100% !important;
 }
 /* Hanging indent on Design Workshops and Seminars list */
+#seminar {
+    padding-left: 0.8em;
+}
+
 #seminar li{
-    padding-left: 5em;
-    text-indent: -5em;
+    padding-left: 7em;
+	text-indent: -6em;
+	list-style-position: inside;
 }
