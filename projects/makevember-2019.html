@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>#Makevember 2017</title>
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+		<link rel="stylesheet" href="/public/css/main.min.css">
+		<link rel="stylesheet" href="makevember/makevember.min.css">
+	</head>
+	<body>
+		<div class="container">
+		<!-- Static navbar -->
+		<nav class="navbar navbar-default">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="/">Dillon Nichols</a>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+						<li><a href="/">Home</a></li>
+						<li><a href="https://mylifeasa.tinkerer.us/">Blog</a></li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="/projects/msp430-reaction-game">MSP430 Reaction Game</a></li>
+								<li><a href="/projects/homebrew-gameboy-cartridge">Homebrew Gameboy Cartridge</a></li>
+								<li class="active"><a href="/projects/makevember-2017">#Makevember 2017</a></li>
+								<li><a href="/projects/external-projects">External Projects</a></li>
+							</ul>
+						</li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Qualifications <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="/qualifications/penn-state-education">Penn State Education</a></li>
+								<li><a href="/qualifications/engineering-experiences">Engineering Experiences</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+				<!--/.nav-collapse -->
+			</div>
+			<!--/.container-fluid -->
+		</nav>
+
+		<div class="page-header">
+			<h1>#Makevember 2017</h1>
+		</div>
+		<p>This is my project log for <a href="https://chickengrylls.wordpress.com/2017/10/31/the-makevember-manifesto/">#makevember</a>, where I made something every day in November.</p>
+
+		<div class="flex-container month">
+			<div>November 2017</div>
+		</div>
+		<div class="flex-container week">
+			<div>Sun</div>
+			<div>Mon</div>
+			<div>Tues</div>
+			<div>Wed</div>
+			<div>Thur</div>
+			<div>Fri</div>
+			<div>Sat</div>
+		</div>
+		<div class="flex-container">
+			<div></div>
+			<div></div>
+			<div></div>
+			<div class="date" id="1">1</div>
+			<div class="date" id="2">2</div>
+			<div class="date" id="3">3</div>
+			<div class="date" id="4">4</div>
+		</div>
+		<div class="flex-container">
+			<div class="date" id="5">5</div>
+			<div class="date" id="6">6</div>
+			<div class="date" id="7">7</div>
+			<div class="date" id="8">8</div>
+			<div class="date" id="9">9</div>
+			<div class="date" id="10">10</div>
+			<div class="date" id="11">11</div>
+		</div>
+		<div class="flex-container">
+			<div class="date" id="12">12</div>
+			<div class="date" id="13">13</div>
+			<div class="date" id="14">14</div>
+			<div class="date" id="15">15</div>
+			<div class="date" id="16">16</div>
+			<div class="date" id="17">17</div>
+			<div class="date" id="18">18</div>
+		</div>
+		<div class="flex-container">
+			<div class="date" id="19">19</div>
+			<div class="date" id="20">20</div>
+			<div class="date" id="21">21</div>
+			<div class="date" id="22">22</div>
+			<div class="date" id="23">23</div>
+			<div class="date" id="24">24</div>
+			<div class="date" id="25">25</div>
+		</div>
+		<div class="flex-container">
+			<div class="date" id="26">26</div>
+			<div class="date" id="27">27</div>
+			<div class="date" id="28">28</div>
+			<div class="date" id="29">29</div>
+			<div class="date" id="30">30</div>
+			<div></div>
+			<div></div>
+		</div>
+
+		<div id="tweet">
+			<p>Click on a date to display that day's project!</p>
+		</div>
+
+		<nav class="navbar navbar-default navbar-fixed-bottom">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-3">
+						<a href="https://twitter.com/Dillon1337">
+							<img src="/public/images/twitter-bird.svg" alt="Twitter" class="media-object center" height="28" width="28">
+						</a>
+					</div>
+					<div class="col-xs-3">
+						<a href="https://github.com/dwaq/">
+							<img src="/public/images/github-mark.svg" alt="GitHub" class="media-object center" height="28" width="28">
+						</a>
+					</div>
+					<div class="col-xs-3">
+						<a href="https://mylifeasa.tinkerer.us/">
+							<img src="/public/images/medium.svg" alt="Medium" class="media-object center" height="28" width="28">
+						</a>
+					</div>
+					<div class="col-xs-3">
+						<a href="https://www.linkedin.com/in/dillon-nichols-82244238">
+							<img src="/public/images/linkedin.svg" alt="LinkedIn" class="media-object center" height="28" width="28">
+						</a>
+					</div>
+				</div>
+			</div>
+		</nav>
+
+		</div> <!-- container -->
+
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+		<script src="makevember/makevember.min.js"></script>
+		<script sync src="https://platform.twitter.com/widgets.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-83214941-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+	</body>
+</html>
