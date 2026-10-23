@@ -1,0 +1,81 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/MV-H4-8nu0sogsJhtwLUQdsJcRg\"",
+  "id" : "z122ehnxhyf4slchu04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "0591FC10-4A15-4E7E-A3E9-E41FD57F97F4.JPG",
+      "fullImage" : {
+        "height" : 512,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-s6bixmbnVjc/T0GizDEVXYI/AAAAAAAAF3w/NfLPe_BxYS0/w120-h120/0591FC10-4A15-4E7E-A3E9-E41FD57F97F4.JPG",
+        "width" : 512
+      },
+      "id" : "107457342204653676533.5711024800363011458",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-s6bixmbnVjc/T0GizDEVXYI/AAAAAAAAF3w/NfLPe_BxYS0/w506-h750/0591FC10-4A15-4E7E-A3E9-E41FD57F97F4.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5711030473771618417/5711024800363011458"
+    } ],
+    "content" : "I found out that my roommate&#39;s Fluke multimeter could measure capacitance (something that my cheap multimeter can&#39;t do) so I measured the two capicitors on the Game Boy cartridge PCB. They have 5 colored bands on them, but I couldn&#39;t find anywhere online that explained this color code on capacitors, so I had to measure them (although I did expect them to be 10nF because of the 103 label on the PCB). They seem to be decoupling capicitors, because they are placed in parallel between the VDD and GND planes on the PCB. On one cartridge I measured the capicators as 8.5nF and 8.4nF (strange that they&#39;re so low and similarly-valued), and on my other cartridge they are 9.9nF and 10.5nF. In parallel that makes them about 20nF. I should be fine with only one 20nF capacitor on my board. I&#39;m not really sure why they chose to put two of the same value capacitors on one board. I would think that would make the boards more expensive to produce, so there would have to be a logical reason for it. Does anybody have any ideas why Nintendo would do this?",
+    "objectType" : "note",
+    "originalContent" : "I found out that my roommate's Fluke multimeter could measure capacitance (something that my cheap multimeter can't do) so I measured the two capicitors on the Game Boy cartridge PCB. They have 5 colored bands on them, but I couldn't find anywhere online that explained this color code on capacitors, so I had to measure them (although I did expect them to be 10nF because of the 103 label on the PCB). They seem to be decoupling capicitors, because they are placed in parallel between the VDD and GND planes on the PCB. On one cartridge I measured the capicators as 8.5nF and 8.4nF (strange that they're so low and similarly-valued), and on my other cartridge they are 9.9nF and 10.5nF. In parallel that makes them about 20nF. I should be fine with only one 20nF capacitor on my board. I'm not really sure why they chose to put two of the same value capacitors on one board. I would think that would make the boards more expensive to produce, so there would have to be a logical reason for it. Does anybody have any ideas why Nintendo would do this?",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/Y9wUPWnnpo5"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-02-20T01:55:02.613Z",
+  "title" : "I found out that my roommate's Fluke multimeter could measure capacitance (something that my cheap multimeter...",
+  "updated" : "2012-02-20T01:55:02.613Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/Y9wUPWnnpo5",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

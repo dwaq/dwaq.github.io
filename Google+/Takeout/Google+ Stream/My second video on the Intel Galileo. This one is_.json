@@ -1,0 +1,159 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "annotation" : "At first I thought this would be very interesting, but it seems like it is just a over-powered Arduino with some internet capabilities thrown in. Anyone see the benefit of the Intel Galileo running Windows over a Raspberry Pi or Arduino with Ethernet shield?",
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/0b3GaGULB9TXdPJuwOL-egkGXnw\"",
+  "id" : "z12acbjatynfz5wbu04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "displayName" : "Bret Stateham",
+      "id" : "109435216621223486088",
+      "image" : {
+        "url" : "https://lh6.googleusercontent.com/-V3isqeO_mmk/AAAAAAAAAAI/AAAAAAAAARs/A0jU0q2kI5w/photo.jpg?sz=50"
+      },
+      "url" : "https://plus.google.com/109435216621223486088",
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "youtube"
+      } ],
+      "content" : "This is the second installment in my Intel Galileo series.  In this video I cover in nitty-gritty detail how to get Windows running on your Galileo, and then how to write code and run it!  \n\nYou can get the source files for the entire series from:\nhttp://aka.ms/IoTSource\n\nOr download a .zip file with the latest version of the files from: \nhttp://aka.ms/IoTZip\n\nAnd finally, watch all the other videos here:\nhttp://aka.ms/IoTVids",
+      "displayName" : "Getting Started with Windows on the Intel Galileo",
+      "embed" : {
+        "type" : "application/x-shockwave-flash",
+        "url" : "https://www.youtube.com/v/yrRMomesBKM?version=3&autohide=1&autoplay=1&feature=autoshare-uc"
+      },
+      "image" : {
+        "height" : 284,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/K9Myp_30uS6ssaGdYsRqa5oUKv5k80t4ILn-JgI_rFaVX_jAepT-eWhlMcqMbQikknPdk6ccmatt0DSkRX06=w506-h284-n",
+        "width" : 506
+      },
+      "objectType" : "video",
+      "url" : "https://www.youtube.com/watch?v=yrRMomesBKM&feature=autoshare"
+    } ],
+    "content" : "My second video on the Intel Galileo. This one is about running Windows on it!  <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23winbuilder\">#winbuilder</a> <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23IoT\">#IoT</a>",
+    "id" : "z13tz1rhbuz5w1ixr04cjpxisnyrvbprnts0k",
+    "objectType" : "activity",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Steven Mejia",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Tl-EUSBSBpOx4d2Zr4UwObCfgtg\"",
+        "id" : "102590178370342083760",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-mrkn_EMdYZI/AAAAAAAAAAI/AAAAAAAAAAA/2Lca5SldDxw/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102590178370342083760"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Bret Stateham",
+          "id" : "109435216621223486088",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-V3isqeO_mmk/AAAAAAAAAAI/AAAAAAAAARs/A0jU0q2kI5w/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/109435216621223486088",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/4grJbc19eakWD8YtMnxmBTe6554\"",
+        "id" : "z12acbjatynfz5wbu04cexrqywbvcrqgizk0k.1410452577338201",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/107457342204653676533\" oid=\"107457342204653676533\">Dillon Nichols</a></span> Great question.  The &quot;Windows on Devices&quot; is in &quot;beta&quot; phase if you will. The current Windows release is just a first pass.  The team is actively working on updated versions of windows for devices, as well as already supporting more boards than just the Galileo (like the minnowboard max, and the Sharks Cove hardware dev boards).  The result is that existing Win32 as well as .NET devs will have the ability to create applications that run across a variety of devices, not just on an Arduino, or a Pi.  The steps I walk through here are to help early adopters use the current release of Windows for devices, but the OS, tool chain, and language support should expand greatly in the future. ",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2014-09-11T16:22:57.338Z",
+        "statusForViewer" : {
+          "isPlusOned" : true,
+          "canUpdate" : false
+        },
+        "updated" : "2014-09-11T16:22:57.338Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "sin6city6stories6",
+          "id" : "102231854802411620950",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/102231854802411620950",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/yFYOXKQ1tN6JbN7GtPsDWYESyOA\"",
+        "id" : "z12acbjatynfz5wbu04cexrqywbvcrqgizk0k.1411876393595980",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/109435216621223486088\" oid=\"109435216621223486088\">Bret Stateham</a></span><br /> Is it possible to connect the Galileo to a monitor and actually have a Desktop mode of windows running? Would it be possible to do something like install a program on the Galileo and run it, for example could I install spotify while it&#39;s running windows on the Galileo?",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2014-09-28T03:53:13.595Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2014-09-28T03:53:13.595Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 2
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/109435216621223486088/posts/XgqfubqaCLr"
+  },
+  "provider" : {
+    "title" : "Reshared Post"
+  },
+  "published" : "2014-09-05T13:59:01.181Z",
+  "title" : "My second video on the Intel Galileo. This one is about running Windows on it! #winbuilder #IoT",
+  "updated" : "2014-09-05T13:59:01.181Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/ixsSZSWpyBZ",
+  "verb" : "share",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

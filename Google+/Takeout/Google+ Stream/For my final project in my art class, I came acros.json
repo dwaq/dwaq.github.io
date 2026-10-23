@@ -1,0 +1,145 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/MkGPRDF08kBzLs_q2CnNr9dapvs\"",
+  "id" : "z12axbqyzvv3ghjhj04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5872005516652826673",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 337,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-bXfCUbOIuX8/UX2N6MIQACI/AAAAAAAAQhs/drEo6SkXAOI/w337-h337-p/giant%2Bmonster.jpg",
+          "width" : 337
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5872005516652826673/5872005519988752418?authkey=CNDvqteS0tWAhAE"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-z3jSojU0NR4/UX2N6DaSuJI/AAAAAAAAQhw/6C__2RfcWBk/w168-h168-p/spider%2Band%2Bdog.jpg",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5872005516652826673/5872005517648509074?authkey=CNDvqteS0tWAhAE"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-afYjzj0lgOk/UX2N6NUtsMI/AAAAAAAAQh0/ymgWzvpbgr8/w168-h168-p/father%2Band%2Bson.jpg",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5872005516652826673/5872005520309465282?authkey=CNDvqteS0tWAhAE"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5872005516652826673?authkey=CNDvqteS0tWAhAE"
+    } ],
+    "content" : "For my final project in my art class, I came across some pieces of art made out of electronic components. After looking through the boxes of parts I had, I found a handful of components that I believed would make nice objects. I spent the rest of the night experimenting with what I had and came out with four different scenes: a dog, a spider, a giant monster, and a father and son. I chose to leave the component markings facing towards the viewer, because I am always interested in knowing what a part is when I see it. The downside of this is that some sculptures have an array of colors that don&#39;t really match. The spider is my favorite because it is the most complex and looks the closest to the actual object. It is interesting seeing these parts in an artistic way and I’m sure I will keep my eye out for any oddly shaped electronic components in the future. <br />The spider and the dog are about the same size which leads to a base which is approximately 40mm square with a height of 30 mm. The monster is 130 mm tall, the father is 55 mm tall, and the son is 35 mm tall.",
+    "objectType" : "note",
+    "originalContent" : "For my final project in my art class, I came across some pieces of art made out of electronic components. After looking through the boxes of parts I had, I found a handful of components that I believed would make nice objects. I spent the rest of the night experimenting with what I had and came out with four different scenes: a dog, a spider, a giant monster, and a father and son. I chose to leave the component markings facing towards the viewer, because I am always interested in knowing what a part is when I see it. The downside of this is that some sculptures have an array of colors that don't really match. The spider is my favorite because it is the most complex and looks the closest to the actual object. It is interesting seeing these parts in an artistic way and I’m sure I will keep my eye out for any oddly shaped electronic components in the future. \nThe spider and the dog are about the same size which leads to a base which is approximately 40mm square with a height of 30 mm. The monster is 130 mm tall, the father is 55 mm tall, and the son is 35 mm tall.",
+    "plusoners" : {
+      "totalItems" : 5,
+      "items" : [ {
+        "displayName" : "Shehraz Sheikh (chocolate)",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/2a4W-xS-71dKpXJ-w0mbt0sziKI\"",
+        "id" : "113716821784190469421",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-oVpwI8dWF34/AAAAAAAAAAI/AAAAAAAAAAA/4QjTfjn4lx8/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/113716821784190469421"
+      }, {
+        "displayName" : "Sara Anderson",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/N2Bnh5nAMIUlJkQ3jc3IgrL-qdk\"",
+        "id" : "102373629843438650552",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-6_rAPJOG-Vw/AAAAAAAAAAI/AAAAAAAAAAA/9kB6SbuPUtg/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102373629843438650552"
+      }, {
+        "displayName" : "Kris Kortright",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Sqwlxyp4SJVx92Sbb6nJHbfhMmk\"",
+        "id" : "117228107982719398401",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Wjiqs-p9Yn8/AAAAAAAAAAI/AAAAAAAAAAA/TfWSQ3HWPaA/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117228107982719398401"
+      }, {
+        "displayName" : "Justin Pierce",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/hLqVVaDOOnDybsZ5Jhk-EWiwdhw\"",
+        "id" : "101106064759965886947",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-5iI_vbHhhW8/AAAAAAAAAAI/AAAAAAAAAAA/ZR9xWdElQu8/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/101106064759965886947"
+      }, {
+        "displayName" : "Clifford Kasper",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Dg0jCRbEfQN4obN4lBzUE-4X-Os\"",
+        "id" : "102024819361829647116",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-_UstqT_YXE4/AAAAAAAAAAI/AAAAAAAAAAA/1oC1KRHKelM/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102024819361829647116"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/WMPHbLfwwSU"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-04-28T21:01:52.971Z",
+  "title" : "For my final project in my art class, I came across some pieces of art made out of electronic components...",
+  "updated" : "2013-04-28T21:01:52.971Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/WMPHbLfwwSU",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

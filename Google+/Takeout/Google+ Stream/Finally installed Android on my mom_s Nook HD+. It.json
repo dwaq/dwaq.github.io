@@ -1,0 +1,123 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/cdVU6qPTAbQy88KD77nD7kvm5dk\"",
+  "id" : "z13sjnhglqnyjdaon04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "IMG_6528.JPG",
+      "displayName" : "Finally installed Android on my mom's Nook HD+. It took me multiple nights to finally find the right tutorial that worked for me. It seems that CyanogenMod development goes so fast by the time somebody posts a tutorial, it's already out of date. I'm liking it so far. It's definitely much improved over the stock Nook operating system. I have it installed to an SD card now and it would probably be much faster installed on the internal EMMC but I'm not pushing my luck on that yet.",
+      "fullImage" : {
+        "height" : 2448,
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-rPZhgFD8i50/U0NpBKut7sI/AAAAAAAAWl8/u5juTqcGeUw/w3264-h2448/IMG_6528.JPG",
+        "width" : 3264
+      },
+      "id" : "107457342204653676533.5999754597368721090",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-rPZhgFD8i50/U0NpBKut7sI/AAAAAAAAWl8/u5juTqcGeUw/w506-h750/IMG_6528.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5999754595594070289/5999754597368721090"
+    } ],
+    "content" : "Finally installed Android on my mom&#39;s Nook HD+. It took me multiple nights to finally find the right tutorial that worked for me. It seems that CyanogenMod development goes so fast by the time somebody posts a tutorial, it&#39;s already out of date. I&#39;m liking it so far. It&#39;s definitely much improved over the stock Nook operating system. I have it installed to an SD card now and it would probably be much faster installed on the internal EMMC but I&#39;m not pushing my luck on that yet. ",
+    "objectType" : "note",
+    "originalContent" : "Finally installed Android on my mom's Nook HD+. It took me multiple nights to finally find the right tutorial that worked for me. It seems that CyanogenMod development goes so fast by the time somebody posts a tutorial, it's already out of date. I'm liking it so far. It's definitely much improved over the stock Nook operating system. I have it installed to an SD card now and it would probably be much faster installed on the internal EMMC but I'm not pushing my luck on that yet. ",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Joe Vidal",
+          "id" : "106556490316663049498",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-0YXIrr-o79I/AAAAAAAAAAI/AAAAAAAACFQ/8FPPQeohBoE/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/106556490316663049498",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/AEosw8SYAYuZhSf7w5E2PcyK6zw\"",
+        "id" : "z13sjnhglqnyjdaon04cexrqywbvcrqgizk0k.1397861774715378",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Congrats! This is such a great little &quot;sleeper hit&quot; of a tablet. I got great performance improvement when I ditched the BN stock software and went to CM10.2  -- holding off on Kit Kat for now (it&#39;s almost ready for prime time.)",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2014-04-18T22:56:14.715Z",
+        "statusForViewer" : {
+          "isPlusOned" : true,
+          "canUpdate" : false
+        },
+        "updated" : "2014-04-18T22:56:14.715Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 1
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/Rd8C2bZQd2F"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-04-08T03:12:05.194Z",
+  "title" : "Finally installed Android on my mom's Nook HD+. It took me multiple nights to finally find the right...",
+  "updated" : "2014-04-08T03:12:05.194Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/Rd8C2bZQd2F",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

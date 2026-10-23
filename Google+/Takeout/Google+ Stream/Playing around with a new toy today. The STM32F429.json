@@ -1,0 +1,185 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/MPsErfFqVDfFd2uVijtfX28fuCE\"",
+  "id" : "z13mzhogeyvlixi3u22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "STM32F429 Discovery board",
+      "id" : "107457342204653676533.6023667822218402545",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-IPXf2eMQ374/U5hd-EX-6UI/AAAAAAAAXUY/bwAGAplKqNE/w379-h379-p/IMG_6738.JPG",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6023667822218402545/6023667822515644738"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-Y6fPwgLTj80/U5hese-TPZI/AAAAAAAAXUo/8K1Kz27qYls/w126-h126-p/IMG_6746.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6023667822218402545/6023668619929664914"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-ARvpbS_aG3U/U5hd-EpQkyI/AAAAAAAAXUs/ksI2Ox97UWg/w126-h126-p/IMG_6741.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6023667822218402545/6023667822588105506"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-my9SyL09ZjI/U5hd-NFF52I/AAAAAAAAXUw/q1cVOvTNmNM/w126-h126-p/IMG_6739.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6023667822218402545/6023667824852330338"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-zJJjSGolCts/U5hd-GqCXhI/AAAAAAAAXU0/v5P1LDc9yyo/w126-h126-p/IMG_6740.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6023667822218402545/6023667823128239634"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-Ih9kUs66hZU/U5hd-HIFDTI/AAAAAAAAXU4/adRXE0_oL58/w126-h126-p/IMG_6743.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6023667822218402545/6023667823254244658"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-OAGdjDXJfJA/U5hd-JfCreI/AAAAAAAAXU8/374zM5FCA3g/w126-h126-p/IMG_6745.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6023667822218402545/6023667823887429090"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/6023667822218402545"
+    } ],
+    "content" : "Playing around with a new toy today. The STM32F429 Discovery board. Too powerful for our application, but it&#39;s the only family of devices that currently supports the STM32CubeMX GUI configuration tool that should help to set things up quicker.",
+    "objectType" : "note",
+    "originalContent" : "Playing around with a new toy today. The STM32F429 Discovery board. Too powerful for our application, but it's the only family of devices that currently supports the STM32CubeMX GUI configuration tool that should help to set things up quicker.",
+    "plusoners" : {
+      "totalItems" : 2,
+      "items" : [ {
+        "displayName" : "Jeronimo Avelar Filho",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/-o54eeivMslcU8cNln2kKBexrbM\"",
+        "id" : "105828292850714221005",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-hF3mib0l4s0/AAAAAAAAAAI/AAAAAAAAAAA/TqBMUXj7Ud8/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/105828292850714221005"
+      }, {
+        "displayName" : "alba azzurra",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/kR2v66VFI1pj5KYDSXK253CYGnc\"",
+        "id" : "108296596836911961252",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-8W-1kj38IZc/AAAAAAAAAAI/AAAAAAAAAAA/fTZyqa-Zmmk/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/108296596836911961252"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Petr Š.",
+          "id" : "100228860503687960911",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-npzKsy0jVUY/AAAAAAAAAAI/AAAAAAAABQc/TMwGCRJVKaY/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100228860503687960911",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/l51iQ1miAuf-Qa5Q-4HWSEr9xw8\"",
+        "id" : "z13mzhogeyvlixi3u22rhxrr1yu5xn3rw04.1402495346638382",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "good luck :-)",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2014-06-11T14:02:26.638Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2014-06-11T14:02:26.638Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 1
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/MUs3ATbXzA8"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-06-11T13:51:25.319Z",
+  "title" : "Playing around with a new toy today. The STM32F429 Discovery board. Too powerful for our application...",
+  "updated" : "2014-06-11T13:51:25.319Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/MUs3ATbXzA8",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

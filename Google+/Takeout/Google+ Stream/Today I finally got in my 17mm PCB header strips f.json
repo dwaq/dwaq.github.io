@@ -1,0 +1,99 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/JfCj5R65yiYlWQsTwEKECjcKZTc\"",
+  "id" : "z124zbdriovzx5geh22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5709219654733770945",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 337,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-T8O08Xe122g/TzrxTu8dtGI/AAAAAAAAEpE/WsK0Z7vKaBo/w337-h337-p/8AC558EE-BB6C-42C8-A9A7-010B487FFE19.JPG",
+          "width" : 337
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5709219654733770945/5709140798966969442"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-2nJi7ZDeuXs/TzrxXgOD1qI/AAAAAAAAEpM/_lEixWx5uKE/w168-h168-p/E1022516-D4AA-4CBE-91FE-62B74194FE9C.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5709219654733770945/5709140863733716642"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-Z4PE1QR1rLI/TzrxbMpER_I/AAAAAAAAEpU/x8ytJ2tKEmQ/w168-h168-p/6EDADD3E-5EC2-48C0-B4F9-E6BAFBDE7FAA.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5709219654733770945/5709140927197759474"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5709219654733770945"
+    } ],
+    "content" : "Today I finally got in my 17mm PCB header strips from an eBay order that I placed over a month ago. You can see from the first picture that they are a tad bit longer than typical headers. I got these so I could finally put a header on my 16x2 character LCD. I wanted the longer ones so I had the option of using female-to-female jumper wires (which I love) or a breadboard to connect the LCD to a circuit. They turned out to be just the right length to do either option. It took me a few tries to figure out the best way to solder these in, but in the end, it was best just to stick the soldering iron in between the headers so I could heat the pad up in front and behind the header to get the solder to stick the best.",
+    "objectType" : "note",
+    "originalContent" : "Today I finally got in my 17mm PCB header strips from an eBay order that I placed over a month ago. You can see from the first picture that they are a tad bit longer than typical headers. I got these so I could finally put a header on my 16x2 character LCD. I wanted the longer ones so I had the option of using female-to-female jumper wires (which I love) or a breadboard to connect the LCD to a circuit. They turned out to be just the right length to do either option. It took me a few tries to figure out the best way to solder these in, but in the end, it was best just to stick the soldering iron in between the headers so I could heat the pad up in front and behind the header to get the solder to stick the best.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/Dwm3UkJEMgk"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-02-15T04:48:06.808Z",
+  "title" : "Today I finally got in my 17mm PCB header strips from an eBay order that I placed over a month ago. ...",
+  "updated" : "2012-02-15T04:50:38.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/Dwm3UkJEMgk",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

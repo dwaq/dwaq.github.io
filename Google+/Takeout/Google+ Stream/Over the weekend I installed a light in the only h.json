@@ -1,0 +1,91 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/HAyXHwvFb0w6SAkiqC_YHx4fiKg\"",
+  "id" : "z131s5ra5mbugviyh04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "0E97F650-574E-489C-A31C-7DC1509B49E7.JPG",
+      "fullImage" : {
+        "height" : 1536,
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-s9a0OTTEoqc/UP4Ppe0Vn8I/AAAAAAAANxw/DRreWJ92Bb4/s0-d/0E97F650-574E-489C-A31C-7DC1509B49E7.JPG",
+        "width" : 2048
+      },
+      "id" : "107457342204653676533.5836119372440379330",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-s9a0OTTEoqc/UP4Ppe0Vn8I/AAAAAAAANxw/DRreWJ92Bb4/w506-h750/0E97F650-574E-489C-A31C-7DC1509B49E7.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5836119371286153169/5836119372440379330?authkey=CJ3oivKOr_qSUA"
+    } ],
+    "content" : "Over the weekend I installed a light in the only hallway closet. My dad bought this light back in 2007 hoping to get around to it, but never did. They&#39;ve been using flashlights or battery-powered lights that stick on the wall for the past few decades.<br /> <br />It wasn&#39;t too bad to install, but running the power was a pain, because the only available power around it is only on when the lights in the attic are on. For that reason I had to run the power from the attic down into the basement, into and around some duct work. <br /><br />All that&#39;s missing is a switch. I&#39;ve been working on an automatic switch for this closet for quite some time. Now that the light is installed, I have to finish that project up ASAP because what good is a light without a light switch?",
+    "objectType" : "note",
+    "originalContent" : "Over the weekend I installed a light in the only hallway closet. My dad bought this light back in 2007 hoping to get around to it, but never did. They've been using flashlights or battery-powered lights that stick on the wall for the past few decades.\n \nIt wasn't too bad to install, but running the power was a pain, because the only available power around it is only on when the lights in the attic are on. For that reason I had to run the power from the attic down into the basement, into and around some duct work. \n\nAll that's missing is a switch. I've been working on an automatic switch for this closet for quite some time. Now that the light is installed, I have to finish that project up ASAP because what good is a light without a light switch?",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Will Trego",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/wtzLRz4HANCUdaUyDxsee94LUWY\"",
+        "id" : "115036910675509105196",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-m76G17vlzSY/AAAAAAAAAAI/AAAAAAAAAAA/RYYuvD4tRZI/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/115036910675509105196"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/bNGvjkfua6W"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-01-22T04:03:51.066Z",
+  "title" : "Over the weekend I installed a light in the only hallway closet. My dad bought this light back in 2007...",
+  "updated" : "2013-01-22T04:05:39.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/bNGvjkfua6W",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

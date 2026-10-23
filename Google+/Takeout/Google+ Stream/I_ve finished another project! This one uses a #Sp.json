@@ -1,0 +1,96 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/vINwnWGOORPoewGprmL1q8RgzSw\"",
+  "id" : "z12ej1cprob0gvwy204cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "     There is a light switch on the wall at the entrance of the bedroom in my apartment. You would imagine it would turn on the bedroom lights, but since there are not ceiling lights in the bedroom, it can't do that. What it ...",
+      "displayName" : "Spark Lamp",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://3.bp.blogspot.com/-Ia1BFM-x8Fo/VKF-8xZzkPI/AAAAAAAAcH0/yi0nS9GpS-0/s1600/IMG_7495.JPG"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://3.bp.blogspot.com/-Ia1BFM-x8Fo/VKF-8xZzkPI/AAAAAAAAcH0/yi0nS9GpS-0/w506-h910/IMG_7495.JPG",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://tinkeringetc.blogspot.com/2015/01/spark-lamp.html"
+    } ],
+    "content" : "I&#39;ve finished another project! This one uses a  <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Spark\">#Spark</a>  Core for the microcontroller and a 433Mhz transmitter to talk to some lamps connected to wireless relays. I can switch the lamps on from the wall light switch, or switches on each nightstand in the bedroom. Plus the Spark&#39;s  <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23IFTTT\">#IFTTT</a>  connectivity allows for some neat features I&#39;ve recently implemented.",
+    "objectType" : "note",
+    "originalContent" : "I've finished another project! This one uses a  #Spark  Core for the microcontroller and a 433Mhz transmitter to talk to some lamps connected to wireless relays. I can switch the lamps on from the wall light switch, or switches on each nightstand in the bedroom. Plus the Spark's  #IFTTT  connectivity allows for some neat features I've recently implemented.",
+    "plusoners" : {
+      "totalItems" : 2,
+      "items" : [ {
+        "displayName" : "C. De Vries",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Yr6UYXjPRXupi0vx4H6RyDVFxa0\"",
+        "id" : "117609490366759844439",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-IsR8j9KrYvE/AAAAAAAAAAI/AAAAAAAAAAA/PVw3KQq4nPE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117609490366759844439"
+      }, {
+        "displayName" : "Bradley Michaels .",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/wXgRn7_WA-FznTJuo80rAnI6qwc\"",
+        "id" : "117382373789365150646",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-fPTkaojDnvE/AAAAAAAAAAI/AAAAAAAAAAA/R468Z1cSlOE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117382373789365150646"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/ZbogbXjjn4b"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2015-01-27T16:30:13.930Z",
+  "title" : "I've finished another project! This one uses a #Spark  Core for the microcontroller and a 433Mhz transmitter...",
+  "updated" : "2015-01-27T16:30:13.930Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/ZbogbXjjn4b",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

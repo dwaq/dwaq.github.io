@@ -1,0 +1,119 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/V9uYDvxLsa8wsm-yeynlbV5BVBI\"",
+  "id" : "z12ijd1wkquozhl3m22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "IMG_5329.JPG",
+      "displayName" : "Tonight I updated the software on my Raspberry Pi and went through the \"Dive into JeeNodes\" series again (http://jeelabs.org/tag/dijn/). The other day I discovered the Pushover app (https://pushover.net/). I'm going to combine the two to create a security system for my apartment. I'm at the early stages of the design but so far things are looking pretty promising. I'll keep yinz updated as I move along.",
+      "fullImage" : {
+        "height" : 1536,
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-fuSy36V6cl4/UfXOlSIySYI/AAAAAAAAS3o/qytJPb2LF_0/s1600/photo.jpg",
+        "width" : 2048
+      },
+      "id" : "107457342204653676533.5905853626285443458",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-fuSy36V6cl4/UfXOlSIySYI/AAAAAAAAS3o/qytJPb2LF_0/w506-h750/photo.jpg"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5905853628658016369/5905853626285443458"
+    } ],
+    "content" : "Tonight I updated the software on my Raspberry Pi and went through the &quot;Dive into JeeNodes&quot; series again (<a href=\"http://jeelabs.org/tag/dijn/\" class=\"ot-anchor\">http://jeelabs.org/tag/dijn/</a>). The other day I discovered the Pushover app (<a href=\"https://pushover.net/\" class=\"ot-anchor\">https://pushover.net/</a>). I&#39;m going to combine the two to create a security system for my apartment. I&#39;m at the early stages of the design but so far things are looking pretty promising.   I&#39;ll keep yinz updated as I move along. ",
+    "objectType" : "note",
+    "originalContent" : "Tonight I updated the software on my Raspberry Pi and went through the \"Dive into JeeNodes\" series again (http://jeelabs.org/tag/dijn/). The other day I discovered the Pushover app (https://pushover.net/). I'm going to combine the two to create a security system for my apartment. I'm at the early stages of the design but so far things are looking pretty promising.   I'll keep yinz updated as I move along. ",
+    "plusoners" : {
+      "totalItems" : 4,
+      "items" : [ {
+        "displayName" : "Eswar Yanamala",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Twf7HvvR_S3opHx09bU9DWyLPU8\"",
+        "id" : "100675469784978081868",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-slkkzuPVyWs/AAAAAAAAAAI/AAAAAAAAAAA/JsdwpALfdtA/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/100675469784978081868"
+      }, {
+        "displayName" : "Bryan Rentoul",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/I2WJmLrik0j0xXBUO_QTUewSHAk\"",
+        "id" : "115482461410471042241",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-CpJn8JnaPck/AAAAAAAAAAI/AAAAAAAAAAA/fI2kd8dEkA4/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/115482461410471042241"
+      }, {
+        "displayName" : "nick Grieco",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/9aNiJ2JkRXoWsXMNdSJ-1SH4DgA\"",
+        "id" : "111270724215802787195",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-xXWEs6beeb4/AAAAAAAAAAI/AAAAAAAAAAA/dU7PhJBkdE0/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/111270724215802787195"
+      }, {
+        "displayName" : "Prithwiraj Sengupta",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/TvFq4yt3ksBH-3YNGVLjDYXslN4\"",
+        "id" : "112192574506145300420",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-iol4gZDo4bw/AAAAAAAAAAI/AAAAAAAAAAA/kBQDDXsp4Js/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/112192574506145300420"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/LAAfdE4PJuq"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-07-29T02:08:22.125Z",
+  "title" : "Tonight I updated the software on my Raspberry Pi and went through the \"Dive into JeeNodes\" series again...",
+  "updated" : "2013-07-29T02:08:22.125Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/LAAfdE4PJuq",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,76 @@
+{
+  "access" : {
+    "accessSummary" : "Bluetooth Low Energy (Projects)",
+    "description" : "Bluetooth Low Energy (Projects)",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/YIRZDYdEL6-xF_EwPIOlDR1rDig\"",
+  "id" : "z13yt5c4jx2wv5qpp04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "displayName" : "Find Me WWDC Via Passbook",
+      "objectType" : "article",
+      "url" : "http://carpeaqua.com/2014/05/30/find-me-wwdc-via-passbook/"
+    } ],
+    "content" : "An interesting use of iBeacon technology for a location-aware business card",
+    "objectType" : "note",
+    "originalContent" : "An interesting use of iBeacon technology for a location-aware business card",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Kirstin Hancock",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/PQFZyiQmGpS9GeOzslKCGUlapvk\"",
+        "id" : "106114358967082262584",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-3Rk87hh_z2s/AAAAAAAAAAI/AAAAAAAAAAA/U5xHv0DpszQ/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/106114358967082262584"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/XPn7WQoeDLx"
+  },
+  "provider" : {
+    "title" : "Community"
+  },
+  "published" : "2014-06-04T15:46:36.306Z",
+  "title" : "An interesting use of iBeacon technology for a location-aware business card",
+  "updated" : "2014-06-04T15:46:36.306Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/XPn7WQoeDLx",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

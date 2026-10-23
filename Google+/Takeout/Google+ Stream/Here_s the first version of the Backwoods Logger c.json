@@ -1,0 +1,99 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/3ODlSk96ZXGmPtSpw-23VuQPnFw\"",
+  "id" : "z12ejxijjmb2gvyxh04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "2014-01-04",
+      "id" : "107457342204653676533.5965228872306228849",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 337,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-i-GkmTLP9tU/UsjADT0j-wI/AAAAAAAAVN4/SEFEShapXz0/w337-h337-p/IMG_6110.JPG",
+          "width" : 337
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5965228872306228849/5965228869545097986"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-XS41gTYeP3c/UsjADVGZWOI/AAAAAAAAVN4/ApAHTQ-epGE/w168-h168-p/IMG_6113.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5965228872306228849/5965228869888334050"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-BgqOZoGpA-Y/UsjADS6sQ6I/AAAAAAAAVN4/sshcnHmacJk/w168-h168-p/IMG_6112.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5965228872306228849/5965228869302371234"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5965228872306228849"
+    } ],
+    "content" : "Here&#39;s the first version of the Backwoods Logger case. I really messed up the position of the buttons. I was experimenting with a M3 bolt used as a feedthrough with a spring to press the buttons. I have some longer pushbuttons, but they would be the same height as the top of the case. I have an idea for some 3D-printed button extenders, but last time I tried something similar it didn&#39;t work very well. Of course that was when I was very new to 3D-printing so I might have the knowledge to get it working now. I need to go to the hardware store tomorrow to get more M3 bolts so I can work on attaching the lid. The ones I have now are too short.",
+    "objectType" : "note",
+    "originalContent" : "Here's the first version of the Backwoods Logger case. I really messed up the position of the buttons. I was experimenting with a M3 bolt used as a feedthrough with a spring to press the buttons. I have some longer pushbuttons, but they would be the same height as the top of the case. I have an idea for some 3D-printed button extenders, but last time I tried something similar it didn't work very well. Of course that was when I was very new to 3D-printing so I might have the knowledge to get it working now. I need to go to the hardware store tomorrow to get more M3 bolts so I can work on attaching the lid. The ones I have now are too short.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/W6gj41FVFr3"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-01-05T02:24:28.556Z",
+  "title" : "Here's the first version of the Backwoods Logger case. I really messed up the position of the buttons...",
+  "updated" : "2014-01-05T02:24:28.556Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/W6gj41FVFr3",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

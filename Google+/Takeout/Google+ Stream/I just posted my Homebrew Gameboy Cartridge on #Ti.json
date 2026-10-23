@@ -1,0 +1,394 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/ZZfeyCpEoAx0Yj0bVSLGykp8oQ4\"",
+  "id" : "z135hfxqewnpi1la104cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "A circuit that allows the user to play their own .ROM files using an unmodified Gameboy This circuit enables the user to play their own .ROM files using an actual Gameboy - no more software emulators! The user-programmable ROM is a AT49F040, a 4 megabit flash chip. This means the .ROM file to be programmed cannot be larger than 4 megabits, which excludes some of the larger ROMs out there. This circuit uses a salvaged Nintendo MBC (Memory Bank Con...",
+      "displayName" : "Homebrew Gameboy Cartridge",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "https://i.ytimg.com/vi/kmgT78ODRdU/hqdefault.jpg"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/GYvc14qgigxKC77gtR0QkOlazZY5JV_rb9C2iPbMHSr0j2OQSdiLkNgZEeoGlRq6ZbfgeCj3QPFdnMcabrPbjA=w506-h910",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "https://www.tindie.com/products/Dillon1337/homebrew-gameboy-cartridge/"
+    } ],
+    "content" : "I just posted my Homebrew Gameboy Cartridge on <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Tindie\">#Tindie</a> for anyone to purchase! I&#39;ve been getting lots of emails from people that are interested in purchasing a circuit and I thought this would make it easier for everyone to order. Let me know if you can think of any improvements to the page. I rushed putting this together so it will be available for Tindie&#39;s Cyber Monday sales. And if you&#39;re interested in purchasing one, wait for Monday to get a nice discount!",
+    "objectType" : "note",
+    "originalContent" : "I just posted my Homebrew Gameboy Cartridge on #Tindie for anyone to purchase! I've been getting lots of emails from people that are interested in purchasing a circuit and I thought this would make it easier for everyone to order. Let me know if you can think of any improvements to the page. I rushed putting this together so it will be available for Tindie's Cyber Monday sales. And if you're interested in purchasing one, wait for Monday to get a nice discount!",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Thiago Cristiano (Harguus)",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/gw4dbGg02Hjwo0cji1n3wS7iaqc\"",
+        "id" : "104771627472457425846",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-TjX5mOi4POs/AAAAAAAAAAI/AAAAAAAAAAA/tqvIaSyHbbA/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/104771627472457425846"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/jykyGxlxu9G0JM6VLULKKFeHJ4I\"",
+        "id" : "z135hfxqewnpi1la104cexrqywbvcrqgizk0k.1418049869522104",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Thanks <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/116028195841571794724\" oid=\"116028195841571794724\">Dave Warbitsky</a></span>! I&#39;m glad you like it. I ordered 30 more PCB&#39;s and I&#39;ll keep you updated for when I receive them. If you don&#39;t mind me asking, what project are you using these for?  <br /><br />Also, it would also mean a lot to me if you could leave a review of the product on Tindie. Even if you just write what you wrote in your comment. There should be a &quot;Review Now&quot; button on  <a href=\"https://www.tindie.com/orders/purchases/\" class=\"ot-anchor\">https://www.tindie.com/orders/purchases/</a> Thanks again :)",
+          "objectType" : "comment",
+          "originalContent" : "Thanks @116028195841571794724! I'm glad you like it. I ordered 30 more PCB's and I'll keep you updated for when I receive them. If you don't mind me asking, what project are you using these for?  \n\nAlso, it would also mean a lot to me if you could leave a review of the product on Tindie. Even if you just write what you wrote in your comment. There should be a \"Review Now\" button on  https://www.tindie.com/orders/purchases/ Thanks again :)"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2014-12-08T14:44:29.522Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2014-12-08T14:44:29.522Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Thiago Cristiano (Harguus)",
+          "id" : "104771627472457425846",
+          "image" : {
+            "url" : "https://lh5.googleusercontent.com/-TjX5mOi4POs/AAAAAAAAAAI/AAAAAAAAOz4/AOFFweSdNj0/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/104771627472457425846",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/iB17oxNJFb4KqTwBWJ-5NnDlbG4\"",
+        "id" : "z135hfxqewnpi1la104cexrqywbvcrqgizk0k.1432173863675524",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/107457342204653676533\" oid=\"107457342204653676533\">Dillon Nichols</a></span> <br />Hello, perfect this, I wonder if achieved greater memory to record games like pokemon?<br />I would like to make a pokemon green version in English for my collection.<br />Good job!",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2015-05-21T02:04:23.675Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2015-05-21T02:05:42.000Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/eePsRcibElaHPIP35V3fNr6dJEU\"",
+        "id" : "z135hfxqewnpi1la104cexrqywbvcrqgizk0k.1432212766521713",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/104771627472457425846\" oid=\"104771627472457425846\">Thiago Cristiano</a></span> I would have to make a redesigned PCB to support larger games. I&#39;m working on a project now that should help.",
+          "objectType" : "comment",
+          "originalContent" : "@104771627472457425846 I would have to make a redesigned PCB to support larger games. I'm working on a project now that should help."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2015-05-21T12:52:46.521Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2015-05-21T12:52:46.521Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Thiago Cristiano (Harguus)",
+          "id" : "104771627472457425846",
+          "image" : {
+            "url" : "https://lh5.googleusercontent.com/-TjX5mOi4POs/AAAAAAAAAAI/AAAAAAAAOz4/AOFFweSdNj0/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/104771627472457425846",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/pl_yLX_nYKZSp20MSCY16wRlmKY\"",
+        "id" : "z135hfxqewnpi1la104cexrqywbvcrqgizk0k.1432215832115019",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/107457342204653676533\" oid=\"107457342204653676533\">Dillon Nichols</a></span>​ I look forward, to save space could use the SMD Atmega, and as realized in original cartridges of Pokemon or Zelda for example he use a RAM memory. you have a deadline for this?",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2015-05-21T13:43:52.115Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2015-05-21T13:43:52.115Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/a7-1wqs3YUUNLpJcOOeaj297JXM\"",
+        "id" : "z135hfxqewnpi1la104cexrqywbvcrqgizk0k.1432227996255878",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/104771627472457425846\" oid=\"104771627472457425846\">Thiago Cristiano</a></span> I plan on using this code: <a href=\"https://github.com/dwaq/stm32f_GBCart\" class=\"ot-anchor\">https://github.com/dwaq/stm32f_GBCart</a> to emulate the cartridge functionality. Once that is working, I will need to determine how to implement game saves.<br />I don&#39;t know when this will be finished. I&#39;ve been tinkering with it for many months and don&#39;t have very much time to put into it. But you can be sure that I will post details about it here as I make progress.",
+          "objectType" : "comment",
+          "originalContent" : "@104771627472457425846 I plan on using this code: https://github.com/dwaq/stm32f_GBCart to emulate the cartridge functionality. Once that is working, I will need to determine how to implement game saves.\nI don't know when this will be finished. I've been tinkering with it for many months and don't have very much time to put into it. But you can be sure that I will post details about it here as I make progress."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2015-05-21T17:06:36.255Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2015-05-21T17:06:36.255Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Thiago Cristiano (Harguus)",
+          "id" : "104771627472457425846",
+          "image" : {
+            "url" : "https://lh5.googleusercontent.com/-TjX5mOi4POs/AAAAAAAAAAI/AAAAAAAAOz4/AOFFweSdNj0/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/104771627472457425846",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/dKmzSiGUxavjtaZJzwaVdnpiA0g\"",
+        "id" : "z135hfxqewnpi1la104cexrqywbvcrqgizk0k.1432230083582783",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "ok <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/107457342204653676533\" oid=\"107457342204653676533\">Dillon Nichols</a></span>​, thank you very much!",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2015-05-21T17:41:23.582Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2015-05-21T17:41:23.582Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Sylvain Pypebros",
+          "id" : "114636501230487167791",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-F-GoPzUyqAY/AAAAAAAAAAI/AAAAAAAAD9I/eBOcTpo7uCk/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/114636501230487167791",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/9CB4yyEWL_XOdRVZsnEj9stt-4I\"",
+        "id" : "z135hfxqewnpi1la104cexrqywbvcrqgizk0k.1461603450332570",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "That&#39;s just amazing.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2016-04-25T16:57:30.332Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2016-04-25T16:57:30.332Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/cPYIXBekHhgkSb9Dw0IoKBByPkA\"",
+        "id" : "z135hfxqewnpi1la104cexrqywbvcrqgizk0k.1461608164446051",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/114636501230487167791\" oid=\"114636501230487167791\">Sylvain Pypebros</a></span> Glad you like it. Are you working on a gameboy project yourself?",
+          "objectType" : "comment",
+          "originalContent" : "@114636501230487167791 Glad you like it. Are you working on a gameboy project yourself?"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2016-04-25T18:16:04.446Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2016-04-25T18:16:04.446Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Sylvain Pypebros",
+          "id" : "114636501230487167791",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-F-GoPzUyqAY/AAAAAAAAAAI/AAAAAAAAD9I/eBOcTpo7uCk/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/114636501230487167791",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/btKgAluDr2mGXmjuRkj0V06WsDc\"",
+        "id" : "z135hfxqewnpi1la104cexrqywbvcrqgizk0k.1461661366444781",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/107457342204653676533\" oid=\"107457342204653676533\">Dillon Nichols</a></span>  Not quite. I am still busy with Nintendo DS game projects, but I&#39;m growing interest on comparing DS with elder (8-bit) Nintendo systems.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2016-04-26T09:02:46.444Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2016-04-26T09:03:56.357Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/XjvjxZvo04FO7mWbqpfFqT34wos\"",
+        "id" : "z135hfxqewnpi1la104cexrqywbvcrqgizk0k.1461678104882815",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/114636501230487167791\" oid=\"114636501230487167791\">Sylvain Pypebros</a></span> Very cool. Keep me in mind if you want to implement some retro gameboy hardware. I&#39;ve been toying with the idea of a updated version of this project for a while. Just need to get the time to really work on it.",
+          "objectType" : "comment",
+          "originalContent" : "@114636501230487167791 Very cool. Keep me in mind if you want to implement some retro gameboy hardware. I've been toying with the idea of a updated version of this project for a while. Just need to get the time to really work on it."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2016-04-26T13:41:44.882Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2016-04-26T13:41:44.882Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 10
+    },
+    "resharers" : {
+      "totalItems" : 1,
+      "items" : [ ]
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/ZNZ4vMA1HSH"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-11-26T00:57:20.526Z",
+  "title" : "I just posted my Homebrew Gameboy Cartridge on #Tindie for anyone to purchase! I've been getting lots...",
+  "updated" : "2014-11-26T00:57:20.526Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/ZNZ4vMA1HSH",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

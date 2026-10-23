@@ -1,0 +1,77 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/LA3GCl3UYGPn7uJzuOhzLjvDi34\"",
+  "id" : "z12zwleaxnq0tv1ao04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "There is a closet in the hallway of my house that is affectionately known as \"The Only Hallway Closet\". It stores my family's jackets, shoes, blankets, and batteries. The problem with this closet...",
+      "displayName" : "Closet Door Lightswitch",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://1.bp.blogspot.com/-Y1vcC3NQrYM/UVNGWu4ZxwI/AAAAAAAAPmo/6zektmOVRbU/s400/9E25C207-095F-43CC-ABE2-332F91887B3E.JPG"
+      },
+      "image" : {
+        "height" : 120,
+        "type" : "image/jpeg",
+        "url" : "https://1.bp.blogspot.com/-Y1vcC3NQrYM/UVNGWu4ZxwI/AAAAAAAAPmo/6zektmOVRbU/w120-h120/9E25C207-095F-43CC-ABE2-332F91887B3E.JPG",
+        "width" : 120
+      },
+      "objectType" : "article",
+      "url" : "http://tinkeringetc.blogspot.com/2013/03/closet-door-lightswitch.html"
+    } ],
+    "content" : "I just finished my blog post on the closet door lightswitch project that I&#39;ve been working on for many months. There&#39;s schematics, photos, and videos on my blog so check it out and let me know what you think!",
+    "objectType" : "note",
+    "originalContent" : "I just finished my blog post on the closet door lightswitch project that I've been working on for many months. There's schematics, photos, and videos on my blog so check it out and let me know what you think!",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/cTzBaZ6cCp6"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-03-27T20:09:28.083Z",
+  "title" : "I just finished my blog post on the closet door lightswitch project that I've been working on for many...",
+  "updated" : "2013-03-27T20:09:28.083Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/cTzBaZ6cCp6",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

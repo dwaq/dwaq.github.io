@@ -1,0 +1,159 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Zj_WyXAZCBWmQ23QuRZERuzYPVU\"",
+  "id" : "z12lgzuq0tmgjpsr104cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "IMG_6567.JPG",
+      "displayName" : "Printed a gear for my coworker's 3D printer. This is probably the 4th time I've printed it. It was pretty difficult to keep the teeth from warping while printing. I finally found out that if I turned the fan on as soon as I started the teeth, it would turn out pretty good. This particular one I printed at 100% infill because he wanted a stronger part. Apparently the teeth part snapped off of the last one I gave him.",
+      "fullImage" : {
+        "height" : 2448,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-MNhiL4LfnsI/U1b7uKkQTSI/AAAAAAAAW4c/tAcJhS-AsRY/w3264-h2448/IMG_6567.JPG",
+        "width" : 3264
+      },
+      "id" : "107457342204653676533.6005263923674107170",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-MNhiL4LfnsI/U1b7uKkQTSI/AAAAAAAAW4c/tAcJhS-AsRY/w506-h750/IMG_6567.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/6005263923870812737/6005263923674107170"
+    } ],
+    "content" : "Printed a gear for my coworker&#39;s 3D printer. This is probably the 4th time I&#39;ve printed it. It was pretty difficult to keep the teeth from warping while printing. I finally found out that if I turned the fan on as soon as I started the teeth, it would turn out pretty good. This particular one I printed at 100% infill because he wanted a stronger part. Apparently the teeth part snapped off of the last one I gave him. ",
+    "objectType" : "note",
+    "originalContent" : "Printed a gear for my coworker's 3D printer. This is probably the 4th time I've printed it. It was pretty difficult to keep the teeth from warping while printing. I finally found out that if I turned the fan on as soon as I started the teeth, it would turn out pretty good. This particular one I printed at 100% infill because he wanted a stronger part. Apparently the teeth part snapped off of the last one I gave him. ",
+    "plusoners" : {
+      "totalItems" : 5,
+      "items" : [ {
+        "displayName" : "Mike Beardmore",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/xom2OkGQQfShtQqJ2xtOfPYyN1s\"",
+        "id" : "116341287830615647443",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-wPvWk8SByOw/AAAAAAAAAAI/AAAAAAAAAAA/JgxLy5WEcnE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/116341287830615647443"
+      }, {
+        "displayName" : "Carlos GS",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/-79w-4PnW1lHA1WdEkDq32Hter4\"",
+        "id" : "113437723819360223498",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-vFU04N8SKHY/AAAAAAAAAAI/AAAAAAAAAAA/vjNYSz8j4WU/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/113437723819360223498"
+      }, {
+        "displayName" : "Tyler Harney",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/4-OhzYaUiLCon7HIFHFJYESo5jQ\"",
+        "id" : "114939810255876206669",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-CnoM_5PhiCc/AAAAAAAAAAI/AAAAAAAAAAA/-3ylaT24OI4/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/114939810255876206669"
+      }, {
+        "displayName" : "Justin Pierce",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/hLqVVaDOOnDybsZ5Jhk-EWiwdhw\"",
+        "id" : "101106064759965886947",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-5iI_vbHhhW8/AAAAAAAAAAI/AAAAAAAAAAA/ZR9xWdElQu8/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/101106064759965886947"
+      }, {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Mike Beardmore",
+          "id" : "116341287830615647443",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-wPvWk8SByOw/AAAAAAAAAAI/AAAAAAAABos/InSI0BU78AA/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/116341287830615647443",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/3M7WtPxuv92hM3qE3dJxQWYAqDo\"",
+        "id" : "z12lgzuq0tmgjpsr104cexrqywbvcrqgizk0k.1398252283857548",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "I would question the mounting of the motor on your friend&#39;s machine if it is breaking teeth. It may not be meshing well or is being over-stressed.  <br /><br />With 100% infill the temperature inertia is greater and so warping can be a bigger problem than with lower infill. Though the teeth should be solid fill anyway due to their small area.<br /><br />Good to hear that you solved your problem with the fan settings. -Mike",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2014-04-23T11:24:43.857Z",
+        "statusForViewer" : {
+          "isPlusOned" : true,
+          "canUpdate" : false
+        },
+        "updated" : "2014-04-23T11:24:43.857Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 1
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/emHLhyjYdW9"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-04-22T23:31:05.440Z",
+  "title" : "Printed a gear for my coworker's 3D printer. This is probably the 4th time I've printed it. It was pretty...",
+  "updated" : "2014-04-22T23:31:05.440Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/emHLhyjYdW9",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

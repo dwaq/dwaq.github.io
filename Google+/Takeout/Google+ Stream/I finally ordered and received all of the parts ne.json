@@ -1,0 +1,127 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/VxZrvOcOYIGm4HCLOooY_-JxpiA\"",
+  "id" : "z13ev5po0zr0djuft22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5758523927203725633",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-2LYyweYQKjk/T-pjAEarjvI/AAAAAAAAJzI/CppmzxHJahU/w379-h379-p/855A2946-1C95-463D-A4F2-7782AD631D8A.JPG",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5758523927203725633/5758523926383398642"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-lUFP2RQvsNA/T-pjAN3xnRI/AAAAAAAAJzI/Nsr1x6bcOQY/w126-h126-p/40196E81-1620-4902-AD90-B5D1071EAADB.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5758523927203725633/5758523928921349394"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-uYgTn8vYY0w/T-pjAPORLII/AAAAAAAAJzI/b1f6BpzDRi0/w126-h126-p/ECA62157-D2E4-43A3-8967-F7E3EB7F9136.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5758523927203725633/5758523929284127874"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/--QNrHEFjf4E/T-pjAAdgvyI/AAAAAAAAJzI/vRFhnqEhsXo/w126-h126-p/C0890584-95DE-41D6-B302-196EBA089873.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5758523927203725633/5758523925321531170"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-K_3ENiJHPX0/T-pjABLC-pI/AAAAAAAAJzI/TDraXL_f1qI/w126-h126-p/A3E52620-A870-420E-9BF3-0D91707FEE6F.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5758523927203725633/5758523925512518290"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5758523927203725633"
+    } ],
+    "content" : "I finally ordered and received all of the parts needed to finish my CEE board. I only had to solder up the ATXmega microcontroller and the QFN-12-leaded op-amps. Using my hotplate and solder paste made soldering the uC easy work. I attempted to record the process but found out after it was finished that I didn&#39;t hit the record button on my phone (D&#39;oh!). The op-amps were much harder because the leads are located at the bottom of the package. I won&#39;t be sure until I can test it if they soldered correctly or not. I sure hope they worked. The only thing left to do is program it. After talking with the developers, I found out my current programmer won&#39;t program this atmel chip. Once I order a new programmer, I will be sure to post the results of my soldering.",
+    "objectType" : "note",
+    "originalContent" : "I finally ordered and received all of the parts needed to finish my CEE board. I only had to solder up the ATXmega microcontroller and the QFN-12-leaded op-amps. Using my hotplate and solder paste made soldering the uC easy work. I attempted to record the process but found out after it was finished that I didn't hit the record button on my phone (D'oh!). The op-amps were much harder because the leads are located at the bottom of the package. I won't be sure until I can test it if they soldered correctly or not. I sure hope they worked. The only thing left to do is program it. After talking with the developers, I found out my current programmer won't program this atmel chip. Once I order a new programmer, I will be sure to post the results of my soldering.",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Kris Kortright",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Sqwlxyp4SJVx92Sbb6nJHbfhMmk\"",
+        "id" : "117228107982719398401",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Wjiqs-p9Yn8/AAAAAAAAAAI/AAAAAAAAAAA/TfWSQ3HWPaA/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117228107982719398401"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/MNpmRGHfkcC"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-06-27T01:33:54.812Z",
+  "title" : "I finally ordered and received all of the parts needed to finish my CEE board. I only had to solder ...",
+  "updated" : "2012-06-27T01:33:54.812Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/MNpmRGHfkcC",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

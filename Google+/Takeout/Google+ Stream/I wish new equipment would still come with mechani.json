@@ -1,0 +1,127 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/2SFVUklHp2SQlOhMM0Wi4UzqyCU\"",
+  "id" : "z13yztyjcsyttnglo22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "4/23/13 - 1",
+      "fullImage" : {
+        "height" : 1536,
+        "type" : "image/jpeg",
+        "url" : "https://lh4.googleusercontent.com/-XjFN3X_lnck/UXcLR9pNT7I/AAAAAAAAQEw/Dpxn0gtjhBg/s1600/photo.jpg",
+        "width" : 2048
+      },
+      "id" : "107457342204653676533.5870173042533814194",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh4.googleusercontent.com/-XjFN3X_lnck/UXcLR9pNT7I/AAAAAAAAQEw/Dpxn0gtjhBg/w506-h750/photo.jpg"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5870173047220386225/5870173042533814194"
+    } ],
+    "content" : "I wish new equipment would still come with mechanical drawings and electrical schematics in the back of the user manual. Seeing this made my day.",
+    "objectType" : "note",
+    "originalContent" : "I wish new equipment would still come with mechanical drawings and electrical schematics in the back of the user manual. Seeing this made my day.",
+    "plusoners" : {
+      "totalItems" : 5,
+      "items" : [ {
+        "displayName" : "Ryan Weaving",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/wH0NPti5a7Ve1iRqrsWd4ir3zeI\"",
+        "id" : "111607634508834917317",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-3R19Xp5JjPM/AAAAAAAAAAI/AAAAAAAAAAA/CPnZqHL7S6c/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/111607634508834917317"
+      }, {
+        "displayName" : "Ronaldo Costa",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/TXJD3Nq13rJOmxqCBimkoAq8MCs\"",
+        "id" : "101602127554044456370",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-v7tXNmZ1o9Q/AAAAAAAAAAI/AAAAAAAAAAA/5XuVe-qbwUo/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/101602127554044456370"
+      }, {
+        "displayName" : "Howard C. Shaw III",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/MkEcSmb_wf1vTYYKHl2DhA4oYRM\"",
+        "id" : "116496743359717565259",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-pNhu40K89QI/AAAAAAAAAAI/AAAAAAAAAAA/r3sW7t-Cj8U/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/116496743359717565259"
+      }, {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      }, {
+        "displayName" : "Brett Coulthard",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/IlFklXQ5za1XT3QyNe7cHNC3iqI\"",
+        "id" : "117674378823937836939",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-0LrsZrtCVck/AAAAAAAAAAI/AAAAAAAAAAA/kg2MfeIO1KU/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117674378823937836939"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/9mGeNn7W88c"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-04-23T22:29:28.599Z",
+  "title" : "I wish new equipment would still come with mechanical drawings and electrical schematics in the back...",
+  "updated" : "2013-04-23T22:32:36.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/9mGeNn7W88c",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

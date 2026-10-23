@@ -1,0 +1,92 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/85Dq3YH57mlH9eNUuq-qUGzTCd4\"",
+  "id" : "z130chhjolzaf3i1e22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "12/24/15 - 1",
+      "displayName" : "I just installed \"stock\" android on an Amazon Fire tablet that I got on Black Friday for $30. I'm very happy with how quick it runs - especially compared to the last android tablet that I played with and my 4 year old iPad mini. I think I like the android system as a whole more than iOS, but the quality of apps leaves something to be desired. At least I have a new toy to play with when I'm sitting on the couch and need to look something up.",
+      "fullImage" : {
+        "height" : 2048,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-mdxP99nyqxU/VnxrHlzZjaI/AAAAAAAAhZI/6RrjpAN7uKc/w1536-h2048/15%2B-%2B1",
+        "width" : 1536
+      },
+      "id" : "107457342204653676533.6231973762524876194",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-mdxP99nyqxU/VnxrHlzZjaI/AAAAAAAAhZI/6RrjpAN7uKc/w506-h750/15%2B-%2B1"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/6231973765194973681/6231973762524876194"
+    } ],
+    "content" : "I just installed &quot;stock&quot; android on an Amazon Fire tablet that I got on Black Friday for $30. I&#39;m very happy with how quick it runs - especially compared to the last android tablet that I played with and my 4 year old iPad mini. I think I like the android system as a whole more than iOS, but the quality of apps leaves something to be desired. At least I have a new toy to play with when I&#39;m sitting on the couch and need to look something up. ",
+    "objectType" : "note",
+    "originalContent" : "I just installed \"stock\" android on an Amazon Fire tablet that I got on Black Friday for $30. I'm very happy with how quick it runs - especially compared to the last android tablet that I played with and my 4 year old iPad mini. I think I like the android system as a whole more than iOS, but the quality of apps leaves something to be desired. At least I have a new toy to play with when I'm sitting on the couch and need to look something up. ",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Joe Vidal",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/lNS2T9NKRIpcHd1HFSTy3ui28wc\"",
+        "id" : "106556490316663049498",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-0YXIrr-o79I/AAAAAAAAAAI/AAAAAAAAAAA/Gxzrgbj6isU/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/106556490316663049498"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/86j8C2DzZFD"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2015-12-24T22:01:03.374Z",
+  "title" : "I just installed \"stock\" android on an Amazon Fire tablet that I got on Black Friday for $30. I'm very...",
+  "updated" : "2015-12-24T22:01:03.374Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/86j8C2DzZFD",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

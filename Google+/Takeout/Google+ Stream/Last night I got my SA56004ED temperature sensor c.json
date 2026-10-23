@@ -1,0 +1,670 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/tU9lHouu8z70eg_dbKcnkOV89tA\"",
+  "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "IMG_6063.JPG",
+      "displayName" : "Last night I got my SA56004ED temperature sensor communicating over I2C on an Arduino. I was disappointed to find that the Arduino can only read 32 bytes of data from one device address. This is a problem for this chip because the temperature is broken up into two bytes: local temperature high byte at 0x00 and local temperature low byte at 0x22 (which is 34 in decimal and just outside the 32 byte limit). Although the low byte only holds the decimal places of the temperature, this is important when you're measuring Celsius because there's a decent jump in temperature between each whole number.\n\nSince this chip also has the capability of measuring remote temperature using an external diode (and both the high and low bytes are in the 32 byte range), I will hook that circuit up tonight and see how well it works. I wish I didn't have to do it that way because it adds components to an otherwise simple circuit, and my \"remote\" circuitry is going to be placed right beside the local chip. Now I can see why I couldn't find any existing tutorials for using this chip with an Arduino, but this was the only temperature sensor I could find in my parts.",
+      "fullImage" : {
+        "height" : 1536,
+        "type" : "image/jpeg",
+        "url" : "https://lh6.googleusercontent.com/-NBSB9qSpyJ0/UrBlkmaD-iI/AAAAAAAAU9E/-jZqYWvnJT8/w2048-h1536/IMG_6063.JPG",
+        "width" : 2048
+      },
+      "id" : "107457342204653676533.5958373986470722082",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh6.googleusercontent.com/-NBSB9qSpyJ0/UrBlkmaD-iI/AAAAAAAAU9E/-jZqYWvnJT8/w506-h750/IMG_6063.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5958373984878745585/5958373986470722082"
+    } ],
+    "content" : "Last night I got my SA56004ED temperature sensor communicating over I2C on an Arduino. I was disappointed to find that the Arduino can only read 32 bytes of data from one device address. [EDIT: I figured it out; check out my comment below with a link to a github gist.]This is a problem for this chip because the temperature is broken up into two bytes: local temperature high byte at 0x00 and local temperature low byte at 0x22 (which is 34 in decimal and just outside the 32 byte limit). Although the low byte only holds the decimal places of the temperature, this is important when you&#39;re measuring Celsius because there&#39;s a decent jump in temperature between each whole number.<br /><br />Since this chip also has the capability of measuring remote temperature using an external diode (and both the high and low bytes are in the 32 byte range), I will hook that circuit up tonight and see how well it works. I wish I didn&#39;t have to do it that way because it adds components to an otherwise simple circuit, and my &quot;remote&quot; circuitry is going to be placed right beside the local chip. Now I can see why I couldn&#39;t find any existing tutorials for using this chip with an Arduino, but this was the only temperature sensor I could find in my parts.",
+    "objectType" : "note",
+    "originalContent" : "Last night I got my SA56004ED temperature sensor communicating over I2C on an Arduino. I was disappointed to find that the Arduino can only read 32 bytes of data from one device address. [EDIT: I figured it out; check out my comment below with a link to a github gist.]This is a problem for this chip because the temperature is broken up into two bytes: local temperature high byte at 0x00 and local temperature low byte at 0x22 (which is 34 in decimal and just outside the 32 byte limit). Although the low byte only holds the decimal places of the temperature, this is important when you're measuring Celsius because there's a decent jump in temperature between each whole number.\n\nSince this chip also has the capability of measuring remote temperature using an external diode (and both the high and low bytes are in the 32 byte range), I will hook that circuit up tonight and see how well it works. I wish I didn't have to do it that way because it adds components to an otherwise simple circuit, and my \"remote\" circuitry is going to be placed right beside the local chip. Now I can see why I couldn't find any existing tutorials for using this chip with an Arduino, but this was the only temperature sensor I could find in my parts.",
+    "plusoners" : {
+      "totalItems" : 4,
+      "items" : [ {
+        "displayName" : "Bradley Michaels .",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/wXgRn7_WA-FznTJuo80rAnI6qwc\"",
+        "id" : "117382373789365150646",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-fPTkaojDnvE/AAAAAAAAAAI/AAAAAAAAAAA/R468Z1cSlOE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117382373789365150646"
+      }, {
+        "displayName" : "Ivers Spivey",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/WWGSiaSU1htRTd1dYhDbLKJfLVk\"",
+        "id" : "108578574301403611058",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-wZz5W9mWHqU/AAAAAAAAAAI/AAAAAAAAAAA/kDh-qzQ1Qu4/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/108578574301403611058"
+      }, {
+        "displayName" : "Mike Coles",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/8FaEKMLYuxDt2wtcrcPKmI4j6J8\"",
+        "id" : "106949913528499109943",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-1qbzjeqA9T8/AAAAAAAAAAI/AAAAAAAAAAA/lxcyK1-isAA/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/106949913528499109943"
+      }, {
+        "displayName" : "Lucas Walter",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/epZ6Koiy4-N01h9-pCGwRZioBJc\"",
+        "id" : "103190342755104432973",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-x7pwUw7EjJk/AAAAAAAAAAI/AAAAAAAAAAA/6Yux1ybeTJk/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/103190342755104432973"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Thomas Harris",
+          "id" : "107218079015263051528",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-GGBoSMFBEBs/AAAAAAAAAAI/AAAAAAAAQ-s/Z3cv0gevJyQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107218079015263051528",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/eHuPQMVeY1qTaywd40DoMCq8a40\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387300276885919",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "That&#39;s an interesting limitation on the Arduino that I didn&#39;t realize. What&#39;s the advantage of a chip like this over a thermistor?",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-17T17:11:16.885Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-17T17:11:16.885Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/C3tFJdwlLgf8DdmX4VKTc0eXkV0\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387306290149423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "I like the DS18b20, it was super easy to use with the Arduino:<br /><a href=\"http://contractorwolf.wordpress.com/arduino-temperature-probe/\" class=\"ot-anchor\">http://contractorwolf.wordpress.com/arduino-temperature-probe/</a>",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2013-12-17T18:51:30.149Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-17T18:51:30.149Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/GFwSfLJAd1XKx8yOosyFqBlWx-I\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387308290806536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "The only advantage is that I didn&#39;t have to order this. This was the only digital temperature sensor I had that I could find and I actually removed it from an unused dev board. <br />But now that I think about it I might have a thermistor someone. I didn&#39;t think of looking for an &quot;analog&quot; sensor. I&#39;ll look around for it tonight and see what I can find.",
+          "objectType" : "comment",
+          "originalContent" : "The only advantage is that I didn't have to order this. This was the only digital temperature sensor I had that I could find and I actually removed it from an unused dev board. \nBut now that I think about it I might have a thermistor someone. I didn't think of looking for an \"analog\" sensor. I'll look around for it tonight and see what I can find."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-17T19:24:50.806Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-12-17T19:24:50.806Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Erling Stage",
+          "id" : "117029083998870029673",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-tDX-frHRSJ8/AAAAAAAAAAI/AAAAAAAACkE/Xzs_4myiKPo/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/117029083998870029673",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/YzWd0eTKEkmVnZsRnfSS2tpcIeA\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387313201980527",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "There is a hard coded array size in the I2C library, but it can be changed. The source is part of the arduino installation.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-17T20:46:41.980Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-17T20:46:41.980Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/JFAUXfIFHq2r8VTdRw4eklC4WsE\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387315708232536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/117029083998870029673\" oid=\"117029083998870029673\">Erling Stage</a></span> I changed <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23define\">#define</a> BUFFER_LENGTH 32 from the wire.h file to 40 and it didn&#39;t read any bytes. I know it can be changed, but can you confirm a number that it can be changed to that works?",
+          "objectType" : "comment",
+          "originalContent" : "@117029083998870029673 I changed #define BUFFER_LENGTH 32 from the wire.h file to 40 and it didn't read any bytes. I know it can be changed, but can you confirm a number that it can be changed to that works?"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-17T21:28:28.232Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-12-17T21:28:28.232Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Matthew Hannigan",
+          "id" : "115725830878330590818",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-7RNlkLBrvok/AAAAAAAAAAI/AAAAAAAAH6c/HUlnejfJc2s/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/115725830878330590818",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/NxFwPPDhdkblnVO638cCxNcz4gQ\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387318466346770",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "So it reports temps to parts of a degree, but how accurate is it?  I haven&#39;t found a cheapish sensor with accuracy claimed of better than 0.5 of a degree.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-17T22:14:26.346Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-17T22:14:26.346Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Erling Stage",
+          "id" : "117029083998870029673",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-tDX-frHRSJ8/AAAAAAAAAAI/AAAAAAAACkE/Xzs_4myiKPo/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/117029083998870029673",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Ok7F7TOszbcfEVBUBWfteV-lHEc\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387342815820527",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "The changes to twi (I2C) can be found here: <br /><a href=\"http://www.rcgroups.com/forums/showthread.php?p=19899637\" class=\"ot-anchor\">http://www.rcgroups.com/forums/showthread.php?p=19899637</a><br />It is a bit old, I havent checked latest arduino src code.<br />",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-18T05:00:15.820Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-18T05:00:15.820Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Bob Beattie",
+          "id" : "103092123223427025792",
+          "image" : {
+            "url" : "https://lh4.googleusercontent.com/-Xl0wcvd7QHQ/AAAAAAAAAAI/AAAAAAAAABI/FbcBl7xQyPA/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/103092123223427025792",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/E0Tb8ZI2csh8yVa7PQNnkWmusQY\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387349625332457",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/107457342204653676533\" oid=\"107457342204653676533\">Dillon Nichols</a></span> , why not make two reads ? One for the high byte and one for the low byte.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2013-12-18T06:53:45.332Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-18T06:53:45.332Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/ctkG4X36DQ-hIsycKXoRhKWrfEM\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387391573924536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/115725830878330590818\" oid=\"115725830878330590818\">Matthew Hannigan</a></span> The datasheet claims to have 0.125 C resolution. I haven&#39;t tested it myself to know if it&#39;s actually accurate. It looks like it costs about a dollar in small quantities. I don&#39;t know if you consider that &quot;cheapish&quot;.",
+          "objectType" : "comment",
+          "originalContent" : "@115725830878330590818 The datasheet claims to have 0.125 C resolution. I haven't tested it myself to know if it's actually accurate. It looks like it costs about a dollar in small quantities. I don't know if you consider that \"cheapish\"."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-18T18:32:53.924Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-12-18T18:32:53.924Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/a-6ep79n8CvAGmheT0u0nOtfdDw\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387391817105536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/117029083998870029673\" oid=\"117029083998870029673\">Erling Stage</a></span> There&#39;s definitely been some major changes to that library since then, but it gives me an idea that it is possible. I&#39;ll play around with it and see what I can come up with. Thanks for the link.",
+          "objectType" : "comment",
+          "originalContent" : "@117029083998870029673 There's definitely been some major changes to that library since then, but it gives me an idea that it is possible. I'll play around with it and see what I can come up with. Thanks for the link."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-18T18:36:57.105Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-12-18T18:36:57.105Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/gWzJ--7xrDTKczl9j23v-5Srpvo\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387391956853536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/103092123223427025792\" oid=\"103092123223427025792\">Bob Beattie</a></span> Is there a way to specify what registers you want to read from a device address with Arduino? From what I discovered, you can only ask for a number of bytes from a device address starting at register 0x00.",
+          "objectType" : "comment",
+          "originalContent" : "@103092123223427025792 Is there a way to specify what registers you want to read from a device address with Arduino? From what I discovered, you can only ask for a number of bytes from a device address starting at register 0x00."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-18T18:39:16.853Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-12-18T18:39:16.853Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Bob Beattie",
+          "id" : "103092123223427025792",
+          "image" : {
+            "url" : "https://lh4.googleusercontent.com/-Xl0wcvd7QHQ/AAAAAAAAAAI/AAAAAAAAABI/FbcBl7xQyPA/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/103092123223427025792",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/uta6QmebycwGyEv2XBBt9-_8ZhI\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387393219749457",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/107457342204653676533\" oid=\"107457342204653676533\">Dillon Nichols</a></span> <br />Having not played with I2C on an Arduino yet, I assumed the sw supported not only device address, but also sub addresses to get access to the device registers.<br />Can anyone shed some light on this matter ?",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-18T19:00:19.749Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-18T19:00:19.749Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/ACcx7ds1TmS3oXTxlMb1iG22w78\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387395114990536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "I think I figured out how to request data from a specific register. The code is below. The Wire.send() line asks for the register to be sent next, so I should be able to change it to Wire.send(0x22); and get the lower temperature byte.  This function isn&#39;t listed in the library documentation for the Wire library on the Arduino page so that&#39;s how I missed it. And it doesn&#39;t have a very good name for what it does. Hopefully it isn&#39;t listed because it was depreciated. <br /><br />Wire.beginTransmission(temp_address); //Start talking<br />  Wire.send(0); //Ask for Register zero<br />  Wire.endTransmission(); //Complete Transmission<br />  Wire.requestFrom(temp_address, 1); //Request 1 Byte<br />  while(Wire.available() == 0); //wait for response<br />  int c = Wire.receive(); // Get the temp",
+          "objectType" : "comment",
+          "originalContent" : "I think I figured out how to request data from a specific register. The code is below. The Wire.send() line asks for the register to be sent next, so I should be able to change it to Wire.send(0x22); and get the lower temperature byte.  This function isn't listed in the library documentation for the Wire library on the Arduino page so that's how I missed it. And it doesn't have a very good name for what it does. Hopefully it isn't listed because it was depreciated. \n\nWire.beginTransmission(temp_address); //Start talking\n  Wire.send(0); //Ask for Register zero\n  Wire.endTransmission(); //Complete Transmission\n  Wire.requestFrom(temp_address, 1); //Request 1 Byte\n  while(Wire.available() == 0); //wait for response\n  int c = Wire.receive(); // Get the temp"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2013-12-18T19:31:54.990Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-12-18T19:31:54.990Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/sFhXG9LYoMqJalf3V977kWfack4\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387419670952536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Thanks for all of the help guys. Like I said in my last comment, I figured out how to request data from a specific register. It&#39;s called Wire.write() instead of Wire.send() now [and it&#39;s still a stupid name] but it&#39;s the same thing. My finished code for reading strictly the temperature sensor is here: <a href=\"https://gist.github.com/dwaq/8033332\" class=\"ot-anchor\">https://gist.github.com/dwaq/8033332</a>",
+          "objectType" : "comment",
+          "originalContent" : "Thanks for all of the help guys. Like I said in my last comment, I figured out how to request data from a specific register. It's called Wire.write() instead of Wire.send() now [and it's still a stupid name] but it's the same thing. My finished code for reading strictly the temperature sensor is here: https://gist.github.com/dwaq/8033332"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-19T02:21:10.952Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-12-19T02:21:10.952Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/5KQ2pttwDz8cYvCIrMX_LylMvOk\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387419829311536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/115725830878330590818\" oid=\"115725830878330590818\">Matthew Hannigan</a></span> After getting the sensor working, I can say it&#39;s accurate and has good resolution. I&#39;m comparing it to a thermometer I have and it&#39;s pretty close. And I can see the decimal increasing as I put my finger on it. It&#39;s a pretty good chip once you figure out how to use it.",
+          "objectType" : "comment",
+          "originalContent" : "@115725830878330590818 After getting the sensor working, I can say it's accurate and has good resolution. I'm comparing it to a thermometer I have and it's pretty close. And I can see the decimal increasing as I put my finger on it. It's a pretty good chip once you figure out how to use it."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-19T02:23:49.311Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-12-19T02:23:49.311Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/GSylwJhyqyxQRll2zinj2-hf8Zk\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387419997663536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/117029083998870029673\" oid=\"117029083998870029673\">Erling Stage</a></span> I still can&#39;t get the device to read any data if I increase the hard-coded BUFFER_LENGTH past 32. But now I can see that this BUFFER_LENGTH is only used for requesting many bytes from the same register address, so you can just do multiple reads if you need more than 32.",
+          "objectType" : "comment",
+          "originalContent" : "@117029083998870029673 I still can't get the device to read any data if I increase the hard-coded BUFFER_LENGTH past 32. But now I can see that this BUFFER_LENGTH is only used for requesting many bytes from the same register address, so you can just do multiple reads if you need more than 32."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-19T02:26:37.663Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-12-19T02:26:37.663Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/b3D0OfV0cRX9S-rs-6-8992cQb4\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387423211065423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Got it posting up to xlively yet?",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-19T03:20:11.065Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-19T03:20:11.065Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Qnz0fG5gi8LUEWT5TVl7ISRdQyc\"",
+        "id" : "z12icdu4cnmrffsyf04cexrqywbvcrqgizk0k.1387423969716536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/100923804654788847953\" oid=\"100923804654788847953\">james wolf</a></span> Haha. Not there yet. I&#39;m just running it on an Arduino. I want to add my humidity sensor first. Apparently the one I have is going to be difficult to use. It seems the inductance of it can determine the humidity. It&#39;s going to be a challenge, but I&#39;m up for it. After that&#39;s working, I&#39;ll set the circuit up on the Spark Core and hopefully they&#39;ll have the ability to PUT to a web service by then.",
+          "objectType" : "comment",
+          "originalContent" : "@100923804654788847953 Haha. Not there yet. I'm just running it on an Arduino. I want to add my humidity sensor first. Apparently the one I have is going to be difficult to use. It seems the inductance of it can determine the humidity. It's going to be a challenge, but I'm up for it. After that's working, I'll set the circuit up on the Spark Core and hopefully they'll have the ability to PUT to a web service by then."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-19T03:32:49.716Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-12-19T03:32:49.716Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 18
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/b5taFxbYoKy"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-12-17T15:26:13.194Z",
+  "title" : "Last night I got my SA56004ED temperature sensor communicating over I2C on an Arduino. I was disappointed...",
+  "updated" : "2013-12-19T02:28:32.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/b5taFxbYoKy",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

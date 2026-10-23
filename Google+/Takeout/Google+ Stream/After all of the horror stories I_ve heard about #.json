@@ -1,0 +1,61 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Z9oW2XZ_UNlPbv7P8Ue7K5V_kgI\"",
+  "id" : "z121g1lrknyjgfimh22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "content" : "After all of the horror stories I&#39;ve heard about  <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Paypal\">#Paypal</a>  customer service, I actually had a good experience. When you look up their phone number on your account, they give you a code that you enter so the person knows your account details from the start. It was a 15 minute phone call and about 10 minutes was waiting to talk to a person. The problem I had was that someone sent a payment to an old email address. I was told to enter that email address in the website and a minute later they confirmed the payment and put it in my account. It was pretty quick and painless.",
+    "objectType" : "note",
+    "originalContent" : "After all of the horror stories I've heard about  #Paypal  customer service, I actually had a good experience. When you look up their phone number on your account, they give you a code that you enter so the person knows your account details from the start. It was a 15 minute phone call and about 10 minutes was waiting to talk to a person. The problem I had was that someone sent a payment to an old email address. I was told to enter that email address in the website and a minute later they confirmed the payment and put it in my account. It was pretty quick and painless.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/DxS8iwAxhSH"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-07-10T13:15:46.062Z",
+  "title" : "After all of the horror stories I've heard about #Paypal  customer service, I actually had a good experience...",
+  "updated" : "2014-07-10T13:15:46.062Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/DxS8iwAxhSH",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

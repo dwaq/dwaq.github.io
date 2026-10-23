@@ -1,0 +1,109 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/TIpANLonhWY1Av5oWsot4r33VIk\"",
+  "id" : "z12rdhdyzqigjr4hu04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "Today at the Chaos Computer Congress (30C3), xobs and I disclosed a finding that some SD cards contain vulnerabilities that allow arbitrary code execution — on the memory card itself. On the dark side, code execution on the memory card enables a class of MITM (man-in-the-middle) attacks, ...",
+      "displayName" : "On Hacking MicroSD Cards «  bunnie's blog",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://bunniefoo.com/bunnie/30c3-collage.jpg"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/3S8Eu15dfBYoRh3Y5K1Bx7k7dXWXMJHasGPS-vMwlP9fzIK6CsrZrsn_ZSmg3KuGGmrOONy6FJCd-VyP=w506-h910",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://www.bunniestudios.com/blog/?p=3554"
+    } ],
+    "content" : "Although it makes sense now, I had never thought of a uSD card having an on-board microcontroller. ",
+    "objectType" : "note",
+    "originalContent" : "Although it makes sense now, I had never thought of a uSD card having an on-board microcontroller. ",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Bradley Michaels .",
+          "id" : "117382373789365150646",
+          "image" : {
+            "url" : "https://lh4.googleusercontent.com/-fPTkaojDnvE/AAAAAAAAAAI/AAAAAAAAItc/bCYRTY3yH8s/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/117382373789365150646",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/YEmoSjd7u7r0z3DUg6byM9Dj6TE\"",
+        "id" : "z12rdhdyzqigjr4hu04cexrqywbvcrqgizk0k.1388451355340455",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Very good to know this!",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2013-12-31T00:55:55.340Z",
+        "statusForViewer" : {
+          "isPlusOned" : true,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-31T00:55:55.340Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 1
+    },
+    "resharers" : {
+      "totalItems" : 1,
+      "items" : [ ]
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/Y8o5JreQuqw"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-12-30T21:51:29.172Z",
+  "title" : "Although it makes sense now, I had never thought of a uSD card having an on-board microcontroller. ",
+  "updated" : "2013-12-30T21:51:29.172Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/Y8o5JreQuqw",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,117 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/4oU3GyVWtY6Wy3j7tkO6t5pbpRc\"",
+  "id" : "z12dzl2hwremdlnwc04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5737233988937781201",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "My mess of a desk",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-eA_JEtZmCXc/T56_6ip-T0I/AAAAAAAAIp0/D7pcuhxzasw/w379-h379-p/BF4F630D-3CE8-4600-AE81-B514B82BC37C.JPG",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5737233988937781201/5737233987772763970"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-aZ1Lgbe2Dw8/T56_6g6Gf8I/AAAAAAAAfxs/LhTvBsS2iPU/w126-h126-p/3B1A0AB9-4FFD-480D-A302-944BE71EBF45.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5737233988937781201/5737233987303538626"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-JTwdQ_lfpv0/T56_6si3IWI/AAAAAAAA1bg/tv7ibuSyL_AtAkRGTLWJfZxQmezc-oP2QCJoC/w126-h126-p/C11E7BF3-7366-4A95-A398-852E94F1E1EA.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5737233988937781201/5737233990427287906"
+      }, {
+        "description" : "Power switch fix",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-VdaEAeYpvRE/T56_6qww93I/AAAAAAAA1ac/ezKQfE-ivcUbMETfLC5C_VDRyoWZ0n4dwCJoC/w126-h126-p/F7E2362D-DEB8-4A11-A3C2-4883509BB0B1.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5737233988937781201/5737233989948733298"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-1aKzLwKPG1A/T56_6gNoBjI/AAAAAAAAIp0/VhNIlVqQhFY/w126-h126-p/6C44D158-D139-4D33-A7DF-5CB35C97C77F.MOV",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5737233988937781201/5737233987116992050"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5737233988937781201"
+    } ],
+    "content" : "Last night I decided to fix my girlfriend&#39;s broken Keurig B70 coffee maker. It wouldn&#39;t turn on so I used a disassembly guide (<a href=\"http://www.singleservecoffeeforums.com/dissassembly-repair-guide-keurig-b70-platinum-t8124.html\" class=\"ot-anchor\">http://www.singleservecoffeeforums.com/dissassembly-repair-guide-keurig-b70-platinum-t8124.html</a>) to take it apart and see what I could do. All of the electronics are located on the sides of the machine, so it is necessary to take the whole thing apart to fix anything. I was momentarily stumped while trying to take the top off, but eventually got it by prying around the edges and sliding it towards the back.<br /><br />It turned out to be a very easy fix -- the main power rocker switch on the side was broken. I looked around to see if I had a suitable replacement but couldn&#39;t find anything. After examining the switch some more I determined it was a momentary rocker switch. Luckily I have a ton of momentary normally-open push-buttons.<br /> <br />I cut up a piece of hard plastic into the correct size for the hole that the rocker switch left behind and mounted the push-button in the center. After soldering the wires back and covering them with heatshrink, it was good to go. I even reassembled the whole thing without any leftover screws (I put each set of screws into its own labeled bag to ensure I knew just where they went).<br /><br />You can check out some pictures of my workspace, the insides of the machine, and my fix below. I also have a video of it successfully powering on after reassembly.",
+    "objectType" : "note",
+    "originalContent" : "Last night I decided to fix my girlfriend's broken Keurig B70 coffee maker. It wouldn't turn on so I used a disassembly guide (http://www.singleservecoffeeforums.com/dissassembly-repair-guide-keurig-b70-platinum-t8124.html) to take it apart and see what I could do. All of the electronics are located on the sides of the machine, so it is necessary to take the whole thing apart to fix anything. I was momentarily stumped while trying to take the top off, but eventually got it by prying around the edges and sliding it towards the back.\n\nIt turned out to be a very easy fix -- the main power rocker switch on the side was broken. I looked around to see if I had a suitable replacement but couldn't find anything. After examining the switch some more I determined it was a momentary rocker switch. Luckily I have a ton of momentary normally-open push-buttons.\n \nI cut up a piece of hard plastic into the correct size for the hole that the rocker switch left behind and mounted the push-button in the center. After soldering the wires back and covering them with heatshrink, it was good to go. I even reassembled the whole thing without any leftover screws (I put each set of screws into its own labeled bag to ensure I knew just where they went).\n\nYou can check out some pictures of my workspace, the insides of the machine, and my fix below. I also have a video of it successfully powering on after reassembly.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/PrNbBuL51w8"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-04-30T16:38:06.058Z",
+  "title" : "Last night I decided to fix my girlfriend's broken Keurig B70 coffee maker. It wouldn't turn on so I...",
+  "updated" : "2012-04-30T16:41:47.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/PrNbBuL51w8",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

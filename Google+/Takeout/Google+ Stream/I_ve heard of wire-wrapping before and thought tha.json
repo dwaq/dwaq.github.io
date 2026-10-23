@@ -1,0 +1,382 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/18FK8wwEoDJKOFzhoLykwiU5dSY\"",
+  "id" : "z131yn3jvov1s3ipp04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "displayName" : "elm-chan.org/docs/wire/wcd.jpeg",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://elm-chan.org/docs/wire/wcd.jpeg"
+      },
+      "image" : {
+        "height" : 120,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/yX5cg9p2VRp4YVrgZjSnZZWcQeee07GnFI8tjcKYEVZ-VjjOAtl3WqbntSP9Df56Jkhkef51=w120-h120",
+        "width" : 120
+      },
+      "objectType" : "article",
+      "url" : "http://elm-chan.org/docs/wire/wcd.jpeg"
+    } ],
+    "content" : "I&#39;ve heard of wire-wrapping before and thought that was insane. The way that this guy is wiring surface-mount components is unimaginable. It looks amazing but would have to be a complete headache to get it to work correctly.<br /><a href=\"http://elm-chan.org/docs/wire/wiring_e.html\" class=\"ot-anchor\">http://elm-chan.org/docs/wire/wiring_e.html</a>",
+    "objectType" : "note",
+    "originalContent" : "I've heard of wire-wrapping before and thought that was insane. The way that this guy is wiring surface-mount components is unimaginable. It looks amazing but would have to be a complete headache to get it to work correctly.\nhttp://elm-chan.org/docs/wire/wiring_e.html",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/8_SjCoAv95c2f2rc0fo_6B_xI-4\"",
+        "id" : "z131yn3jvov1s3ipp04cexrqywbvcrqgizk0k.1344013676556423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Hey that&#39;s a really interesting technique, I&#39;ve been doing a lot of proto-board PCB&#39;s like this lately:<br /><a href=\"http://www.flickr.com/photos/23258232@N06/sets/72157629440192292/\" class=\"ot-anchor\">http://www.flickr.com/photos/23258232@N06/sets/72157629440192292/</a>\nI&#39;m trying to keep it neat by setting all the components up in a way that allows for just a single layer of traces on the bottom (notice the lack of wires on the top side).  All of my traces as solder with legs from other components to form the trace lines.  I think of it as the &quot;soviet tank&quot; sort of construction, not pretty and too heavy but almost indestructible.  <br /><br />That example is a netduino mini attached to an xbee for communication.  Works really well in my Headtracking project here:<br /><a href=\"http://www.youtube.com/watch?v=7f4hfq7oAzI\" class=\"ot-anchor\">Headtracking control for Xbox 360 using Netduino&#39;s and a hacked Wiimote</a>",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-03T17:07:56.556Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2012-08-03T17:07:56.556Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/z6KkaazLMAE1Umcfmp0M2f7tndU\"",
+        "id" : "z131yn3jvov1s3ipp04cexrqywbvcrqgizk0k.1344016444668000",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "I&#39;ve done a few projects on boards with only solder lines on the proto PCBs. I like using wires more except when you find a mistake and the wire is buried below many others.",
+          "objectType" : "comment",
+          "originalContent" : "I've done a few projects on boards with only solder lines on the proto PCBs. I like using wires more except when you find a mistake and the wire is buried below many others."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-03T17:54:04.668Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-08-03T17:54:04.668Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/sTdbFiAOVooSa26qCaQnhPshCvI\"",
+        "id" : "z131yn3jvov1s3ipp04cexrqywbvcrqgizk0k.1344016797744423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Yeah I like it because while it takes some time to design the board to be single sided (lots of flipping the components around to get them all to work without crossing line), it takes almost no time to solder it up.  I also think that it looks pretty bad-ass.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-03T17:59:57.744Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2012-08-03T17:59:57.744Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/RpeFDo1mQ2vFNegDcx0HVw5bIvA\"",
+        "id" : "z131yn3jvov1s3ipp04cexrqywbvcrqgizk0k.1344017105134000",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "I always had trouble soldering between the circular pads and the solder would just bubble up and not connect the pads. How do you make the pads connect? A lower temperature on the iron would probably help.",
+          "objectType" : "comment",
+          "originalContent" : "I always had trouble soldering between the circular pads and the solder would just bubble up and not connect the pads. How do you make the pads connect? A lower temperature on the iron would probably help."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-03T18:05:05.134Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-08-03T18:05:05.134Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Qde9ahx610y0Tm1KnwDiozPGu6A\"",
+        "id" : "z131yn3jvov1s3ipp04cexrqywbvcrqgizk0k.1344024034150423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "I usually cut the legs off a spare cap or resistor and have that run the trace lines.  I cut and bend them to fit the trace I am trying to make, and the wires make it easy to get the solder and pads to stick.  I am also using am much better solder station that has digital controls. ~350 degrees seems to be the right temp for me. <br /><br />Lately I have been buying the proto-boards with the square pads at <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/100139456300784928828\" oid=\"100139456300784928828\">RadioShack</a></span>. They don&#39;t come in the full-sized boards but I can usually get all of my stuff on the boards that they do have with the square pads.  I find that square pads solder a lot better because they have more pad and less space between them. ",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-03T20:00:34.150Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2012-08-03T20:00:34.150Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1G_F5Yes-xe4ZG9VfZ1wvQzvlgc\"",
+        "id" : "z131yn3jvov1s3ipp04cexrqywbvcrqgizk0k.1345057891387536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Creating the traces with wire would really help with connecting pads and making the routing easier. I don&#39;t know that I&#39;ve seen a protoboard with square pads, but I&#39;ll have to keep my eyes open for one.",
+          "objectType" : "comment",
+          "originalContent" : "Creating the traces with wire would really help with connecting pads and making the routing easier. I don't know that I've seen a protoboard with square pads, but I'll have to keep my eyes open for one."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-15T19:11:31.387Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-08-15T19:11:31.387Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/N9wddIcRlPJ3mc5wPadB97icBxE\"",
+        "id" : "z131yn3jvov1s3ipp04cexrqywbvcrqgizk0k.1345062298571423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "I just posted a pic and shared it with you, not sure if that will show in your feel but it will def show if you look at mine.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-15T20:24:58.571Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2012-08-15T20:24:58.571Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/YKXepG_bhYxBC_y7AIqDQ-Tkvlw\"",
+        "id" : "z131yn3jvov1s3ipp04cexrqywbvcrqgizk0k.1345062748985000",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "It gave me a notification.",
+          "objectType" : "comment",
+          "originalContent" : "It gave me a notification."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-15T20:32:28.985Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-08-15T20:32:28.985Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/6_EHVBEXh9dya5bc_VMOJZibNEM\"",
+        "id" : "z131yn3jvov1s3ipp04cexrqywbvcrqgizk0k.1345064591802423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "hmm, does it not show it in your stream at the Home button?  I am still trying to figure g+ out...",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-15T21:03:11.802Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2012-08-15T21:03:11.802Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/stITYiuTY2mZfmLI-f38k4oFZZQ\"",
+        "id" : "z131yn3jvov1s3ipp04cexrqywbvcrqgizk0k.1345065774025536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Sorry, yeah it does show up in my stream. I was just leaving work as you sent it so I only checked the notifications on my phone. I thought you were wondering if I was going to see it -  I&#39;d see it either way.",
+          "objectType" : "comment",
+          "originalContent" : "Sorry, yeah it does show up in my stream. I was just leaving work as you sent it so I only checked the notifications on my phone. I thought you were wondering if I was going to see it -  I'd see it either way."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-15T21:22:54.025Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-08-15T21:22:54.025Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 10
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/XMKmJLtXvwL"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-07-27T17:52:40.504Z",
+  "title" : "I've heard of wire-wrapping before and thought that was insane. The way that this guy is wiring surface...",
+  "updated" : "2012-07-27T17:52:40.504Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/XMKmJLtXvwL",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

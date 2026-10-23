@@ -1,0 +1,87 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/UZxWA4JFzSxvBmm_IzagVzszPlU\"",
+  "id" : "z13nybfg4zvthxqcr22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "Shortly after assembling and caibrating my Printrbot, I was able to print out my first object (Mr. Jaws by Mahoney in case you were wondering), but it took me a few tries to get the first layer to lay...",
+      "displayName" : "Printrbot Tip: Leveling the Printrbed",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://3.bp.blogspot.com/-DmNJnzrm4lM/UA1MZbP4MkI/AAAAAAAAKuw/v1mGZu672Js/s400/ABBF279F-1BB8-4655-974E-B8FECDD97220.JPG"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/DdcNYO0zx4A4Qm9LjqxPVW2BgOTjRaQq4Kp-9tG7viGV7GswqnLHYfflf8W3evbuQBiZ3AuHnglBsieeffh_YoJO5JRTbsHhuDJCbDYdEsKY6i8aQeZZyDmrrLEl0w=w506-h910",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://tinkeringetc.blogspot.com/2012/07/printrbot-tip-leveling-printrbed.html"
+    } ],
+    "content" : "It seems that my <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/111083326301675474206\" oid=\"111083326301675474206\">Printrbot</a></span> is finally in good working order. Hoping to start printing my own designs soon!",
+    "objectType" : "note",
+    "originalContent" : "It seems that my @111083326301675474206 is finally in good working order. Hoping to start printing my own designs soon!",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Lucas Walter",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/epZ6Koiy4-N01h9-pCGwRZioBJc\"",
+        "id" : "103190342755104432973",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-x7pwUw7EjJk/AAAAAAAAAAI/AAAAAAAAAAA/6Yux1ybeTJk/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/103190342755104432973"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/4xvxt1uuvpn"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-07-23T14:52:13.823Z",
+  "title" : "It seems that my +Printrbot is finally in good working order. Hoping to start printing my own designs...",
+  "updated" : "2012-07-23T14:52:13.823Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/4xvxt1uuvpn",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

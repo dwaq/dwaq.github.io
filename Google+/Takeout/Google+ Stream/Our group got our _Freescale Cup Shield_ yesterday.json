@@ -1,0 +1,119 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/UVLXJyme2bXYotJGVGSh9bD6cM4\"",
+  "id" : "z13pfh25zvjbvvtyr04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5840028945789197873",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "Connected up",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-E2E1o1Vswlo/UQvzYhgo28I/AAAAAAAAODc/XMw0Fg_qCvs/w379-h379-p/photo.jpg",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5840028945789197873/5840028944453655490"
+      }, {
+        "description" : "Fresh out of the static shield bag",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-vxyUASVeJkw/UQvzYm-TMdI/AAAAAAAAODk/4vx29-Y1MdA/w126-h126-p/photo.jpg",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5840028945789197873/5840028945920242130"
+      }, {
+        "description" : "Some female headers hacked up and soldered on",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-7Cb0L9U1IJc/UQvzYi51VQI/AAAAAAAAODU/f9TYRRq7dWo/w126-h126-p/photo.jpg",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5840028945789197873/5840028944827766018"
+      }, {
+        "description" : "The 4 battery indicator LEDs are on in the back right",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-jkukKbAUVbc/UQvzYgrOoEI/AAAAAAAAODg/tnQqOlGJUAA/w126-h126-p/photo.jpg",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5840028945789197873/5840028944229638210"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5840028945789197873"
+    } ],
+    "content" : "Our group got our &quot;Freescale Cup Shield&quot; yesterday that our professor designed and had sent out to be built and populated. All that was left for us to do was solder on some female headers to the dev board and flash it with his code and it was good to go. It controls the servos for steering, motors for driving, and has inputs for the line scan camera, some potentiometers, and buttons. One of my group-mates has the car with all the good stuff so I can only see that it works by flashing the battery indicator lights. If you want any more information about the board, this website is where to look: <a href=\"https://community.freescale.com/docs/DOC-93914\" class=\"ot-anchor\">https://community.freescale.com/docs/DOC-93914</a>",
+    "objectType" : "note",
+    "originalContent" : "Our group got our \"Freescale Cup Shield\" yesterday that our professor designed and had sent out to be built and populated. All that was left for us to do was solder on some female headers to the dev board and flash it with his code and it was good to go. It controls the servos for steering, motors for driving, and has inputs for the line scan camera, some potentiometers, and buttons. One of my group-mates has the car with all the good stuff so I can only see that it works by flashing the battery indicator lights. If you want any more information about the board, this website is where to look: https://community.freescale.com/docs/DOC-93914",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Will Trego",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/wtzLRz4HANCUdaUyDxsee94LUWY\"",
+        "id" : "115036910675509105196",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-m76G17vlzSY/AAAAAAAAAAI/AAAAAAAAAAA/RYYuvD4tRZI/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/115036910675509105196"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 1,
+      "items" : [ ]
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/d6cWj5HLxKb"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-02-01T16:54:58.868Z",
+  "title" : "Our group got our \"Freescale Cup Shield\" yesterday that our professor designed and had sent out to be...",
+  "updated" : "2013-02-01T16:57:26.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/d6cWj5HLxKb",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,109 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/khZjD4ECJFsM9IQsuAfdO6Cj31I\"",
+  "id" : "z12qtjyzjkirtp50j22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5863052781460872481",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 337,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-K8qcg9j0egU/UV2_cOUd7CI/AAAAAAAAPzk/W99HObqV25s/w337-h337-p/photo.jpg",
+          "width" : 337
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5863052781460872481/5863052781507439650"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-RhLQXf8-uuc/UV2_cZzqPcI/AAAAAAAAPzY/QONmv4ufCfc/w168-h168-p/72DD1B74-9880-4E06-8623-50503736462C.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5863052781460872481/5863052784591060418?authkey=COuwoabvi67jbA"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-s-Ngy1vNECA/UV2_cf0OIvI/AAAAAAAAPzY/rcr-QgaP2dQ/w168-h168-p/BF6C9F5E-66B0-49BF-B3D7-53C36ED0F9D0.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5863052781460872481/5863052786204025586?authkey=COuwoabvi67jbA"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5863052781460872481"
+    } ],
+    "content" : "Since the only suitable op-amps I could find for an audio amplifier project in my circuit design class came in SO-8, I got this nifty adapter to convert them to DIP so my group can prototype with them. I have some soldering to do now. ",
+    "objectType" : "note",
+    "originalContent" : "Since the only suitable op-amps I could find for an audio amplifier project in my circuit design class came in SO-8, I got this nifty adapter to convert them to DIP so my group can prototype with them. I have some soldering to do now. ",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/3Y3ux8YGriQ"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-04-04T17:59:13.806Z",
+  "title" : "Since the only suitable op-amps I could find for an audio amplifier project in my circuit design class...",
+  "updated" : "2013-04-04T17:59:19.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/3Y3ux8YGriQ",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

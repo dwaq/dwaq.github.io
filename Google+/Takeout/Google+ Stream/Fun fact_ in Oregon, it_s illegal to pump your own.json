@@ -1,0 +1,71 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/xL4GJ4yZJPac9itehZfNfqP0ucQ\"",
+  "id" : "z13sgjiqrqezxve5c04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "content" : "Fun fact: in Oregon, it&#39;s illegal to pump your own gas. ",
+    "objectType" : "note",
+    "originalContent" : "Fun fact: in Oregon, it's illegal to pump your own gas. ",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Melinda Barone",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/ZpnDfW7V5WcsqatdacEhNMr2o9Y\"",
+        "id" : "107529260769322544164",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-jN7q3MPXGs4/AAAAAAAAAAI/AAAAAAAAAAA/Sn9F25GrS00/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/107529260769322544164"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/V9u41gJuut3"
+  },
+  "provider" : {
+    "title" : "Mobile"
+  },
+  "published" : "2011-07-29T17:56:46.108Z",
+  "title" : "Fun fact: in Oregon, it's illegal to pump your own gas.",
+  "updated" : "2011-07-29T17:56:46.108Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/V9u41gJuut3",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

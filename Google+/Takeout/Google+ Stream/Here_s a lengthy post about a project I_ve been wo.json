@@ -1,0 +1,289 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/qQvbhEwG8V1TjbvcwJa_x6emT2I\"",
+  "id" : "z13kg3ezgtq1sjqq004cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "Up next was my favorite part -- creating the controller. As I mentioned earlier, this is my first project using an Arduino and using it makes creating a project so easy. I was able to create a full ve...",
+      "displayName" : "Automatic Garden Waterer: Part 2",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://3.bp.blogspot.com/-rc3Zn3ZBE7w/UCGsLEwcQpI/AAAAAAAALdQ/grvNfCjvglM/s400/EE95BBC8-8784-4C4A-965D-06E3F587A7BE.JPG"
+      },
+      "image" : {
+        "height" : 120,
+        "type" : "image/jpeg",
+        "url" : "https://3.bp.blogspot.com/-rc3Zn3ZBE7w/UCGsLEwcQpI/AAAAAAAALdQ/grvNfCjvglM/w120-h120/EE95BBC8-8784-4C4A-965D-06E3F587A7BE.JPG",
+        "width" : 120
+      },
+      "objectType" : "article",
+      "url" : "http://tinkeringetc.blogspot.com/2012/08/automatic-garden-waterer-part-2.html"
+    } ],
+    "content" : "Here&#39;s a lengthy post about a project I&#39;ve been working on throughout the summer. It&#39;s a project that switches a valve to water plants in the garden. It has a manual switch to control the valve or an Atmel Atmega328 AVR set up as an Arduino that is used as a timer attached to a relay to display information via a 16x2 character LCD and automatically turn the valve off after a adjustable amount of time. I&#39;m really happy how it turned out and has to be one of my favorite projects so far. If you get a chance to look at it, please write a comment on what you think.",
+    "objectType" : "note",
+    "originalContent" : "Here's a lengthy post about a project I've been working on throughout the summer. It's a project that switches a valve to water plants in the garden. It has a manual switch to control the valve or an Atmel Atmega328 AVR set up as an Arduino that is used as a timer attached to a relay to display information via a 16x2 character LCD and automatically turn the valve off after a adjustable amount of time. I'm really happy how it turned out and has to be one of my favorite projects so far. If you get a chance to look at it, please write a comment on what you think.",
+    "plusoners" : {
+      "totalItems" : 3,
+      "items" : [ {
+        "displayName" : "RadioShack",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/kpG8ayeaHVBOVUevEeqZm2RC_ek\"",
+        "id" : "100139456300784928828",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-9pCZuLXS29M/AAAAAAAAAAI/AAAAAAAAAAA/UEpqPFLVyPE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/100139456300784928828"
+      }, {
+        "displayName" : "Mike Beardmore",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/xom2OkGQQfShtQqJ2xtOfPYyN1s\"",
+        "id" : "116341287830615647443",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-wPvWk8SByOw/AAAAAAAAAAI/AAAAAAAAAAA/JgxLy5WEcnE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/116341287830615647443"
+      }, {
+        "displayName" : "james wolf",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1pOnIk2wStecV-UsYW2Ri2WJjGU\"",
+        "id" : "100923804654788847953",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAAAAA/7GEq8V2XgYE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/100923804654788847953"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/b_t119umL3548Hj3ew5C1unOIhE\"",
+        "id" : "z13kg3ezgtq1sjqq004cexrqywbvcrqgizk0k.1344973605355536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/103250482918841648543\" oid=\"103250482918841648543\">Robert Holder</a></span> Thanks for the kind words. You really owe it to yourself to start playing with an Arduino. So many cool things can come out of it!",
+          "objectType" : "comment",
+          "originalContent" : "@103250482918841648543 Thanks for the kind words. You really owe it to yourself to start playing with an Arduino. So many cool things can come out of it!"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-14T19:46:45.355Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-08-14T19:46:45.355Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/49CBRZSUjq03jIK5_fCtchFiZYw\"",
+        "id" : "z13kg3ezgtq1sjqq004cexrqywbvcrqgizk0k.1344977551408423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "nice work, looks like a finished product!",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-14T20:52:31.408Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2012-08-14T20:52:31.408Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1ofUMirLiw9vvn1GTvcaQK_wDDk\"",
+        "id" : "z13kg3ezgtq1sjqq004cexrqywbvcrqgizk0k.1344979209596423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "and I agree with <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/107457342204653676533\" oid=\"107457342204653676533\">Dillon Nichols</a></span> on the arduino front, they sell them at every <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/100139456300784928828\" oid=\"100139456300784928828\">RadioShack</a></span> in the country and they are pretty simple for people getting started.  If you are still unsure you are ready to break the ice and jump in then I would suggest this book: <br /><a href=\"http://www.amazon.com/Getting-Started-Arduino-Make-Projects/dp/0596155514\" class=\"ot-anchor\">http://www.amazon.com/Getting-Started-Arduino-Make-Projects/dp/0596155514</a> <br />It makes the jump even easier...",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 2
+        },
+        "published" : "2012-08-14T21:20:09.596Z",
+        "statusForViewer" : {
+          "isPlusOned" : true,
+          "canUpdate" : false
+        },
+        "updated" : "2012-08-14T21:20:20.000Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Q3x_v1T1zTVqwC_ZbfgvFN-KTEM\"",
+        "id" : "z13kg3ezgtq1sjqq004cexrqywbvcrqgizk0k.1345038852753536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/100923804654788847953\" oid=\"100923804654788847953\">james w</a></span> Thanks! The main reason I got my 3D printer was to make more professional enclosures for some of my projects. A nice case makes even the most sloppy projects look nice when you hide all the ugly internals.",
+          "objectType" : "comment",
+          "originalContent" : "@100923804654788847953 Thanks! The main reason I got my 3D printer was to make more professional enclosures for some of my projects. A nice case makes even the most sloppy projects look nice when you hide all the ugly internals."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-15T13:54:12.753Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-08-15T13:54:12.753Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/ph2ZYnpYoeHE-9AVa3RAPlgfPNs\"",
+        "id" : "z13kg3ezgtq1sjqq004cexrqywbvcrqgizk0k.1345039550784423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Yeah <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/107457342204653676533\" oid=\"107457342204653676533\">Dillon Nichols</a></span>, I always have issues with trying to stuff my projects into the project enclosures that I find at <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/100139456300784928828\" oid=\"100139456300784928828\">RadioShack</a></span>.  There just isn&#39;t a big enough selection, maybe I need a 3d printer?  Which one are you using? ",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-15T14:05:50.784Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2012-08-15T14:05:50.784Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/eadmT6kQTeU2fSFWI5eikcVUC6I\"",
+        "id" : "z13kg3ezgtq1sjqq004cexrqywbvcrqgizk0k.1345039859970536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/100923804654788847953\" oid=\"100923804654788847953\">james w</a></span>, take a trip to a hardware store and search the aisles for anything that may be used as an enclosure. You may need some creativity, but you can surely get some bigger boxes there.<br />I&#39;m using a Printrbot LC (<a href=\"http://printrbot.com/shop/printrbot-lc/\" class=\"ot-anchor\">http://printrbot.com/shop/printrbot-lc/</a>). When I backed the Kickstarter, it was about the cheapest way to get a 3D printer. There&#39;s other inexpensive options now, but I can say I&#39;m very satisfied with my &#39;bot.",
+          "objectType" : "comment",
+          "originalContent" : "@100923804654788847953, take a trip to a hardware store and search the aisles for anything that may be used as an enclosure. You may need some creativity, but you can surely get some bigger boxes there.\nI'm using a Printrbot LC (http://printrbot.com/shop/printrbot-lc/). When I backed the Kickstarter, it was about the cheapest way to get a 3D printer. There's other inexpensive options now, but I can say I'm very satisfied with my 'bot."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-15T14:10:59.970Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-08-15T14:10:59.970Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 6
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/ZEU2AcKudc3"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-08-14T13:13:32.747Z",
+  "title" : "Here's a lengthy post about a project I've been working on throughout the summer. It's a project that...",
+  "updated" : "2012-08-14T13:13:32.747Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/ZEU2AcKudc3",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

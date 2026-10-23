@@ -1,0 +1,71 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/oIZ36_WWT8u13PkbNFQm5DjhpwI\"",
+  "id" : "z13dvpegulqrc1h5a04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "content" : "My roommate&#39;s new TI-89 has a much easier to read screen than my TI-89 from two years ago. I&#39;m glad they are continuing to make improvements even though it is essentially the same product. ",
+    "objectType" : "note",
+    "originalContent" : "My roommate's new TI-89 has a much easier to read screen than my TI-89 from two years ago. I'm glad they are continuing to make improvements even though it is essentially the same product. ",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Sara Anderson",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/N2Bnh5nAMIUlJkQ3jc3IgrL-qdk\"",
+        "id" : "102373629843438650552",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-6_rAPJOG-Vw/AAAAAAAAAAI/AAAAAAAAAAA/9kB6SbuPUtg/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102373629843438650552"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/UqMG18Hf55C"
+  },
+  "provider" : {
+    "title" : "Mobile"
+  },
+  "published" : "2011-09-29T21:24:45.874Z",
+  "title" : "My roommate's new TI-89 has a much easier to read screen than my TI-89 from two years ago. I'm glad ...",
+  "updated" : "2011-09-29T21:24:45.874Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/UqMG18Hf55C",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

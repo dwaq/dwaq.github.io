@@ -1,0 +1,77 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/k63wRJU4KOXshn9xDVL22oBR6I0\"",
+  "id" : "z12oclxyetnkt33dw22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "Macrostomata - A security system for my apartment.",
+      "displayName" : "Macrostomata",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "https://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/HXa3YsniUc8vczq91QirQ0Ch4CYBa8mzbdwgvIYvtf-1XwqCPcJT44eYaXWKF9RgCTG5ZDCBqme3-zmj0qTQ6Utq_7A2J3lhTFbicYTK_DMUbElyDMsFJtoa=w506-h910",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "https://github.com/dwaq/Macrostomata"
+    } ],
+    "content" : "Like I said yesterday, here&#39;s another update to the code for my project. I left it running overnight to see what would happen and that turned out to be a mistake. I woke up to nearly 300 notifications on my phone. I noticed last night that when I would walk through my apartment the sensor on my front door would trigger momentarily letting me know that the door was opened and closed a second or two later. I initially thought that the sensor was very sensitive to bumps and I may have to modify it so it only triggers when the door is actually open. But after receiving so many notifications, I think it might have something to do with the electronics on my JeeNode that is reading the state. I&#39;ll have to take a closer look at both of those things this evening to see what the cause is. On top of that, I just noticed that, although folders were created on my Dropbox when the sensor went off, there aren&#39;t any photos in those folders. That&#39;s more puzzling and I&#39;m not so sure why that happened. I guess the project isn&#39;t quite over yet!",
+    "objectType" : "note",
+    "originalContent" : "Like I said yesterday, here's another update to the code for my project. I left it running overnight to see what would happen and that turned out to be a mistake. I woke up to nearly 300 notifications on my phone. I noticed last night that when I would walk through my apartment the sensor on my front door would trigger momentarily letting me know that the door was opened and closed a second or two later. I initially thought that the sensor was very sensitive to bumps and I may have to modify it so it only triggers when the door is actually open. But after receiving so many notifications, I think it might have something to do with the electronics on my JeeNode that is reading the state. I'll have to take a closer look at both of those things this evening to see what the cause is. On top of that, I just noticed that, although folders were created on my Dropbox when the sensor went off, there aren't any photos in those folders. That's more puzzling and I'm not so sure why that happened. I guess the project isn't quite over yet!",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/B457i9cVCbR"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-08-26T13:09:59.021Z",
+  "title" : "Like I said yesterday, here's another update to the code for my project. I left it running overnight...",
+  "updated" : "2013-08-26T13:09:59.021Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/B457i9cVCbR",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

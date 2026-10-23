@@ -1,0 +1,77 @@
+{
+  "access" : {
+    "accessSummary" : "Bluetooth Low Energy (Devices)",
+    "description" : "Bluetooth Low Energy (Devices)",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/kxP8BqsvQXEU5mukSYD9whe6SyM\"",
+  "id" : "z12aubx4eknzixuty22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "todHQ tōd todally! brings the power of bluetooth 4 to the palm of your hand to track, interact and connect your smart ready devices to the world around you",
+      "displayName" : "todally! | Enhance and Expand Your World with Bluetooth 4 (Low Energy)",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://www.todhq.com/images/slider/rs/meet_tod.png"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/DLDQwPv1o8_h8OrZQvnk_8rLjpoqr5QBqSgyADgDHtitZc2NvAPCg5Q2MKTN5BeYXOsl5mddnAqqlu_Q7oetcEFT=w506-h910",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://www.todhq.com/index.html"
+    } ],
+    "content" : "A successfully Kickstarter-backed Bluetooth smart beacon.",
+    "objectType" : "note",
+    "originalContent" : "A successfully Kickstarter-backed Bluetooth smart beacon.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/BWesmGZANya"
+  },
+  "provider" : {
+    "title" : "Community"
+  },
+  "published" : "2013-12-17T17:06:34.812Z",
+  "title" : "A successfully Kickstarter-backed Bluetooth smart beacon.",
+  "updated" : "2013-12-17T17:06:34.812Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/BWesmGZANya",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

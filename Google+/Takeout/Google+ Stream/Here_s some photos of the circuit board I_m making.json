@@ -1,0 +1,168 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/nuIdYPlK-TawRhWAgEyVuQS6ab8\"",
+  "id" : "z12xzpeqoq3zezj3b22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5769271990942380721",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-zG6hDCp37qs/UBCST6SfuII/AAAAAAAAK4A/VcbHvkSmkfY/w379-h379-p/D353C406-D899-4EC7-9CC5-B3EE4E59B6C0.JPG",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5769271990942380721/5769271993423607938"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-xZLIYRGIl08/UBCST195r8I/AAAAAAAAK4A/wEdYXCrhdj8/w126-h126-p/9BB4BC46-D497-457A-BB42-97A2143E1E51.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5769271990942380721/5769271992263487426"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-HAJUQsrn3lg/UBCST_I6eOI/AAAAAAAAK4A/I9LR1A9HWnE/w126-h126-p/8F9AC141-5EF1-4736-8FA9-D97AC0651DA5.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5769271990942380721/5769271994725595362"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/--IXWGzt-9ZQ/UBCST0Zd2OI/AAAAAAAAK4A/afdIUDv9cRI/w126-h126-p/2F7B5B23-9249-46EF-9B5A-770FAE19B80C.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5769271990942380721/5769271991842232546"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-L4GZCuPk8_g/UBCST5FcELI/AAAAAAAAK4A/NBJAnUJhhJM/w126-h126-p/D0A2A736-A755-4206-8E1C-97FF6D5CCD47.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5769271990942380721/5769271993100406962"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-u0NBxLh5tz4/UBCST_l0BoI/AAAAAAAAK4A/YgmizDXBtXs/w126-h126-p/69569FEF-D0D3-461C-A4F6-D1D359E407BF.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5769271990942380721/5769271994846807682"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5769271990942380721"
+    } ],
+    "content" : "Here&#39;s some photos of the circuit board I&#39;m making for the Automatic Garden Waterer project. I have screw terminals on the side for +5V power and ground along with a chip socket for the ATMEGA328P. There&#39;s also a 16 pin female header that the 16x2 character LCD display plugs into and a trimpot at the top to adjust the contrast. The resistor along the side is used to pull the uC reset pin high and will have a push button added to it so it can be reset. The LCD is not displaying anything because I don&#39;t have any 16MHz crystals at the moment but they&#39;re coming in the mail. I did jumper wire in the crystal from the Arduino board and it worked as I expected. All that is left to do is wire up the buttons and output for the relay and then figure out how to mount it to the lid. ",
+    "objectType" : "note",
+    "originalContent" : "Here's some photos of the circuit board I'm making for the Automatic Garden Waterer project. I have screw terminals on the side for +5V power and ground along with a chip socket for the ATMEGA328P. There's also a 16 pin female header that the 16x2 character LCD display plugs into and a trimpot at the top to adjust the contrast. The resistor along the side is used to pull the uC reset pin high and will have a push button added to it so it can be reset. The LCD is not displaying anything because I don't have any 16MHz crystals at the moment but they're coming in the mail. I did jumper wire in the crystal from the Arduino board and it worked as I expected. All that is left to do is wire up the buttons and output for the relay and then figure out how to mount it to the lid. ",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/uwXH0q_zgB-feoQkyWc3cX5d66E\"",
+        "id" : "z12xzpeqoq3zezj3b22rhxrr1yu5xn3rw04.1344484899217000",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Glad that you like it Levi",
+          "objectType" : "comment",
+          "originalContent" : "Glad that you like it Levi"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-08-09T04:01:39.217Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-08-09T04:01:39.217Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 1
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/JJoggXUXj9c"
+  },
+  "provider" : {
+    "title" : "Mobile"
+  },
+  "published" : "2012-07-26T00:41:53.397Z",
+  "title" : "Here's some photos of the circuit board I'm making for the Automatic Garden Waterer project. I have ...",
+  "updated" : "2012-07-26T00:41:53.397Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/JJoggXUXj9c",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

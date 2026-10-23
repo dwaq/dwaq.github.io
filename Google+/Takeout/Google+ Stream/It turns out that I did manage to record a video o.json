@@ -1,0 +1,81 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/peLz6zeAerQM-rWVGnZdYop3ONU\"",
+  "id" : "z12wdzlzytjiexlyn04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "youtube"
+      } ],
+      "content" : "A video of me soldering a ATXMEGA32A4U-AU microcontroller in a QFN-44 package to the Nonolith Labs CEE PCB using solderpaste and a hotplate set to 215C.",
+      "displayName" : "SMT Soldering with a Hotplate",
+      "embed" : {
+        "type" : "application/x-shockwave-flash",
+        "url" : "http://www.youtube.com/v/1kXHmYipFns?hl=en&fs=1&autoplay=1"
+      },
+      "image" : {
+        "height" : 284,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/e0f30gtyMextIVUXgIjhBMqZ4d5Rwmm9Jg4gMrPM8IOYKcPXObh6DM6DaaINT1EKN_C_EtDrahPDDoRZmECyEZ4TtfaJiN9Fw6aHYh4C6Q=w506-h284-n",
+        "width" : 506
+      },
+      "objectType" : "video",
+      "url" : "http://www.youtube.com/watch?v=1kXHmYipFns"
+    } ],
+    "content" : "It turns out that I did manage to record a video of me soldering the uC on the CEE board last night. If you pay attention to other parts of the board you can see the flux burning off that I used to hand solder the other parts. I also cleaned the chip up with some desoldering braid afterwards to get rid of the huge short I created on the nearest side to the camera.",
+    "objectType" : "note",
+    "originalContent" : "It turns out that I did manage to record a video of me soldering the uC on the CEE board last night. If you pay attention to other parts of the board you can see the flux burning off that I used to hand solder the other parts. I also cleaned the chip up with some desoldering braid afterwards to get rid of the huge short I created on the nearest side to the camera.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/cPNeEq5NHF5"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-06-27T14:36:33.794Z",
+  "title" : "It turns out that I did manage to record a video of me soldering the uC on the CEE board last night...",
+  "updated" : "2012-06-27T14:36:33.794Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/cPNeEq5NHF5",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

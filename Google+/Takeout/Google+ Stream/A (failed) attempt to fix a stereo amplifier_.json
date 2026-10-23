@@ -1,0 +1,149 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/6uM4nUMq9n_xxQWJ7Ujwh-OrkHE\"",
+  "id" : "z121jztgftjuivvd522rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "I've been using my parent's old stereo amplifier at school to play some tunes in the living room. It lasted almost two semesters but near the end of last semester, one of the channels was cutt...",
+      "displayName" : "How (Not) To Fix A Stereo Amplifier",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://1.bp.blogspot.com/-d6C79o-ipUA/T8V09t4CXII/AAAAAAAAJEI/SGUDgs0nmEI/s400/E7046163-CE85-4D6C-B8F9-6B2763B7D494.JPG"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/Y-bq9lVwvFRjf1jopHndAEKARlymqjmJvVU9-3fTTzn3DGQBdcnOIKSAmkXwfwCEBYcx4PVwEN3perMITyor15IV82VFvPzWZOPTIMklWr0XPucZUVuG2h2UmXyL=w506-h910",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://tinkeringetc.blogspot.com/2012/05/how-not-to-fix-stereo-amplifier.html"
+    } ],
+    "content" : "A (failed) attempt to fix a stereo amplifier.",
+    "objectType" : "note",
+    "originalContent" : "A (failed) attempt to fix a stereo amplifier.",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Brett Coulthard",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/IlFklXQ5za1XT3QyNe7cHNC3iqI\"",
+        "id" : "117674378823937836939",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-0LrsZrtCVck/AAAAAAAAAAI/AAAAAAAAAAA/kg2MfeIO1KU/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117674378823937836939"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Brett Coulthard",
+          "id" : "117674378823937836939",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-0LrsZrtCVck/AAAAAAAAAAI/AAAAAAAAATM/sJ5Hg3v_jpg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/117674378823937836939",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/OpKSEgrHErjC9qYPHhDGGtf1nXE\"",
+        "id" : "z121jztgftjuivvd522rhxrr1yu5xn3rw04.1338344816540042",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Time to bone up on electronics troubleshooting.  They covered it well in the technician level electronics I took but usually it isn&#39;t covered very well if you are in a technologist or engineering course.  My training was geared towards repair.<br /><br />Before you start using the amp for parts there are some other common failures to look into.  Worn out selector switches are common.  And check the audio in/out connectors, they tend to fail at the solder connections due to mechanical stress.<br /><br />And look for cold solder joints and cracked joints.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-05-30T02:26:56.540Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2012-05-30T02:26:56.540Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/02yZeHlX7ySLgSopweSFJ6GMYXM\"",
+        "id" : "z121jztgftjuivvd522rhxrr1yu5xn3rw04.1338345670339536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "As I mentioned, one channel started to cut out before the other. The switches and outputs seemed fine because I could put the speakers on any of the four or so outputs with the same results. I&#39;m thinking I&#39;ve fried some important electronics as I have probably been driving it well past it&#39;s specs as I&#39;ve had four 12&quot; subs attached to it. And you&#39;re right, I haven&#39;t had much experience with troubleshooting electronics, but that doesn&#39;t stop me! So thank you for the advice, I&#39;ll look into the things you mentioned on another day.",
+          "objectType" : "comment",
+          "originalContent" : "As I mentioned, one channel started to cut out before the other. The switches and outputs seemed fine because I could put the speakers on any of the four or so outputs with the same results. I'm thinking I've fried some important electronics as I have probably been driving it well past it's specs as I've had four 12\" subs attached to it. And you're right, I haven't had much experience with troubleshooting electronics, but that doesn't stop me! So thank you for the advice, I'll look into the things you mentioned on another day."
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2012-05-30T02:41:10.339Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-05-30T03:01:29.000Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 2
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/7LGpCWrdxMo"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-05-30T01:49:55.228Z",
+  "title" : "A (failed) attempt to fix a stereo amplifier.",
+  "updated" : "2012-05-30T01:49:55.228Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/7LGpCWrdxMo",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,100 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/oJD1zlFzO0wGPj4kUqupYVw2pb0\"",
+  "id" : "z12iubtgjpuhepty204cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5710937788279218753",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 253,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-DeXW_g1KNjw/T0FTqrRBrzI/AAAAAAAAF20/2ZX_eJlxauI/w253-h253-p/1.png",
+          "width" : 253
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5710937788279218753/5710937795116248882"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 253,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-DKM2FT0mxDs/T0FTvUdu5EI/AAAAAAAAF28/Z743jJm17QI/w253-h253-p/2.png",
+          "width" : 253
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5710937788279218753/5710937874894873666"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5710937788279218753"
+    } ],
+    "content" : "I couldn&#39;t wait any longer to fix the routing on my old Eagle files after hand tracing all the lines on a Game Boy cartridge PCB last night. I uploaded all the changes I made on my parts library, schematic and board file at <a href=\"https://github.com/dwaq/Homebrew-Gameboy-Cartridge\" class=\"ot-anchor\">https://github.com/dwaq/Homebrew-Gameboy-Cartridge</a>.<br /><br />The first thing I did was mess around with my gameboy.lbr file. I added the AT49F040 chip that I was using from another library to mine so that I could modify it to suit my needs. I also renamed all the pins with their actual pin numbers (1,2,3..) instead of their function (I/O1, A10, /WR, etc). It made things a whole lot less confusing for me. I should&#39;ve just started out this way, but since this has been the first time I created custom parts in Eagle, I didn&#39;t know any better.<br /><br />After getting the up-to-date chips into the schematic editor, I used the label function to connect everything up. I didn&#39;t realize Eagle had this function before and running green lines everywhere got confusing. I named all the connections based on the number of the pad on the connector and used letters when the lines only go between the two chips. As far as I know, everything is connected correctly, but I definitely have to go over it all again to make sure.<br /><br />As I said yesterday, I had the board outline laid out satisfactorily. The only thing I had to modify was the drill holes. I believe I did it right by putting the hole on the 44 Drill layer, and I also added matching layers on tStop and bStop (my guess is that these layers prevent routing on those areas). The connector along the bottom is set on the right spot, but I&#39;ll have to move the chips around to make the routing easier.<br /><br />Below are pictures of the schematic and board files.",
+    "objectType" : "note",
+    "originalContent" : "I couldn't wait any longer to fix the routing on my old Eagle files after hand tracing all the lines on a Game Boy cartridge PCB last night. I uploaded all the changes I made on my parts library, schematic and board file at https://github.com/dwaq/Homebrew-Gameboy-Cartridge.\n\nThe first thing I did was mess around with my gameboy.lbr file. I added the AT49F040 chip that I was using from another library to mine so that I could modify it to suit my needs. I also renamed all the pins with their actual pin numbers (1,2,3..) instead of their function (I/O1, A10, /WR, etc). It made things a whole lot less confusing for me. I should've just started out this way, but since this has been the first time I created custom parts in Eagle, I didn't know any better.\n\nAfter getting the up-to-date chips into the schematic editor, I used the label function to connect everything up. I didn't realize Eagle had this function before and running green lines everywhere got confusing. I named all the connections based on the number of the pad on the connector and used letters when the lines only go between the two chips. As far as I know, everything is connected correctly, but I definitely have to go over it all again to make sure.\n\nAs I said yesterday, I had the board outline laid out satisfactorily. The only thing I had to modify was the drill holes. I believe I did it right by putting the hole on the 44 Drill layer, and I also added matching layers on tStop and bStop (my guess is that these layers prevent routing on those areas). The connector along the bottom is set on the right spot, but I'll have to move the chips around to make the routing easier.\n\nBelow are pictures of the schematic and board files.",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Heather Lackey",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/GaG9Enqr8G3eipqpZ59bV8ODxtU\"",
+        "id" : "100036293387428792280",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-ADKZdM4CA-M/AAAAAAAAAAI/AAAAAAAAAAA/CQgnlBxkmzc/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/100036293387428792280"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/ZasikupXegt"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-02-19T20:17:24.916Z",
+  "title" : "I couldn't wait any longer to fix the routing on my old Eagle files after hand tracing all the lines...",
+  "updated" : "2012-02-19T20:17:24.916Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/ZasikupXegt",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

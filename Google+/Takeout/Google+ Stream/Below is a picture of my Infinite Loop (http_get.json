@@ -1,0 +1,82 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/yQmybH-hGszP_LBWhT7aqZYN-ls\"",
+  "id" : "z12fypobwkiidlv5p04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "836D5457-45C6-4BF1-BDE0-B1951A53976E.JPG",
+      "displayName" : "Below is a picture of my Infinite Loop (http://getinfiniteloop.com/) Mini Loop that I received from a Kickstarter backing. I didn't realize it would be so big, and I don't really know why I backed the project in the first place. They show some ideas on the website that may be useful, such as using it in the car, but that's nothing I've ever felt like I needed to do before. I've also thought about bringing it shopping so I could strap my iPhone",
+      "fullImage" : {
+        "height" : 2048,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-qa18NW-HYO0/TzyDF9d-AdI/AAAAAAAAhtA/xI902VpS4jw/w1530-h2048/836D5457-45C6-4BF1-BDE0-B1951A53976E.JPG",
+        "width" : 1530
+      },
+      "id" : "107457342204653676533.5709582566021792210",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-qa18NW-HYO0/TzyDF9d-AdI/AAAAAAAAhtA/xI902VpS4jw/w506-h750/836D5457-45C6-4BF1-BDE0-B1951A53976E.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5709586648781829777/5709582566021792210"
+    } ],
+    "content" : "Below is a picture of my Infinite Loop (<a href=\"http://getinfiniteloop.com/\" class=\"ot-anchor\">http://getinfiniteloop.com/</a>) Mini Loop that I received from a Kickstarter backing. I didn&#39;t realize it would be so big, and I don&#39;t really know why I backed the project in the first place. They show some ideas on the website that may be useful, such as using it in the car, but that&#39;s nothing I&#39;ve ever felt like I needed to do before. I&#39;ve also thought about bringing it shopping so I could strap my iPhone (with the Reminders app as a shopping list) to the shopping cart, but I&#39;m not sure that I could handle the looks that people would give me.<br /><br />However, I did find out that it worked out pretty well as a stand for my iPhone as I recorded the demo for my MSP430 Reaction Game (<a href=\"http://youtu.be/WAzl3TEJ_OY\" class=\"ot-anchor\">http://youtu.be/WAzl3TEJ_OY</a>). I had it set up as you can see in the picture (I only have my phone case suctioned on as I took the photo with my phone) and the stand and phone remained solid in place for the entire video. If you&#39;re really looking for it, you may notice a slight amount of wobble in the very beginning as I pressed the record button on my phone. Overall, I&#39;m really glad I got this, because I&#39;m not sure how I could have made that video without it.",
+    "objectType" : "note",
+    "originalContent" : "Below is a picture of my Infinite Loop (http://getinfiniteloop.com/) Mini Loop that I received from a Kickstarter backing. I didn't realize it would be so big, and I don't really know why I backed the project in the first place. They show some ideas on the website that may be useful, such as using it in the car, but that's nothing I've ever felt like I needed to do before. I've also thought about bringing it shopping so I could strap my iPhone (with the Reminders app as a shopping list) to the shopping cart, but I'm not sure that I could handle the looks that people would give me.\n\nHowever, I did find out that it worked out pretty well as a stand for my iPhone as I recorded the demo for my MSP430 Reaction Game (http://youtu.be/WAzl3TEJ_OY). I had it set up as you can see in the picture (I only have my phone case suctioned on as I took the photo with my phone) and the stand and phone remained solid in place for the entire video. If you're really looking for it, you may notice a slight amount of wobble in the very beginning as I pressed the record button on my phone. Overall, I'm really glad I got this, because I'm not sure how I could have made that video without it.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/XR8LZ6vVAGW"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-02-16T04:32:15.455Z",
+  "title" : "Below is a picture of my Infinite Loop (http://getinfiniteloop.com/) Mini Loop that I received from ...",
+  "updated" : "2012-02-16T04:32:15.455Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/XR8LZ6vVAGW",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

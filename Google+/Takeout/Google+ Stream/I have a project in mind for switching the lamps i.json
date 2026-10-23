@@ -1,0 +1,304 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/hhueAUdD_Xbt9qoVNBz4ggDN-jQ\"",
+  "id" : "z13xh114mwifsdlqb04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "Bedroom Lamps Preview",
+      "id" : "107457342204653676533.6055594677176206241",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-A2KrS4JerX4/VAnLRgyLDxI/AAAAAAAAZPM/JOzp7etkzOY/w379-h379-p/IMG_7094.JPG",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6055594677176206241/6055594675694931730"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-Xo4MzcL5RNE/VAnLRj8J35I/AAAAAAAAZLw/lrKIqYL4iyY/w126-h126-p/IMG_7093.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6055594677176206241/6055594676542103442"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-99B4hsMtIqk/VAnLRrXme5I/AAAAAAAAZLw/-TCjerhX7Ck/w126-h126-p/IMG_7095.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6055594677176206241/6055594678536272786"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-BOSrzDl6_-8/VAnLRm9v5aI/AAAAAAAAZLw/Vr-dPTTC7vE/w126-h126-p/IMG_7102.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6055594677176206241/6055594677354096034"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-A4kzLTIJcVM/VAnLRm_4uvI/AAAAAAAAZLw/fFWA8q5PI6U/w126-h126-p/IMG_7101.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6055594677176206241/6055594677363063538"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-HrjpK4OIWaU/VAnLRk7fzgI/AAAAAAAAZLw/3xDHUnz_l80/w126-h126-p/IMG_7097.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6055594677176206241/6055594676807781890"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-W781zU8CZI0/VAnLRstwepI/AAAAAAAAZLw/R477Ly6E4dQ/w126-h126-p/IMG_7096.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6055594677176206241/6055594678897638034"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-fr5k1VUZrvA/VAnLRtJdo3I/AAAAAAAAZLw/P1DdbyYuBHA/w126-h126-p/IMG_7103.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6055594677176206241/6055594679013843826"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-S-xjivwRw2U/VAnLRt3JihI/AAAAAAAAZLw/CdRL997S19c/w126-h126-p/IMG_7100.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6055594677176206241/6055594679205464594"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-IT9AnzbMZBA/VAnLRoI2XvI/AAAAAAAAZLw/46fHLQJz3z4/w126-h126-p/IMG_7099.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6055594677176206241/6055594677669093106"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/6055594677176206241"
+    } ],
+    "content" : "I have a project in mind for switching the lamps in my bedroom on and off from either the lightswitch and the lamps individually. To start off, I made an outlet that works the same as the one in the bedroom. The bottom outlet is always on and the top outlet is controlled by the lightswitch. I plan on powering a microcontroller from the always-on outlet which will also control these wireless outlets which will be connected to another outlet in the bedroom. It will detect if the top outlet is on or off. I&#39;m still in the process of figuring out the best way to detect that. I&#39;m looking for something that is power efficient and has a low part count. I think a non-contact detector will work well but I need to experiment that I can detect the top outlet&#39;s voltage, while powering from the bottom outlet.",
+    "objectType" : "note",
+    "originalContent" : "I have a project in mind for switching the lamps in my bedroom on and off from either the lightswitch and the lamps individually. To start off, I made an outlet that works the same as the one in the bedroom. The bottom outlet is always on and the top outlet is controlled by the lightswitch. I plan on powering a microcontroller from the always-on outlet which will also control these wireless outlets which will be connected to another outlet in the bedroom. It will detect if the top outlet is on or off. I'm still in the process of figuring out the best way to detect that. I'm looking for something that is power efficient and has a low part count. I think a non-contact detector will work well but I need to experiment that I can detect the top outlet's voltage, while powering from the bottom outlet.",
+    "plusoners" : {
+      "totalItems" : 2,
+      "items" : [ {
+        "displayName" : "Jaipal Kamboj",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/pPdC-AM25hjAK5tMnPCkXqBG9Ho\"",
+        "id" : "115479630519722324573",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-ZXyLgUJFbNk/AAAAAAAAAAI/AAAAAAAAAAA/iFm45qnE0CA/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/115479630519722324573"
+      }, {
+        "displayName" : "R.I.P. Jon Sanford",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/VVF01ZEDZjCP6jC-C4UhAAWtvZE\"",
+        "id" : "106852875595123914060",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-WvM2hM-cZgQ/AAAAAAAAAAI/AAAAAAAAAAA/ZbUzXbRGN3c/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/106852875595123914060"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "R.I.P. Jon Sanford",
+          "id" : "106852875595123914060",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-WvM2hM-cZgQ/AAAAAAAAAAI/AAAAAAAADdQ/D2btrh6sQeM/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/106852875595123914060",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/KMw4bq-2Jc4yCLFPcpAipnN9ZrQ\"",
+        "id" : "z13xh114mwifsdlqb04cexrqywbvcrqgizk0k.1409935132505224",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "&gt;I have a project in mind for switching the lamps in my bedroom on and off from either the lightswitch and the lamps individually.&lt;<br />   You can&#39;t alter the room wiring?   Just run a wire from the room light switch to all the plugs for the lights you want to control.   ",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2014-09-05T16:38:52.505Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2014-09-05T16:38:52.505Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1btOsyOVpXQTCC1T-v0plR226wA\"",
+        "id" : "z13xh114mwifsdlqb04cexrqywbvcrqgizk0k.1409937666873536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "I&#39;m renting the apartment so I can&#39;t make any changes to the wiring. <br /><br />To flush out my idea some more, I want it so that the light switch turns both lamps on and off. And then each lamp would have it&#39;s own switch to turn it on and off. Right now if I turn the light switch off, power is killed and I can&#39;t turn the lamp back on unless I switch the light switch. ",
+          "objectType" : "comment",
+          "originalContent" : "I'm renting the apartment so I can't make any changes to the wiring. \n\nTo flush out my idea some more, I want it so that the light switch turns both lamps on and off. And then each lamp would have it's own switch to turn it on and off. Right now if I turn the light switch off, power is killed and I can't turn the lamp back on unless I switch the light switch. "
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2014-09-05T17:21:06.873Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2014-09-05T17:21:06.873Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "R.I.P. Jon Sanford",
+          "id" : "106852875595123914060",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-WvM2hM-cZgQ/AAAAAAAAAAI/AAAAAAAADdQ/D2btrh6sQeM/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/106852875595123914060",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/QGqWarGBe--DSqc38LoxoSRuGuE\"",
+        "id" : "z13xh114mwifsdlqb04cexrqywbvcrqgizk0k.1409966519175224",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<a href=\"https://www.google.com/search?q=3+wire+switch+wiring+diagram&amp;biw=1866&amp;bih=959&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ei=omEKVJfWIY2MyATEo4LwCw&amp;ved=0CB0QsAQ\" class=\"ot-anchor\">https://www.google.com/search?q=3+wire+switch+wiring+diagram&amp;biw=1866&amp;bih=959&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ei=omEKVJfWIY2MyATEo4LwCw&amp;ved=0CB0QsAQ</a><br /><br />You can use that system to make a custom set of outlet boxes designed to be removeable.  Should be simpler than wireless and microprocessor.  But I suspect you need a practical excuse to play with the new stuff.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2014-09-06T01:21:59.175Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2014-09-06T01:27:59.000Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/FOGm-pawK4RWNRL2HU1M1phw_fo\"",
+        "id" : "z13xh114mwifsdlqb04cexrqywbvcrqgizk0k.1410099176257536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "That&#39;s interesting. I never realized how those worked. I would rather use that but I don&#39;t want to run wires everywhere. That&#39;s where wireless comes in. Plus I&#39;d love to play with a new project. Thanks for the ideas though. I&#39;m sure I can use that knowledge for another some project someday.",
+          "objectType" : "comment",
+          "originalContent" : "That's interesting. I never realized how those worked. I would rather use that but I don't want to run wires everywhere. That's where wireless comes in. Plus I'd love to play with a new project. Thanks for the ideas though. I'm sure I can use that knowledge for another some project someday."
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2014-09-07T14:12:56.257Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2014-09-07T14:12:56.257Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 4
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/aNriP4UZ9kD"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-09-05T14:47:10.993Z",
+  "title" : "I have a project in mind for switching the lamps in my bedroom on and off from either the lightswitch...",
+  "updated" : "2014-09-05T14:47:10.993Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/aNriP4UZ9kD",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

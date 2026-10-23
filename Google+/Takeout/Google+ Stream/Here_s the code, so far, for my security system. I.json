@@ -1,0 +1,88 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/YaKBdAk9GH-iPt9wcVrXUxzE0Jc\"",
+  "id" : "z13iedaahwjydb20a22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "Macrostomata - A security system for my apartment.",
+      "displayName" : "Macrostomata",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "https://github.global.ssl.fastly.net/images/gravatars/gravatar-user-420.png"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/WPSteVR97ydGF2_-e_6RDbiSbBh0H2AU1OiGr7B23MJp7-r-CtlxfL0493ic-5eSiBjKa71wIF6N1IRcI7ljOcymXnfz8bhX2NPyPRTCiMPiPan2n8fId815Uw=w506-h910",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "https://github.com/dwaq/Macrostomata"
+    } ],
+    "content" : "Here&#39;s the code, so far, for my security system. I&#39;ll be putting a lot of work into it this weekend and wanted a place to come back to if I really break something, so that&#39;s why today was a good time to push it to GitHub.",
+    "objectType" : "note",
+    "originalContent" : "Here's the code, so far, for my security system. I'll be putting a lot of work into it this weekend and wanted a place to come back to if I really break something, so that's why today was a good time to push it to GitHub.",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Bryan Rentoul",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/I2WJmLrik0j0xXBUO_QTUewSHAk\"",
+        "id" : "115482461410471042241",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-CpJn8JnaPck/AAAAAAAAAAI/AAAAAAAAAAA/fI2kd8dEkA4/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/115482461410471042241"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 1,
+      "items" : [ ]
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/21ptZSq29zB"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-08-23T20:54:16.501Z",
+  "title" : "Here's the code, so far, for my security system. I'll be putting a lot of work into it this weekend ...",
+  "updated" : "2013-08-23T20:54:16.501Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/21ptZSq29zB",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

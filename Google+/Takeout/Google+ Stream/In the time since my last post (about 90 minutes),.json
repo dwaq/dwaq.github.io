@@ -1,0 +1,158 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/l_cM6SU0iOmy-0yFl1ZL5VqXdcM\"",
+  "id" : "z120xrar4zvvul5ef22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "2014-08-26",
+      "id" : "107457342204653676533.6052069455392565569",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "Fresh part",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-oCfVDYkjWcg/U_1FGtgLnlI/AAAAAAAAY4w/SjmRjkaXTQw/w379-h379-p/IMG_7045.JPG",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6052069455392565569/6052069455851920978"
+      }, {
+        "description" : "Design in Autodesk Inventor",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-kQsMvJXbJN4/U_1FGgzgUsI/AAAAAAAAY4w/QXMNcRmTZFQ/w126-h126-p/IMG_7047.PNG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6052069455392565569/6052069452443308738"
+      }, {
+        "description" : "Before",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-OlvmXIqXemc/U_1FGno3OnI/AAAAAAAAY4w/gtZZrldYag4/w126-h126-p/IMG_7043.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6052069455392565569/6052069454277720690"
+      }, {
+        "description" : "After",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-nasnO8xsJ4M/U_1FGrXRwGI/AAAAAAAAY4w/qcak9dhCiDo/w126-h126-p/IMG_7051.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6052069455392565569/6052069455277703266"
+      }, {
+        "description" : "Extra length on the back for support",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-cMrO6MqeA4c/U_1FGnymj1I/AAAAAAAAY4w/j4VClU4-YPI/w126-h126-p/IMG_7054.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6052069455392565569/6052069454318571346"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/6052069455392565569"
+    } ],
+    "content" : "In the time since my last post (about 90 minutes), I designed and printed this cable protector for the hole I drilled for the monitor cables. Since the hole had some jagged edges from the metal plating, I thought this was necessary. I designed it in Autodesk Inventor and it&#39;s extremely simple. Two concentric circles and extrudes of different lengths. I made it a little longer than the wall is thick so there is some extra support on the backside. Things like this are the perfect reason for 3D printers.",
+    "objectType" : "note",
+    "originalContent" : "In the time since my last post (about 90 minutes), I designed and printed this cable protector for the hole I drilled for the monitor cables. Since the hole had some jagged edges from the metal plating, I thought this was necessary. I designed it in Autodesk Inventor and it's extremely simple. Two concentric circles and extrudes of different lengths. I made it a little longer than the wall is thick so there is some extra support on the backside. Things like this are the perfect reason for 3D printers.",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Bs Bas",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/2u3gTyV5cqvP0J2uOgKnFBitM78\"",
+        "id" : "104433197852945218163",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-jgyXOfYO5r8/AAAAAAAAAAI/AAAAAAAAAAA/FiSaDmcLn7I/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/104433197852945218163"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Bs Bas",
+          "id" : "104433197852945218163",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-jgyXOfYO5r8/AAAAAAAAAAI/AAAAAAAAAFM/mdWoLC4rL6k/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/104433197852945218163",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/u_0Mkpyp5NQJwFB-bQ53VOLf0sI\"",
+        "id" : "z120xrar4zvvul5ef22rhxrr1yu5xn3rw04.1409144830719108",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "very clever",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2014-08-27T13:07:10.719Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2014-08-27T13:07:10.719Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 1
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/DaDAmZmW84G"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-08-27T02:46:58.276Z",
+  "title" : "In the time since my last post (about 90 minutes), I designed and printed this cable protector for the...",
+  "updated" : "2014-08-27T02:46:58.276Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/DaDAmZmW84G",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

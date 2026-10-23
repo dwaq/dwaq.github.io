@@ -1,0 +1,171 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/2-O88a8ln_sid_R_kKbRq_R0u7k\"",
+  "id" : "z122ijoolk2lypaaa04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "IMG_6133.JPG",
+      "displayName" : "A lot of work on my #Printrbot  lately... I calibrated the X and Y axis with this neat print (http://www.thingiverse.com/thing:1126) that uses a US nickel for comparison. A nickel has a diameter of 21.21mm and my first print measured about 20.2mm on each axis. After calibrating once, the nickel fit perfectly.\nI recently installed #Ubuntu  on my 10-year-old HP laptop. It can get pretty sluggish even just loading webpages but it's good enough to permanently leave attached to the printer. I installed Printrun (http://reprap.org/wiki/Printrun) on it so I can print straight from the computer or SSH into it and use the command line interface to print from my main laptop (where I do all of my designing and slicing) or iPad if I really have the urge to print while in bed (hah). I'll try this setup out for a while and see how I like it. I want to try Octoprint (http://octoprint.org/) but I don't really want to switch my g-code sending program out because I'm so used to Pronterface. Maybe that's a job for a weekend.",
+      "fullImage" : {
+        "height" : 1536,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-JtB6PHCN6dQ/UstqaELvNaI/AAAAAAAAVTg/MUqWAZoVwYY/w2048-h1536/IMG_6133.JPG",
+        "width" : 2048
+      },
+      "id" : "107457342204653676533.5965979127414470050",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-JtB6PHCN6dQ/UstqaELvNaI/AAAAAAAAVTg/MUqWAZoVwYY/w506-h750/IMG_6133.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5965979122118947137/5965979127414470050"
+    } ],
+    "content" : "A lot of work on my  <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Printrbot\">#Printrbot</a>  lately... I calibrated the X and Y axis with this neat print (<a href=\"http://www.thingiverse.com/thing:1126\" class=\"ot-anchor\">http://www.thingiverse.com/thing:1126</a>) that uses a US nickel for comparison. A nickel has a diameter of 21.21mm and my first print measured about 20.2mm on each axis. After calibrating once, the nickel fit perfectly.<br />I recently installed  <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Ubuntu\">#Ubuntu</a>  on my 10-year-old HP laptop. It can get pretty sluggish even just loading webpages but it&#39;s good enough to permanently leave attached to the printer. I installed Printrun (<a href=\"http://reprap.org/wiki/Printrun\" class=\"ot-anchor\">http://reprap.org/wiki/Printrun</a>) on it so I can print straight from the computer or SSH into it and use the command line interface to print from my main laptop (where I do all of my designing and slicing) or iPad if I really have the urge to print while in bed (hah). I&#39;ll try this setup out for a while and see how I like it. I want to try Octoprint (<a href=\"http://octoprint.org/\" class=\"ot-anchor\">http://octoprint.org/</a>) but I don&#39;t really want to switch my g-code sending program out because I&#39;m so used to Pronterface. Maybe that&#39;s a job for a weekend.",
+    "objectType" : "note",
+    "originalContent" : "A lot of work on my  #Printrbot  lately... I calibrated the X and Y axis with this neat print (http://www.thingiverse.com/thing:1126) that uses a US nickel for comparison. A nickel has a diameter of 21.21mm and my first print measured about 20.2mm on each axis. After calibrating once, the nickel fit perfectly.\nI recently installed  #Ubuntu  on my 10-year-old HP laptop. It can get pretty sluggish even just loading webpages but it's good enough to permanently leave attached to the printer. I installed Printrun (http://reprap.org/wiki/Printrun) on it so I can print straight from the computer or SSH into it and use the command line interface to print from my main laptop (where I do all of my designing and slicing) or iPad if I really have the urge to print while in bed (hah). I'll try this setup out for a while and see how I like it. I want to try Octoprint (http://octoprint.org/) but I don't really want to switch my g-code sending program out because I'm so used to Pronterface. Maybe that's a job for a weekend.",
+    "plusoners" : {
+      "totalItems" : 3,
+      "items" : [ {
+        "displayName" : "Nordin Bouchtaoui",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/eJaUuYgj8Ehui-FZF2U4NET2S_U\"",
+        "id" : "112970327798604857635",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-nrv1PgSkqKc/AAAAAAAAAAI/AAAAAAAAAAA/8TCfyU68OgQ/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/112970327798604857635"
+      }, {
+        "displayName" : "Andy Anderson",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Gz9LP1gMr6I5MC-VCFYb2Dsy5wM\"",
+        "id" : "117011489732657015781",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-4giWb8gSFas/AAAAAAAAAAI/AAAAAAAAAAA/Ppnb9NE6fIQ/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117011489732657015781"
+      }, {
+        "displayName" : "Phillip Katete",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/uOGqjBBDFl_2Eqjv5z5HFTs_s6g\"",
+        "id" : "110247399016044831671",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-28gjtM_vP3s/AAAAAAAAAAI/AAAAAAAAAAA/adkYi8h4h0I/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/110247399016044831671"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Phillip Katete",
+          "id" : "110247399016044831671",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-28gjtM_vP3s/AAAAAAAAAAI/AAAAAAAAA3s/vIfBzkQbzxE/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/110247399016044831671",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/16YU6ciBY66OcWfYgDfRPFHzDpE\"",
+        "id" : "z122ijoolk2lypaaa04cexrqywbvcrqgizk0k.1389079399913926",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Take note @<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/106003970953341660077\" oid=\"106003970953341660077\">Gina Häußge</a></span> ",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2014-01-07T07:23:19.913Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2014-01-07T07:23:19.913Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Andy Anderson",
+          "id" : "117011489732657015781",
+          "image" : {
+            "url" : "https://lh4.googleusercontent.com/-4giWb8gSFas/AAAAAAAAAAI/AAAAAAAARl8/W6oeT8RvdDo/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/117011489732657015781",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/rN4JMvNmOXcAJvpv0cJnVGV2DDI\"",
+        "id" : "z122ijoolk2lypaaa04cexrqywbvcrqgizk0k.1389079402670942",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "You might get better performance using Lubuntu or even Zorin lite - both &#39;buntu based. Of course if Printrun and thing would work ok on a raspberry pi then you would have an always on, low power use and very cheap setup.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2014-01-07T07:23:22.670Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2014-01-07T07:23:22.670Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 2
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/a9jLWJ7G2QK"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-01-07T03:08:28.396Z",
+  "title" : "A lot of work on my #Printrbot  lately... I calibrated the X and Y axis with this neat print (http:/...",
+  "updated" : "2014-01-07T03:08:28.396Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/a9jLWJ7G2QK",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

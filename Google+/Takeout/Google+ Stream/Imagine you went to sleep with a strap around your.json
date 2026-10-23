@@ -1,0 +1,125 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "annotation" : "I&#39;ve always wished that this would become reality  ",
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/tSZN4OUq5XmQ22F7n0kWWjAtBBg\"",
+  "id" : "z13yvx4ilpfwsjj4r04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "displayName" : "Tom Anderson",
+      "id" : "112063946124358686266",
+      "image" : {
+        "url" : "https://lh5.googleusercontent.com/-IKJaEaE8GgY/AAAAAAAAAAI/AAAAAAAC1is/dsAEPXN5WtI/photo.jpg?sz=50"
+      },
+      "url" : "https://plus.google.com/112063946124358686266",
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "UC Berkeley scientists have developed a system to capture visual activity in human brains and reconstruct it as digital video clips. Eventually, this process will allow you to record and reconstruct y...",
+      "displayName" : "Scientists Reconstruct Brains' Visions Into Digital Video In Historic Experiment",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://cache.gizmodo.com/assets/images/4/2011/09/fb_scientists-reconstruct-video-clips-from-brain-activity2.jpg"
+      },
+      "image" : {
+        "height" : 120,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/J-ADzo5an8a_NeQjBYez-QujzxWRVbkD0ot8FJsLSxGg-eg9ukDx1UISRoiWh90HTPhAUyniXU08UYRfam0_j7Uh_dNnpJaf6IHjZy_ifBSOpz3jtfYExtJ4vkDqB28sTg=w120-h120",
+        "width" : 120
+      },
+      "objectType" : "article",
+      "url" : "http://gizmodo.com/5843117/scientists-reconstruct-video-clips-from-brain-activity"
+    } ],
+    "content" : "Imagine you went to sleep with a strap around your head. The strap contained sensors that read your brain patterns/visual memory, and was connected to an iPad-like device on your nightstand. <b>When you wake up in the morning, there&#39;s a video of your dreams, recorded on the iPad.</b> Sound like complete and utter fantasy? From the breakthroughs made by these scientists, this sounds like it could become a reality in our lifetime... <br /><br />If it does ever happen, I&#39;m calling it now: it&#39;ll be <b>a new art form</b>, or at the very least, cool fodder for viral videos on YouTube. Who will be the coolest &quot;dream artist&quot; on YouTube of 2025? (Though this article doesn&#39;t mention it, I&#39;m guessing it could also one day have sound.) <br /><br /><b>Update: A different story on controlling your dreams, from Scientific American</b>: <a href=\"http://tinyurl.com/293hg6l\" class=\"ot-anchor\">http://tinyurl.com/293hg6l</a>",
+    "id" : "z12lefj5es3fxlmzk04chpiw4yvvjlcgqdc",
+    "objectType" : "activity",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Amanda Kulick",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/X_U7TgIYYbuRToI-rYPQ1DgcJ9A\"",
+        "id" : "110689826438161155099",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-CbvT7YUFr7Q/AAAAAAAAAAI/AAAAAAAAAAA/pGIIVe92Ewo/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/110689826438161155099"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Nizar Kalai",
+          "id" : "104965123509644285390",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-eAs25xmiSqY/AAAAAAAAAAI/AAAAAAAAAJw/iHHKSlUpW4M/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/104965123509644285390",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/crdez9l84rWlHG1pWvyy-tgeqLA\"",
+        "id" : "z13yvx4ilpfwsjj4r04cexrqywbvcrqgizk0k.1317014704837000",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Not yet man, they just partially reconstructed &quot;pixels&quot; even though they do not know how because the localization was done by a recursive algorithm and the reconstruction by simple correlation (with random movies), besides they monitored blood activity, not real neural activity ;) in the visual cortex, meaning they&#39;re trying to use the subject&#39;s eyes as a camera...",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2011-09-26T05:25:04.837Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2011-09-26T05:32:39.000Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 1
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+myspacetom/posts/hF3B4qLX4oj"
+  },
+  "provider" : {
+    "title" : "Reshared Post"
+  },
+  "published" : "2011-09-23T23:46:25.418Z",
+  "title" : "Imagine you went to sleep with a strap around your head. The strap contained sensors that read your ...",
+  "updated" : "2011-09-23T23:46:25.418Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/SLSbbYmdpWG",
+  "verb" : "share",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

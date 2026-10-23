@@ -1,0 +1,77 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/4twbSMMcrTI3xn3k5Ik4BkCP6yc\"",
+  "id" : "z12pgdvbeku0sbve422rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "As IT- industry giants engage with the Internet of Things, both the structure and the purpose of the ubiquitous network concept are changing.",
+      "displayName" : "A Clearing Picture of the Internet of Things",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://www.altera.com/technology/system-design/images/internet_layers.jpg"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/EwyEiNMJFjefODa3ZuzotnEcslkZEBvuCNYZWZFb39bgiX4IO-o4DKD7Fv_GLiz7sWkI57Rs5pXjvdah-ITn_bKP5rqLkjGxvxFm1tBZT6bYypPtQydxGSk=w506-h910",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://www.altera.com/technology/system-design/articles/2013/internet-of-things.html#sthash.iMaAHGa9.hpvt"
+    } ],
+    "content" : "The first wave of IoT is happening now where devices are being remade as &quot;smart&quot; and having Wi-Fi connections in them. What I&#39;m really looking forward to is when the individual sensors are connected to the internet and big data makes sense of all the little things that are happening.",
+    "objectType" : "note",
+    "originalContent" : "The first wave of IoT is happening now where devices are being remade as \"smart\" and having Wi-Fi connections in them. What I'm really looking forward to is when the individual sensors are connected to the internet and big data makes sense of all the little things that are happening.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/CWwzhAVwwFP"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-12-16T21:46:26.313Z",
+  "title" : "The first wave of IoT is happening now where devices are being remade as \"smart\" and having Wi-Fi connections...",
+  "updated" : "2013-12-16T21:46:26.313Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/CWwzhAVwwFP",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

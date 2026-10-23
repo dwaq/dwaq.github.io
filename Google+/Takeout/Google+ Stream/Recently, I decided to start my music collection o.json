@@ -1,0 +1,82 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Pf46kgHmZyLg0-bdybD1DTbfME0\"",
+  "id" : "z13sjlq40uryubb0j22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "400571E2-CCF6-46FC-B9B8-A7014F490504.JPG",
+      "displayName" : "Recently, I decided to start my music collection over. I erased all the music from my iTunes library (My music tastes have changed so much from when I originally started using iTunes many years ago) and only added back music I had either on CD or purchased and digitally downloaded. Because I use Spotify (and most recently, AudioGalaxy), I didn't need to have all of my songs on iTunes.\n\nI have been purchasing all of favorite albums from eBay and",
+      "fullImage" : {
+        "height" : 2048,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-TlluP5qMToQ/T1ZjKcRBnaI/AAAAAAAAfck/rMFYkqcoFow/w1530-h2048/400571E2-CCF6-46FC-B9B8-A7014F490504.JPG",
+        "width" : 1530
+      },
+      "id" : "107457342204653676533.5716865808030866850",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-TlluP5qMToQ/T1ZjKcRBnaI/AAAAAAAAfck/rMFYkqcoFow/w506-h750/400571E2-CCF6-46FC-B9B8-A7014F490504.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5716873702634783841/5716865808030866850"
+    } ],
+    "content" : "Recently, I decided to start my music collection over. I erased all the music from my iTunes library (My music tastes have changed so much from when I originally started using iTunes many years ago) and only added back music I had either on CD or purchased and digitally downloaded. Because I use Spotify (and most recently, AudioGalaxy), I didn&#39;t need to have all of my songs on iTunes.<br /><br />I have been purchasing all of favorite albums from eBay and Amazon and needed a place to store them... so I built this CD rack over the course of yesterday and today. It&#39;s 37&quot; tall (the same height as my dresser at school) and has four sections for media. CDs fit horizontally (as seen on the middle shelf) and DVDs or Blu-rays fit vertically in the shelves. Everything is made with 3/4&quot; scrap wood and painted black. I let it dry overnight in the warm garage and assembled it today with 1-5/8&quot; screws. I may eventually add another coat of paint to cover up any imperfections and screw heads, but for right now, it suits my needs just fine.",
+    "objectType" : "note",
+    "originalContent" : "Recently, I decided to start my music collection over. I erased all the music from my iTunes library (My music tastes have changed so much from when I originally started using iTunes many years ago) and only added back music I had either on CD or purchased and digitally downloaded. Because I use Spotify (and most recently, AudioGalaxy), I didn't need to have all of my songs on iTunes.\n\nI have been purchasing all of favorite albums from eBay and Amazon and needed a place to store them... so I built this CD rack over the course of yesterday and today. It's 37\" tall (the same height as my dresser at school) and has four sections for media. CDs fit horizontally (as seen on the middle shelf) and DVDs or Blu-rays fit vertically in the shelves. Everything is made with 3/4\" scrap wood and painted black. I let it dry overnight in the warm garage and assembled it today with 1-5/8\" screws. I may eventually add another coat of paint to cover up any imperfections and screw heads, but for right now, it suits my needs just fine.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/3YfQnntSyew"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-03-06T19:49:47.224Z",
+  "title" : "Recently, I decided to start my music collection over. I erased all the music from my iTunes library...",
+  "updated" : "2012-03-06T19:52:18.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/3YfQnntSyew",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

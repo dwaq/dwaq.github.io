@@ -1,0 +1,344 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/gKMVFwUZaLJAZGZcyQY_N7naY0M\"",
+  "id" : "z13ijvnozs3eehlug22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "E72E183C-E712-4931-AD6C-74B5A578A047.JPG",
+      "fullImage" : {
+        "height" : 1536,
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-x0fRBHNgpZk/UUINHIVyv-I/AAAAAAAAXVQ/a6A2OjsDB2M/w2048-h1536/E72E183C-E712-4931-AD6C-74B5A578A047.JPG",
+        "width" : 2048
+      },
+      "id" : "107457342204653676533.5855256881684201442",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-x0fRBHNgpZk/UUINHIVyv-I/AAAAAAAAXVQ/a6A2OjsDB2M/w506-h750/E72E183C-E712-4931-AD6C-74B5A578A047.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5855256881616353569/5855256881684201442"
+    } ],
+    "content" : "These do exist! Ironic that I received mine on <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23PiDay\">#PiDay</a>",
+    "objectType" : "note",
+    "originalContent" : "These do exist! Ironic that I received mine on #PiDay",
+    "plusoners" : {
+      "totalItems" : 2,
+      "items" : [ {
+        "displayName" : "james wolf",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1pOnIk2wStecV-UsYW2Ri2WJjGU\"",
+        "id" : "100923804654788847953",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAAAAA/7GEq8V2XgYE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/100923804654788847953"
+      }, {
+        "displayName" : "Brandy Bailey",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/qVjksoJAezfolSZqaNbTcV-2yII\"",
+        "id" : "107754551055458242218",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-69ogOM81hdA/AAAAAAAAAAI/AAAAAAAAAAA/Y4V5Qihv78A/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/107754551055458242218"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/G_T7_NMOQI6u3m7Yx2GYLn8MP64\"",
+        "id" : "z13ijvnozs3eehlug22rhxrr1yu5xn3rw04.1363290209975423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "nice, what are you going to try with it? have you worked with linux before?",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-03-14T19:43:29.975Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-03-14T19:43:29.975Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/JCjvU6xGH4YYQ8ZVEO-AN27wPT0\"",
+        "id" : "z13ijvnozs3eehlug22rhxrr1yu5xn3rw04.1363290559127536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "I have Ubuntu installed as one of the OS&#39;s on my computer. I got it mainly to follow these posts <a href=\"http://jeelabs.org/tag/dijn/\" class=\"ot-anchor\">http://jeelabs.org/tag/dijn/</a> but I also want to use it for a print server for my 3D printer, or Raspbmc for airplay on the living room stereo. I&#39;ll start with those and see what else comes up.",
+          "objectType" : "comment",
+          "originalContent" : "I have Ubuntu installed as one of the OS's on my computer. I got it mainly to follow these posts http://jeelabs.org/tag/dijn/ but I also want to use it for a print server for my 3D printer, or Raspbmc for airplay on the living room stereo. I'll start with those and see what else comes up."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-03-14T19:49:19.127Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-03-14T19:49:19.127Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/lWbPsnAOeuqgBcied8JATTab_PY\"",
+        "id" : "z13ijvnozs3eehlug22rhxrr1yu5xn3rw04.1363290853553423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "check out my post on using gphoto is you want to do something cool using a camera and the RPi: <br /><a href=\"https://plus.google.com/u/0/100923804654788847953/posts/7wqKayeGnKX\" class=\"ot-anchor\">https://plus.google.com/u/0/100923804654788847953/posts/7wqKayeGnKX</a>",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-03-14T19:54:13.553Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-03-14T19:54:13.553Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/b7FGyHOhczEHfUWL6w4UTi6mgSo\"",
+        "id" : "z13ijvnozs3eehlug22rhxrr1yu5xn3rw04.1363291029045536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "That would make a cool profile pic. I&#39;ll check it out. I don&#39;t have any camera besides my iPhone though. Is the picture live or just takes a photo and edits it?",
+          "objectType" : "comment",
+          "originalContent" : "That would make a cool profile pic. I'll check it out. I don't have any camera besides my iPhone though. Is the picture live or just takes a photo and edits it?"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-03-14T19:57:09.045Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-03-14T19:57:09.045Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/IKa0StfLvwuvJKeo7pVI83Mgy9k\"",
+        "id" : "z13ijvnozs3eehlug22rhxrr1yu5xn3rw04.1363291278279423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "its a live video feed from the camera, and I think it will work with a multitude of cameras, check gphoto specs for which cameras.  I just happened to be working on a photobooth project and thought that I may be able to use the RPi instead of the laptop I was using for the project.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-03-14T20:01:18.279Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-03-14T20:01:18.279Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/olhHmgCOgypaom5-lnc2OCL_OTc\"",
+        "id" : "z13ijvnozs3eehlug22rhxrr1yu5xn3rw04.1363291363745423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "might want to check this community though: <a href=\"https://plus.google.com/u/0/communities/113390432655174294208\" class=\"ot-anchor\">https://plus.google.com/u/0/communities/113390432655174294208</a>",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-03-14T20:02:43.745Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-03-14T20:02:43.745Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/ljkLokPZWwUqKdCahwA29KDqVg4\"",
+        "id" : "z13ijvnozs3eehlug22rhxrr1yu5xn3rw04.1363291766919536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Maybe my roommate&#39;s GoPro will work. Do you have any recommendations for a memory card? I know they&#39;re kinda specific with which ones work. I think I only have a few 2 GB ones for my Wii at home so I&#39;m gonna run to Walmart or Best Buy and pick one up.",
+          "objectType" : "comment",
+          "originalContent" : "Maybe my roommate's GoPro will work. Do you have any recommendations for a memory card? I know they're kinda specific with which ones work. I think I only have a few 2 GB ones for my Wii at home so I'm gonna run to Walmart or Best Buy and pick one up."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-03-14T20:09:26.919Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-03-14T20:09:26.919Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/DJpHxWkQU6iRWShTgrVM0RH0cdQ\"",
+        "id" : "z13ijvnozs3eehlug22rhxrr1yu5xn3rw04.1363292024815423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "I have the notes for most of what I used on my blog here about doing a RPi internet radio: <a href=\"http://contractorwolf.com/raspberry-pi-radio/\" class=\"ot-anchor\">http://contractorwolf.com/raspberry-pi-radio/</a><br /><br />It includes parts list (wifi dongle, good power supply, sd card, etc.) and instructions on what I did.  I got the 8gb SD card at best buy and the Wifi dongle at amazon ($9).",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-03-14T20:13:44.815Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-03-14T20:13:44.815Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 8
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/DohZJKNm4D9"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-03-14T17:47:08.863Z",
+  "title" : "These do exist! Ironic that I received mine on #PiDay",
+  "updated" : "2013-03-14T17:47:08.863Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/DohZJKNm4D9",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

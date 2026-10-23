@@ -1,0 +1,108 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/QFfVCBE0E78PqHFb2TabFmuoLjc\"",
+  "id" : "z12dwpchwmyfynqyh04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5709215582435026673",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-34upVMoFm6s/Tzs1Uw0N69I/AAAAAAAAEqU/pbAe8bXow88/w379-h379-p/12%2B-%2B1",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5709215582435026673/5709215583439809490"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-cIc-QmxnejA/Tzs1WCO1VkI/AAAAAAAAEqY/dgFpptRYTAs/w126-h126-p/12%2B-%2B2",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5709215582435026673/5709215605294716482"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-s6Xuk5DRMqg/Tzs1Whj77eI/AAAAAAAAErU/_41lAvmtUVM/w126-h126-p/12%2B-%2B3",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5709215582435026673/5709215613704728034"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-81wDFpU-Al8/Tzs1X_9vgfI/AAAAAAAAEqo/Z6KIJO6qfNw/w126-h126-p/12%2B-%2B4",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5709215582435026673/5709215639045898738"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5709215582435026673"
+    } ],
+    "content" : "As I mentioned yesterday, I&#39;ve been working on soldering up a CEE so I&#39;ll attach the photos I have of that to this post. The first two pictures are the bare board that I received from Kickstarter (top and bottom). The third picture includes the components that I happened to have on hand from the parts-list. The last photo is everything that I&#39;ve completed so far. I&#39;m still waiting on the ATXMEGA microcontroller to come in and to solder on the QFN parts from yesterday. I&#39;ll also have to figure out which headers I need to populate to program it.",
+    "objectType" : "note",
+    "originalContent" : "As I mentioned yesterday, I've been working on soldering up a CEE so I'll attach the photos I have of that to this post. The first two pictures are the bare board that I received from Kickstarter (top and bottom). The third picture includes the components that I happened to have on hand from the parts-list. The last photo is everything that I've completed so far. I'm still waiting on the ATXMEGA microcontroller to come in and to solder on the QFN parts from yesterday. I'll also have to figure out which headers I need to populate to program it.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/bQiXpNnYvci"
+  },
+  "provider" : {
+    "title" : "Mobile"
+  },
+  "published" : "2012-02-15T04:32:33.407Z",
+  "title" : "As I mentioned yesterday, I've been working on soldering up a CEE so I'll attach the photos I have of...",
+  "updated" : "2012-02-15T04:34:01.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/bQiXpNnYvci",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

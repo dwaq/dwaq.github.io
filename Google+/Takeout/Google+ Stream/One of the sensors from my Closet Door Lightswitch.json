@@ -1,0 +1,163 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/lIWJdPUQnb2lWi1mB1WxQ5XJqJg\"",
+  "id" : "z135d3eoerjyzf5jg04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "IMG_6992.JPG",
+      "displayName" : "One of the sensors from my Closet Door Lightswitch project (http://tinkeringetc.blogspot.com/2013/03/closet-door-lightswitch.html) stopped working the other week. Last time I was home I checked it out and determined the reed switch wasn't working anymore. This is the second time I've had to replace it (the first time was because it got crushed - glass tubes do not hold up to a slamming door very well). If I knew how much trouble they would be, I would've used a hall effect sensor instead. I also wish I would've designed a PCB so I would have replacements if one breaks. Now I have to take the whole sensor to my apartment to fix it and leave my parents with a non-working closet. ",
+      "fullImage" : {
+        "height" : 2448,
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-OMcYKpbP0hw/U_I5JW0pkLI/AAAAAAAAYko/LoYi3dLKiCM/w3264-h2448/IMG_6992.JPG",
+        "width" : 3264
+      },
+      "id" : "107457342204653676533.6048960082420011186",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-OMcYKpbP0hw/U_I5JW0pkLI/AAAAAAAAYko/LoYi3dLKiCM/w506-h750/IMG_6992.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/6048960081444892641/6048960082420011186"
+    } ],
+    "content" : "One of the sensors from my Closet Door Lightswitch project (<a href=\"http://tinkeringetc.blogspot.com/2013/03/closet-door-lightswitch.html\" class=\"ot-anchor\">http://tinkeringetc.blogspot.com/2013/03/closet-door-lightswitch.html</a>) stopped working the other week. Last time I was home I checked it out and determined the reed switch wasn&#39;t working anymore. This is the second time I&#39;ve had to replace it (the first time was because it got crushed - glass tubes do not hold up to a slamming door very well). If I knew how much trouble they would be, I would&#39;ve used a hall effect sensor instead. I also wish I would&#39;ve designed a PCB so I would have replacements if one breaks. Now I have to take the whole sensor to my apartment to fix it and leave my parents with a non-working closet. ",
+    "objectType" : "note",
+    "originalContent" : "One of the sensors from my Closet Door Lightswitch project (http://tinkeringetc.blogspot.com/2013/03/closet-door-lightswitch.html) stopped working the other week. Last time I was home I checked it out and determined the reed switch wasn't working anymore. This is the second time I've had to replace it (the first time was because it got crushed - glass tubes do not hold up to a slamming door very well). If I knew how much trouble they would be, I would've used a hall effect sensor instead. I also wish I would've designed a PCB so I would have replacements if one breaks. Now I have to take the whole sensor to my apartment to fix it and leave my parents with a non-working closet. ",
+    "plusoners" : {
+      "totalItems" : 2,
+      "items" : [ {
+        "displayName" : "Bradley Michaels .",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/wXgRn7_WA-FznTJuo80rAnI6qwc\"",
+        "id" : "117382373789365150646",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-fPTkaojDnvE/AAAAAAAAAAI/AAAAAAAAAAA/R468Z1cSlOE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117382373789365150646"
+      }, {
+        "displayName" : "R.I.P. Jon Sanford",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/VVF01ZEDZjCP6jC-C4UhAAWtvZE\"",
+        "id" : "106852875595123914060",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-WvM2hM-cZgQ/AAAAAAAAAAI/AAAAAAAAAAA/ZbUzXbRGN3c/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/106852875595123914060"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "R.I.P. Jon Sanford",
+          "id" : "106852875595123914060",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-WvM2hM-cZgQ/AAAAAAAAAAI/AAAAAAAADdQ/D2btrh6sQeM/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/106852875595123914060",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/btPiROhtvy8Wbxe1weoWSyy5rF8\"",
+        "id" : "z135d3eoerjyzf5jg04cexrqywbvcrqgizk0k.1408455798000224",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "You need to add a microprocessor and wireless so your phone app can fix it.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2014-08-19T13:43:18.000Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2014-08-19T13:43:18.000Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/aHsEccAClWlCMaTmF76L_ufF7fI\"",
+        "id" : "z135d3eoerjyzf5jg04cexrqywbvcrqgizk0k.1408457528682536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "I wish I could solve the hardware issue with software. The project does use an MSP430 but no wireless.",
+          "objectType" : "comment",
+          "originalContent" : "I wish I could solve the hardware issue with software. The project does use an MSP430 but no wireless."
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2014-08-19T14:12:08.682Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2014-08-19T14:12:08.682Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 2
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/gWA7UDXLZhb"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-08-18T17:40:00.716Z",
+  "title" : "One of the sensors from my Closet Door Lightswitch project (http://tinkeringetc.blogspot.com/2013/03...",
+  "updated" : "2014-08-18T17:40:00.716Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/gWA7UDXLZhb",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

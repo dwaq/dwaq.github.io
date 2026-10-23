@@ -1,0 +1,118 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/bnYSFWjA0jpT5QKYxeBcAEAJIhI\"",
+  "id" : "z13fd50ycqbbsl1ix04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5853879035811771665",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 337,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-63t_OSzW3Ck/UT0n96Q8QKI/AAAAAAAAO58/XEf-8piql6k/w337-h337-p/4054E2E5-99CC-4AD6-8297-D584F28159F0.JPG",
+          "width" : 337
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5853879035811771665/5853879035217330338?authkey=CKCqt7C07o32VA"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-yBXKYm73kKg/UT0n9xoFmgI/AAAAAAAAO58/hNCDy_IUs30/w168-h168-p/0093D71A-E2FB-4176-A0D6-DA826BB93C6A.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5853879035811771665/5853879032898492930?authkey=CKCqt7C07o32VA"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-eMSkv40FhNo/UT0n91-TB5I/AAAAAAAAO58/oreL1GTrM_Q/w168-h168-p/0CC15EBE-1E60-4810-8AEC-CFEC23E00BC5.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5853879035811771665/5853879034065389458?authkey=CKCqt7C07o32VA"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5853879035811771665?authkey=CKCqt7C07o32VA"
+    } ],
+    "content" : "Some things don&#39;t work out as you expect... I took my (what I thought was) finished automatic closet door light home last week to install and I couldn&#39;t get it working. Since I was away from school I didn&#39;t have all my tools that I needed to troubleshoot the problem. I was able to rig up a light switch, so that at least makes the light usable now. It&#39;s not automatic yet, but it will be soon!",
+    "objectType" : "note",
+    "originalContent" : "Some things don't work out as you expect... I took my (what I thought was) finished automatic closet door light home last week to install and I couldn't get it working. Since I was away from school I didn't have all my tools that I needed to troubleshoot the problem. I was able to rig up a light switch, so that at least makes the light usable now. It's not automatic yet, but it will be soon!",
+    "plusoners" : {
+      "totalItems" : 2,
+      "items" : [ {
+        "displayName" : "Kamil Sindi",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/qenWkahdwH78RONf3YgquXfNhus\"",
+        "id" : "117864115472463542580",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-guDiRJPfSY8/AAAAAAAAAAI/AAAAAAAAAAA/-VMm9bM1sCk/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117864115472463542580"
+      }, {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/dyMw3zBMKXb"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-03-11T00:40:23.762Z",
+  "title" : "Some things don't work out as you expect... I took my (what I thought was) finished automatic closet...",
+  "updated" : "2013-03-11T00:40:23.762Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/dyMw3zBMKXb",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

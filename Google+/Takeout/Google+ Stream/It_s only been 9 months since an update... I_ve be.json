@@ -1,0 +1,92 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/YNt4jxkhiMoIyCM8A3HbQkMgZcc\"",
+  "id" : "z13wvd45ht2tebtyj04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "content" : "It&#39;s only been 9 months since an update... I&#39;ve been keeping busy with firmware development at work for two large projects. I&#39;m loving it, but after coding all day, I don&#39;t have the same urge to come home and do it some more. I&#39;ve put some code I&#39;ve worked with on my GitHub (<a href=\"https://github.com/dwaq\" class=\"ot-anchor\">https://github.com/dwaq</a>), but I don&#39;t have any major projects to show for it. I&#39;ve been pretty interested in linux and full stack web development -- two things that I don&#39;t get much experience with at work, so that&#39;s been my hobby lately. Usually my major projects revolve around some need that I have around the house, and I haven&#39;t had anything pop out at me, so for the time being, I&#39;ll just keep on tinkering.",
+    "objectType" : "note",
+    "originalContent" : "It's only been 9 months since an update... I've been keeping busy with firmware development at work for two large projects. I'm loving it, but after coding all day, I don't have the same urge to come home and do it some more. I've put some code I've worked with on my GitHub (https://github.com/dwaq), but I don't have any major projects to show for it. I've been pretty interested in linux and full stack web development -- two things that I don't get much experience with at work, so that's been my hobby lately. Usually my major projects revolve around some need that I have around the house, and I haven't had anything pop out at me, so for the time being, I'll just keep on tinkering.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Bradley Michaels .",
+          "id" : "117382373789365150646",
+          "image" : {
+            "url" : "https://lh4.googleusercontent.com/-fPTkaojDnvE/AAAAAAAAAAI/AAAAAAAAItc/bCYRTY3yH8s/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/117382373789365150646",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/OG9Xz6mfhwSbx2moYXmwigcy5bM\"",
+        "id" : "z13wvd45ht2tebtyj04cexrqywbvcrqgizk0k.1441391401901933",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "i hear ya, i shimmer at the thought of coding at home and all day long at the job.  We cant have it all without a severe short circuit.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2015-09-04T18:30:01.901Z",
+        "statusForViewer" : {
+          "isPlusOned" : true,
+          "canUpdate" : false
+        },
+        "updated" : "2015-09-04T18:30:01.901Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 1
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/bkzENYi1L1W"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2015-09-03T02:47:01.542Z",
+  "title" : "It's only been 9 months since an update... I've been keeping busy with firmware development at work ...",
+  "updated" : "2015-09-03T02:47:01.542Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/bkzENYi1L1W",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

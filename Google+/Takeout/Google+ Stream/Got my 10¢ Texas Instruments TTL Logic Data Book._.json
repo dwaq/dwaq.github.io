@@ -1,0 +1,81 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/gIPtYlhKWS2RqnfB0Yq_Lfr5d34\"",
+  "id" : "z120fzgzqpzyhpfym04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "9/19/11 - 1",
+      "fullImage" : {
+        "height" : 640,
+        "type" : "image/jpeg",
+        "url" : "https://lh6.googleusercontent.com/-nz2SFDWbmWM/Tne0JtMEcBI/AAAAAAAAEVU/NDzFn_7nmTk/s0-d/11%2B-%2B1",
+        "width" : 479
+      },
+      "id" : "107457342204653676533.5654185936028987410",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh6.googleusercontent.com/-nz2SFDWbmWM/Tne0JtMEcBI/AAAAAAAAEVU/NDzFn_7nmTk/w506-h750/11%2B-%2B1"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5654185933439222033/5654185936028987410"
+    } ],
+    "content" : "Got my 10¢ Texas Instruments TTL Logic Data Book. Although TI&#39;s website makes it very easy to find datasheets, it&#39;s nice to know I can easily look up 1000+ pages of information on all the miscellaneous chips I have in bins. ",
+    "objectType" : "note",
+    "originalContent" : "Got my 10¢ Texas Instruments TTL Logic Data Book. Although TI's website makes it very easy to find datasheets, it's nice to know I can easily look up 1000+ pages of information on all the miscellaneous chips I have in bins. ",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/cBszJDWEeKZ"
+  },
+  "provider" : {
+    "title" : "Mobile"
+  },
+  "published" : "2011-09-19T21:29:11.478Z",
+  "title" : "Got my 10¢ Texas Instruments TTL Logic Data Book. Although TI's website makes it very easy to find datasheets...",
+  "updated" : "2011-09-19T21:29:11.478Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/cBszJDWEeKZ",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

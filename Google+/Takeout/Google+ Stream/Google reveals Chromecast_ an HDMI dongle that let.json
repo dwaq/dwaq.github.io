@@ -1,0 +1,165 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "annotation" : "I love my Apple TV and since this is supposed to work with my iPhone/iPad/Windows laptop running Chrome, I&#39;m excited to see how it functions. And for $35, I don&#39;t see it any different than some of the things I&#39;ve backed on Kickstarter without really knowing what they were. Time will tell. I should know in a couple weeks.",
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/hUvweDWp8bvgQdsuR-IaCxvDFaQ\"",
+  "id" : "z13bipujhs3syrdob04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "displayName" : "The Verge",
+      "id" : "100601380617286837373",
+      "image" : {
+        "url" : "https://lh3.googleusercontent.com/-B5zM7UR_iIg/AAAAAAAAAAI/AAAAAAACX4s/lbCOzBbuG6I/photo.jpg?sz=50"
+      },
+      "url" : "https://plus.google.com/100601380617286837373",
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "",
+      "fullImage" : {
+        "height" : 427,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-3FU4liXQXfY/UfAHWZnRoKI/AAAAAAABntg/WT0FCxa0U5U/s0-d/20130724-09500600--IMG_1204.JPG",
+        "width" : 640
+      },
+      "id" : "100601380617286837373.5904227192896856226",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-3FU4liXQXfY/UfAHWZnRoKI/AAAAAAABntg/WT0FCxa0U5U/w506-h750/20130724-09500600--IMG_1204.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/100601380617286837373/albums/5904227187162596881/5904227192896856226?authkey=CLylopGMwoCGnQE"
+    } ],
+    "content" : "Google reveals Chromecast: an HDMI dongle that lets you stream video to your TV from any device <a href=\"http://bit.ly/1dVgQ7r\" class=\"ot-anchor\">http://bit.ly/1dVgQ7r</a>",
+    "id" : "z121g5zpso3mzlwph04cixebdwbzdtnwkzk0k",
+    "objectType" : "activity",
+    "plusoners" : {
+      "totalItems" : 5,
+      "items" : [ {
+        "displayName" : "Ross Potts",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/zB4zZ5J0_qQMBDYLRk2TMYUqsZQ\"",
+        "id" : "107140093916120316675",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-R6VFVreFRBA/AAAAAAAAAAI/AAAAAAAAAAA/TprVbQDJiE8/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/107140093916120316675"
+      }, {
+        "displayName" : "Jose Rivera",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/WGUVhp02KgkxzCIgOJ5uC4bBoHI\"",
+        "id" : "105290411620441810748",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-At3lz0219to/AAAAAAAAAAI/AAAAAAAAAAA/F4-Zd6aLooY/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/105290411620441810748"
+      }, {
+        "displayName" : "Edgar Melendez",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/uvboa9iPxze5xx3LC5lIbuSBjSk\"",
+        "id" : "110437203426648534567",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-yLtZsP7f6WU/AAAAAAAAAAI/AAAAAAAAAAA/MkkkDz7xIuA/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/110437203426648534567"
+      }, {
+        "displayName" : "Adam McNutt",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/aAm_5vcq8s0Pnf6jwIIbd4_n4-A\"",
+        "id" : "108194717659287862697",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-wi5wxlPqOrk/AAAAAAAAAAI/AAAAAAAAAAA/v2DlxoaZE50/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/108194717659287862697"
+      }, {
+        "displayName" : "james wolf",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1pOnIk2wStecV-UsYW2Ri2WJjGU\"",
+        "id" : "100923804654788847953",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAAAAA/7GEq8V2XgYE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/100923804654788847953"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Htb6a8yCAlUECli1Ge6IuGSzxHU\"",
+        "id" : "z13bipujhs3syrdob04cexrqywbvcrqgizk0k.1374688755163423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "nice spot, I hadn&#39;t seen this yet, ordered :)",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2013-07-24T17:59:15.163Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-07-24T17:59:15.163Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 1
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+TheVerge/posts/W62eZyyz7QD"
+  },
+  "provider" : {
+    "title" : "Reshared Post"
+  },
+  "published" : "2013-07-24T17:52:15.304Z",
+  "title" : "Google reveals Chromecast: an HDMI dongle that lets you stream video to your TV from any device http...",
+  "updated" : "2013-07-24T17:52:15.304Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/PdcZJCMXQTX",
+  "verb" : "share",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,110 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/RZq6OSOC3JazBrVhAkYT0WDNQds\"",
+  "id" : "z13vhrkifma2w3mts22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "IMG_7495.JPG",
+      "displayName" : "It took me long enough but I think I finally found the best way to detect, with a microcontroller, when an outlet is on or off. I tried creating a non contact voltage detector with an antenna but the few circuits I found online either didn't work or weren't sensitive enough. Since I'm powering the circuit from one receptacle and detecting the power on the other receptacle, it really has to detect the voltage in a small area. I had an idea to use a regular brick power supply as an input level but they draw too much power, are too large, and their capacitance causes a huge time delay when falling from the supplied voltage to ground. I decided I would make my own power supply, but I really couldn't save much space. There are circuits I found with low part counts but they didn't have good isolation and I didn't feel safe using them. To help with isolation, I used an optocoupler after a voltage rectifier, and I was almost going to go through with this idea when I looked through my parts and found a 120Vac lamp. I could use this to create my own optocoupler! When the lamp shines on a light dependent resistor, it changes the resistance from very low to very high. I started with a simple transistor circuit and it worked but I couldn't create a large enough voltage spread between on and off that a digital microcontroller pin could detect it. So then I created an op-amp comparator circuit and it worked exactly as I envisioned. These three circuits are on the breadboards in the photo. I'm in the process now of building a 3D-printed case for the homemade optocoupler and I'll be sure to post pictures of that when it is complete.",
+      "fullImage" : {
+        "height" : 2448,
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-nV9Z_zxvqYc/VG9ZUnTP9nI/AAAAAAAAbI8/Hu-JGLoN684/w3264-h2448/IMG_7495.JPG",
+        "width" : 3264
+      },
+      "id" : "107457342204653676533.6084179832282805874",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-nV9Z_zxvqYc/VG9ZUnTP9nI/AAAAAAAAbI8/Hu-JGLoN684/w506-h750/IMG_7495.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/6084179837888918097/6084179832282805874"
+    } ],
+    "content" : "It took me long enough but I think I finally found the best way to detect, with a microcontroller, when an outlet is on or off. I tried creating a non contact voltage detector with an antenna but the few circuits I found online either didn&#39;t work or weren&#39;t sensitive enough. Since I&#39;m powering the circuit from one receptacle and detecting the power on the other receptacle, it really has to detect the voltage in a small area. I had an idea to use a regular brick power supply as an input level but they draw too much power, are too large, and their capacitance causes a huge time delay when falling from the supplied voltage to ground. I decided I would make my own power supply, but I really couldn&#39;t save much space. There are circuits I found with low part counts but they didn&#39;t have good isolation and I didn&#39;t feel safe using them. To help with isolation, I used an optocoupler after a voltage rectifier, and I was almost going to go through with this idea when I looked through my parts and found a 120Vac lamp. I could use this to create my own optocoupler! When the lamp shines on a light dependent resistor, it changes the resistance from very low to very high. I started with a simple transistor circuit and it worked but I couldn&#39;t create a large enough voltage spread between on and off that a digital microcontroller pin could detect it. So then I created an op-amp comparator circuit and it worked exactly as I envisioned. These three circuits are on the breadboards in the photo. I&#39;m in the process now of building a 3D-printed case for the homemade optocoupler and I&#39;ll be sure to post pictures of that when it is complete. ",
+    "objectType" : "note",
+    "originalContent" : "It took me long enough but I think I finally found the best way to detect, with a microcontroller, when an outlet is on or off. I tried creating a non contact voltage detector with an antenna but the few circuits I found online either didn't work or weren't sensitive enough. Since I'm powering the circuit from one receptacle and detecting the power on the other receptacle, it really has to detect the voltage in a small area. I had an idea to use a regular brick power supply as an input level but they draw too much power, are too large, and their capacitance causes a huge time delay when falling from the supplied voltage to ground. I decided I would make my own power supply, but I really couldn't save much space. There are circuits I found with low part counts but they didn't have good isolation and I didn't feel safe using them. To help with isolation, I used an optocoupler after a voltage rectifier, and I was almost going to go through with this idea when I looked through my parts and found a 120Vac lamp. I could use this to create my own optocoupler! When the lamp shines on a light dependent resistor, it changes the resistance from very low to very high. I started with a simple transistor circuit and it worked but I couldn't create a large enough voltage spread between on and off that a digital microcontroller pin could detect it. So then I created an op-amp comparator circuit and it worked exactly as I envisioned. These three circuits are on the breadboards in the photo. I'm in the process now of building a 3D-printed case for the homemade optocoupler and I'll be sure to post pictures of that when it is complete. ",
+    "plusoners" : {
+      "totalItems" : 3,
+      "items" : [ {
+        "displayName" : "Jacob Santos",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Ma2vn-0QBcRpoae5t7aPjH9M-uY\"",
+        "id" : "109849569897658689355",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-9tumbkytRAY/AAAAAAAAAAI/AAAAAAAAAAA/WVOgJBPcrv8/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/109849569897658689355"
+      }, {
+        "displayName" : "Bradley Michaels .",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/wXgRn7_WA-FznTJuo80rAnI6qwc\"",
+        "id" : "117382373789365150646",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-fPTkaojDnvE/AAAAAAAAAAI/AAAAAAAAAAA/R468Z1cSlOE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117382373789365150646"
+      }, {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/ATzbQnwBtTP"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-11-21T15:25:07.725Z",
+  "title" : "It took me long enough but I think I finally found the best way to detect, with a microcontroller, when...",
+  "updated" : "2014-11-21T15:25:07.725Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/ATzbQnwBtTP",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,167 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/aFenf7y_rdcgcHRC1iD3VJoXd_M\"",
+  "id" : "z12sdjw45ouagvbt422rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "5/14/14",
+      "id" : "107457342204653676533.6013405777078282545",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 337,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-ONKXY_Npj2k/U3PosXxMftI/AAAAAAAAXJw/e3e1QbS2c5M/w337-h337-p/IMG_6633.JPG",
+          "width" : 337
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6013405777078282545/6013405776461987538"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-_uhMy6114S4/U3PosXCWjDI/AAAAAAAAXJw/X9pnigjR7FU/w168-h168-p/IMG_6634.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6013405777078282545/6013405776265514034"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-_TuqcidoZHQ/U3PosQXcLQI/AAAAAAAAXJw/UV-s9QKcYis/w168-h168-p/IMG_6635.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6013405777078282545/6013405774474915074"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/6013405777078282545?authkey=CMeq-czr1-iKyQE"
+    } ],
+    "content" : "Maybe I have too much stuff... I was just looking through my dev boards and I found this <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23STM32F0-Discovery\">#STM32F0-Discovery</a> board. Funny thing is that this is the same board I&#39;m using at work. We plan on using this class of ARM processors on a couple of our next-gen products. By the time I&#39;m done with it, I should know everything there is to know about this chip. ",
+    "objectType" : "note",
+    "originalContent" : "Maybe I have too much stuff... I was just looking through my dev boards and I found this #STM32F0-Discovery board. Funny thing is that this is the same board I'm using at work. We plan on using this class of ARM processors on a couple of our next-gen products. By the time I'm done with it, I should know everything there is to know about this chip. ",
+    "plusoners" : {
+      "totalItems" : 4,
+      "items" : [ {
+        "displayName" : "Jimbo jenkins",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/6-WO4c41GJmO064nTtWGKC1xNkA\"",
+        "id" : "116756631995104788793",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-g2wCHCcWbNw/AAAAAAAAAAI/AAAAAAAAAAA/L7qEymPTMO0/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/116756631995104788793"
+      }, {
+        "displayName" : "Marcos Rosendo",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/IB5PBlPR9Le4XxF_ae4vs7OHdYo\"",
+        "id" : "112717200441958675514",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-G9VXpx_1Ktk/AAAAAAAAAAI/AAAAAAAAAAA/dg8OZHIEI8s/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/112717200441958675514"
+      }, {
+        "displayName" : "Raphael Siebenhofer",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/FuyGgos1X5K3HRl4FryJp-nOo44\"",
+        "id" : "116218042876886791586",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-zaRi2jOUWYE/AAAAAAAAAAI/AAAAAAAAAAA/jv2VQUZCDFY/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/116218042876886791586"
+      }, {
+        "displayName" : "Bradley Michaels .",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/wXgRn7_WA-FznTJuo80rAnI6qwc\"",
+        "id" : "117382373789365150646",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-fPTkaojDnvE/AAAAAAAAAAI/AAAAAAAAAAA/R468Z1cSlOE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117382373789365150646"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Eric Brombaugh",
+          "id" : "102551934997523314432",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-kTYk5HdHaA0/AAAAAAAAAAI/AAAAAAAAAAA/HzBmOnQYXX4/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/102551934997523314432",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/YCXWaWt-D8qYFPB4n6AZcw1wEbg\"",
+        "id" : "z12sdjw45ouagvbt422rhxrr1yu5xn3rw04.1400105478735922",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "STM32 Discovery boards rule. Gotta collect &#39;em all!",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2014-05-14T22:11:18.735Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2014-05-14T22:11:18.735Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 1
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/74e8rsVLXD9"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-05-14T22:05:39.079Z",
+  "title" : "Maybe I have too much stuff... I was just looking through my dev boards and I found this #STM32F0-Discovery...",
+  "updated" : "2014-05-14T22:05:39.079Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/74e8rsVLXD9",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

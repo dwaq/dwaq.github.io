@@ -1,0 +1,67 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/E_QH94FQfAH60bxaIy_8xsnTcGA\"",
+  "id" : "z13nwhhoqob5f5tjt04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "A front-end template that helps you build fast, modern mobile web apps.",
+      "displayName" : "Dillon Nichols",
+      "objectType" : "article",
+      "url" : "http://tinkerer.us/"
+    } ],
+    "content" : "The other day, I bought a domain as an impulse purchase. I was looking around to see what was available and found this one for $10 for the first year. I saw a spot for a promo code and searched Google for it and found a coupon that got me the domain for less than a dollar for a year. I&#39;m hosting it right now from Github pages which is good enough for what I&#39;m doing so far (and it&#39;s also free). I don&#39;t know what I&#39;m going to put on my landing page yet, but right now I just have a  Google+ widget. I added an &quot;Engineering Experiences&quot; tab where I put information about classes I&#39;ve taken, workshops I&#39;ve been to, and projects I&#39;ve made (which I wrote in Markdown). I plan on using Github project pages to fill in some other tabs, plus I&#39;m redoing my electric imp-controlled relay project and can host the site there. I&#39;m using Google&#39;s web starter kit for the responsive layout so it functions as both a desktop and mobile app with minimum work from me. I&#39;m hoping I can put to use my web development skills that I&#39;ve gathered over the years.",
+    "objectType" : "note",
+    "originalContent" : "The other day, I bought a domain as an impulse purchase. I was looking around to see what was available and found this one for $10 for the first year. I saw a spot for a promo code and searched Google for it and found a coupon that got me the domain for less than a dollar for a year. I'm hosting it right now from Github pages which is good enough for what I'm doing so far (and it's also free). I don't know what I'm going to put on my landing page yet, but right now I just have a  Google+ widget. I added an \"Engineering Experiences\" tab where I put information about classes I've taken, workshops I've been to, and projects I've made (which I wrote in Markdown). I plan on using Github project pages to fill in some other tabs, plus I'm redoing my electric imp-controlled relay project and can host the site there. I'm using Google's web starter kit for the responsive layout so it functions as both a desktop and mobile app with minimum work from me. I'm hoping I can put to use my web development skills that I've gathered over the years.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/inJDHHxooBC"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-07-10T13:23:29.509Z",
+  "title" : "The other day, I bought a domain as an impulse purchase. I was looking around to see what was available...",
+  "updated" : "2014-07-10T13:23:29.509Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/inJDHHxooBC",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

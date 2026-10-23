@@ -1,0 +1,127 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/IqJ-8himmu92bd4JfbeLA1ZCcVg\"",
+  "id" : "z12uzfkwzrqggj51k22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5854439895017167041",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 337,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-UnM_PA95l3k/UT8mEFxXdUI/AAAAAAAAO8Y/fuGtb9GQVgQ/w337-h337-p/A8DD81C5-43D3-40FC-A5C0-23C43BAD2D06.JPG",
+          "width" : 337
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5854439895017167041/5854439892315501890?authkey=CKb0qPaN_pCCPg"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-VYVi-QK69W4/UT8mEC1mnGI/AAAAAAAAO8Y/whb9IDvCG14/w168-h168-p/126E74F9-FAC8-4EEC-A59E-FD57A3FD6267.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5854439895017167041/5854439891527965794?authkey=CKb0qPaN_pCCPg"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-JQchjRbYNrQ/UT8mEOpgwpI/AAAAAAAAO8Y/LDTsFkmOdEc/w168-h168-p/9EEC7C6D-BABD-4F58-9BAD-806791073919.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5854439895017167041/5854439894698476178?authkey=CKb0qPaN_pCCPg"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5854439895017167041?authkey=CKb0qPaN_pCCPg"
+    } ],
+    "content" : "Another use for the <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%233Dprinter\">#3Dprinter</a>. My roommate bought a new door stop for his door, but it turned out to be too short. Some measurements, a few minutes in SketchUp, and a half-hour print later and the extension was ready. Can&#39;t beat that!",
+    "objectType" : "note",
+    "originalContent" : "Another use for the #3Dprinter. My roommate bought a new door stop for his door, but it turned out to be too short. Some measurements, a few minutes in SketchUp, and a half-hour print later and the extension was ready. Can't beat that!",
+    "plusoners" : {
+      "totalItems" : 3,
+      "items" : [ {
+        "displayName" : "Justin Shaw",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/pXm6xnB7Rq7kRul7NTOCT4UDF6M\"",
+        "id" : "110749747659159749550",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-IFU0TaMUgqQ/AAAAAAAAAAI/AAAAAAAAAAA/Y9uHXE-742s/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/110749747659159749550"
+      }, {
+        "displayName" : "Brandy Bailey",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/qVjksoJAezfolSZqaNbTcV-2yII\"",
+        "id" : "107754551055458242218",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-69ogOM81hdA/AAAAAAAAAAI/AAAAAAAAAAA/Y4V5Qihv78A/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/107754551055458242218"
+      }, {
+        "displayName" : "james wolf",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1pOnIk2wStecV-UsYW2Ri2WJjGU\"",
+        "id" : "100923804654788847953",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAAAAA/7GEq8V2XgYE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/100923804654788847953"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/94DehEGairY"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-03-12T12:56:49.501Z",
+  "title" : "Another use for the #3Dprinter. My roommate bought a new door stop for his door, but it turned out to...",
+  "updated" : "2013-03-12T12:56:49.501Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/94DehEGairY",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

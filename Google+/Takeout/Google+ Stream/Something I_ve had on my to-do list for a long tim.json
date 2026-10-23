@@ -1,0 +1,82 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/nQlIizLnGG99V-ZzNgfF4S56SFs\"",
+  "id" : "z12bt31wls2kepkxo04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "IMG_6583.PNG",
+      "displayName" : "Something I've had on my to-do list for a long time... A wifi-enabled humidity sensor. I'm using a #spark core to read a DHT11 sensor and send the temperature and humidity to a Google spreadsheet to graph the values over time. Then I have a script on the spreadsheet that notifies my phone via #pushover. I've gotten this far but I want to power it from a battery and that's going to take some extra planning. I'm still thinking of the best way to put it in a low power mode and still ensure it sends out data at a reasonable rate.",
+      "fullImage" : {
+        "height" : 1136,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-02paJ7fsfoQ/U2G3Fj_nNMI/AAAAAAAAW9A/3yDF7lYyeRo/w640-h1136/IMG_6583.PNG",
+        "width" : 640
+      },
+      "id" : "107457342204653676533.6008284684078232770",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-02paJ7fsfoQ/U2G3Fj_nNMI/AAAAAAAAW9A/3yDF7lYyeRo/w506-h750/IMG_6583.PNG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/6008284683420980561/6008284684078232770"
+    } ],
+    "content" : "Something I&#39;ve had on my to-do list for a long time... A wifi-enabled humidity sensor. I&#39;m using a <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23spark\">#spark</a> core to read a DHT11 sensor and send the temperature and humidity to a Google spreadsheet to graph the values over time. Then I have a script on the spreadsheet that notifies my phone via <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23pushover\">#pushover</a>. I&#39;ve gotten this far but I want to power it from a battery and that&#39;s going to take some extra planning. I&#39;m still thinking of the best way to put it in a low power mode and still ensure it sends out data at a reasonable rate. ",
+    "objectType" : "note",
+    "originalContent" : "Something I've had on my to-do list for a long time... A wifi-enabled humidity sensor. I'm using a #spark core to read a DHT11 sensor and send the temperature and humidity to a Google spreadsheet to graph the values over time. Then I have a script on the spreadsheet that notifies my phone via #pushover. I've gotten this far but I want to power it from a battery and that's going to take some extra planning. I'm still thinking of the best way to put it in a low power mode and still ensure it sends out data at a reasonable rate. ",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/XCL44VGs2Dt"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-05-01T02:53:11.379Z",
+  "title" : "Something I've had on my to-do list for a long time... A wifi-enabled humidity sensor. I'm using a #...",
+  "updated" : "2014-05-01T02:53:11.379Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/XCL44VGs2Dt",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

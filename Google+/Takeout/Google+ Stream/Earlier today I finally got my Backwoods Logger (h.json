@@ -1,0 +1,141 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/4KSF_SBsk-IhFMWcT42EIxwztCI\"",
+  "id" : "z12rtvfqvq2vgfkvh22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "IMG_6107.JPG",
+      "displayName" : "Earlier today I finally got my Backwoods Logger (http://www.bigmessowires.com/backcountry-logger/) working. I got this two years ago but had problems programming it and gave up on it. After I got used to my TinyLoadr, I was able to reload the program and I finally got it working. I'm currently designing a 3D-printed case for it. I have a first prototype of the bottom half complete and I'm going to start measuring for the top half now. I should have a picture of the case up by the end of the night.",
+      "fullImage" : {
+        "height" : 2048,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-pdhvYNLjbxk/UsinA2-rghI/AAAAAAAAVMQ/1b9kX6A66yE/w1536-h2048/IMG_6107.JPG",
+        "width" : 1536
+      },
+      "id" : "107457342204653676533.5965201339652473362",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-pdhvYNLjbxk/UsinA2-rghI/AAAAAAAAVMQ/1b9kX6A66yE/w506-h750/IMG_6107.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5965201338816188033/5965201339652473362"
+    } ],
+    "content" : "Earlier today I finally got my Backwoods Logger (<a href=\"http://www.bigmessowires.com/backcountry-logger/\" class=\"ot-anchor\">http://www.bigmessowires.com/backcountry-logger/</a>) working. I got this two years ago but had problems programming it and gave up on it. After I got used to my TinyLoadr, I was able to reload the program and I finally got it working. I&#39;m currently designing a 3D-printed case for it. I have a first prototype of the bottom half complete and I&#39;m going to start measuring for the top half now. I should have a picture of the case up by the end of the night.",
+    "objectType" : "note",
+    "originalContent" : "Earlier today I finally got my Backwoods Logger (http://www.bigmessowires.com/backcountry-logger/) working. I got this two years ago but had problems programming it and gave up on it. After I got used to my TinyLoadr, I was able to reload the program and I finally got it working. I'm currently designing a 3D-printed case for it. I have a first prototype of the bottom half complete and I'm going to start measuring for the top half now. I should have a picture of the case up by the end of the night.",
+    "plusoners" : {
+      "totalItems" : 3,
+      "items" : [ {
+        "displayName" : "Bradley Michaels .",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/wXgRn7_WA-FznTJuo80rAnI6qwc\"",
+        "id" : "117382373789365150646",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-fPTkaojDnvE/AAAAAAAAAAI/AAAAAAAAAAA/R468Z1cSlOE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117382373789365150646"
+      }, {
+        "displayName" : "Luis Diaz",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/6Yg9AHQXXmEViu6S2dog9P6sYZQ\"",
+        "id" : "108290751508891748631",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-9TCuR4NN1xQ/AAAAAAAAAAI/AAAAAAAAAAA/71oRvg15NEk/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/108290751508891748631"
+      }, {
+        "displayName" : "Mike “KemoNine” Crosson",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/qfxLtcF1xUqxNaDfN-6kX1FZ7sQ\"",
+        "id" : "104700444006163819544",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-f5OYAGkycTY/AAAAAAAAAAI/AAAAAAAAAAA/a45MxKhWqbQ/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/104700444006163819544"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Petr Š.",
+          "id" : "100228860503687960911",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-npzKsy0jVUY/AAAAAAAAAAI/AAAAAAAABQc/TMwGCRJVKaY/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100228860503687960911",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/upkdWknzHIm0pUK11BFZZVy74B8\"",
+        "id" : "z12rtvfqvq2vgfkvh22rhxrr1yu5xn3rw04.1388911503459382",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "nice :-)",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2014-01-05T08:45:03.459Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2014-01-05T08:45:03.459Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 1
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/KKZECDGztz2"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-01-05T00:36:05.573Z",
+  "title" : "Earlier today I finally got my Backwoods Logger (http://www.bigmessowires.com/backcountry-logger/) working...",
+  "updated" : "2014-01-05T00:36:05.573Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/KKZECDGztz2",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

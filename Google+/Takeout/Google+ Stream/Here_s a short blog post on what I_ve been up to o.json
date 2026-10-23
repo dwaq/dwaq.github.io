@@ -1,0 +1,129 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/v8YPpOp-TLseNsCvFWFhpzv7dCI\"",
+  "id" : "z124cdozhqaywhgse22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "I just finished my next-to-last semester at Penn State, and boy, was it a busy one. I took 5 courses spread over electrical engineering, computer engineering, and computer science, plus a physica...",
+      "displayName" : "Why I've Been Gone",
+      "objectType" : "article",
+      "url" : "http://tinkeringetc.blogspot.com/2013/01/why-ive-been-gone.html"
+    } ],
+    "content" : "Here&#39;s a short blog post on what I&#39;ve been up to over the past several months, my new gadgets, and what I plan to do during my final semester at Penn State.",
+    "objectType" : "note",
+    "originalContent" : "Here's a short blog post on what I've been up to over the past several months, my new gadgets, and what I plan to do during my final semester at Penn State.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/YPJ-Frh121MLwebadbLBby1j-RQ\"",
+        "id" : "z124cdozhqaywhgse22rhxrr1yu5xn3rw04.1357767442074423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "no excuses slacker, get back to making :)",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-01-09T21:37:22.074Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-01-09T21:37:22.074Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/KELMz9Go3MzcQZN0j3WVHxhag6M\"",
+        "id" : "z124cdozhqaywhgse22rhxrr1yu5xn3rw04.1357768392881536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "But I do have an excuse - school and work. I wish I had more time though.",
+          "objectType" : "comment",
+          "originalContent" : "But I do have an excuse - school and work. I wish I had more time though."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-01-09T21:53:12.881Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-01-09T21:53:12.881Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 2
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/2jvLYJTvBps"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-01-09T19:28:38.766Z",
+  "title" : "Here's a short blog post on what I've been up to over the past several months, my new gadgets, and what...",
+  "updated" : "2013-01-09T19:28:38.766Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/2jvLYJTvBps",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,112 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/b7fvY73Nb8fcYhxGLcLW3OfdD4Y\"",
+  "id" : "z12gc1fznz22xf5st22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "MSP430ReactionGame (1).png",
+      "fullImage" : {
+        "height" : 2048,
+        "type" : "image/jpeg",
+        "url" : "https://lh6.googleusercontent.com/-E3s_DQ1n6gI/T6nb-8uxrfI/AAAAAAAAIw0/n3WSTb-HqqY/w288-h288/MSP430ReactionGame%2B%25281%2529.png",
+        "width" : 1566
+      },
+      "id" : "107457342204653676533.5740361074561101298",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh6.googleusercontent.com/-E3s_DQ1n6gI/T6nb-8uxrfI/AAAAAAAAIw0/n3WSTb-HqqY/w506-h750/MSP430ReactionGame%2B%25281%2529.png"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5740361071358741713/5740361074561101298"
+    } ],
+    "content" : "I made a change to my MSP430 Reaction Game project (<a href=\"http://tinkeringetc.blogspot.com/p/msp430-reaction-game.html\" class=\"ot-anchor\">http://tinkeringetc.blogspot.com/p/msp430-reaction-game.html</a>) that I have been wanting to do for a while. I added the ability to restart the game with a different speed or the same speed after the game has been finished. I only had to change the delayTime variable into a global variable and add the ability to restart with either option after the game has ended. You can view the changed code at <a href=\"https://github.com/dwaq/MSP430-Reaction-Game/blob/master/MSP430-Reaction-Game.c\" class=\"ot-anchor\">https://github.com/dwaq/MSP430-Reaction-Game/blob/master/MSP430-Reaction-Game.c</a> . <br /><br />Below is a flow chart of how the game is played on the circuit board. I thought a visual of how the game works would help people better understand the gameplay. I created the chart using <a href=\"http://www.lucidchart.com\" class=\"ot-anchor\">www.lucidchart.com</a> and it came out even better than I was expecting using a free online tool.<br /><br />If anybody is interested in the project, check out my blog above (the first link) and comment if you have any questions. Also, I still have a bunch of PCBs available if anybody would like to build their own.",
+    "objectType" : "note",
+    "originalContent" : "I made a change to my MSP430 Reaction Game project (http://tinkeringetc.blogspot.com/p/msp430-reaction-game.html) that I have been wanting to do for a while. I added the ability to restart the game with a different speed or the same speed after the game has been finished. I only had to change the delayTime variable into a global variable and add the ability to restart with either option after the game has ended. You can view the changed code at https://github.com/dwaq/MSP430-Reaction-Game/blob/master/MSP430-Reaction-Game.c . \n\nBelow is a flow chart of how the game is played on the circuit board. I thought a visual of how the game works would help people better understand the gameplay. I created the chart using www.lucidchart.com and it came out even better than I was expecting using a free online tool.\n\nIf anybody is interested in the project, check out my blog above (the first link) and comment if you have any questions. Also, I still have a bunch of PCBs available if anybody would like to build their own.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Cupid Loverboy",
+          "id" : "101111273776670138448",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-_dd5uxQA0QM/AAAAAAAAAAI/AAAAAAAAAD8/iLMdd5NpzJ0/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/101111273776670138448",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/IxN6HpFMajP3tTm7bGgLFe3-V3U\"",
+        "id" : "z12gc1fznz22xf5st22rhxrr1yu5xn3rw04.1474999356981008",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "NYC game bro....<br /><br />can get the details about its working...as i want to use your project in tech fest co can you plz tell the working of the circuit.<br /><br />",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2016-09-27T18:02:36.981Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2016-09-27T18:02:36.981Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 1
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/5DKqrZoo37d"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-05-09T03:07:03.951Z",
+  "title" : "I made a change to my MSP430 Reaction Game project (http://tinkeringetc.blogspot.com/p/msp430-reaction...",
+  "updated" : "2012-05-09T03:07:03.951Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/5DKqrZoo37d",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

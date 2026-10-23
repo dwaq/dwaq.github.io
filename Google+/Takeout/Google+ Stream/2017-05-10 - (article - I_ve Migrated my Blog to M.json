@@ -1,0 +1,66 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/fL3APWJXqYuIVt99REeJPXp2O8s\"",
+  "id" : "z13kfddy0uuijf52d22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "I believe that Medium offers a better writing and reading experience, so I finally took the effort and migrated all my posts to the new location of my blog: mylifeasa.tinkerer.us. Click the orange \"Redirect page\" button on an...",
+      "displayName" : "I've Migrated my Blog to Medium",
+      "objectType" : "article",
+      "url" : "http://tinkeringetc.blogspot.com/2017/05/ive-migrated-my-blog-to-medium.html"
+    } ],
+    "content" : "",
+    "objectType" : "note",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/DEn3jYSGLgP"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2017-05-10T18:05:07.564Z",
+  "title" : "",
+  "updated" : "2017-05-10T18:05:07.564Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/DEn3jYSGLgP",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

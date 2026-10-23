@@ -1,0 +1,99 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/4idbGrE9c6dfquQnmbj2dMxBwpw\"",
+  "id" : "z13buzm5quvqipysd22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5738430201079563201",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 337,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-sP26uVCALmQ/T6L_3XLtgaI/AAAAAAAAIwQ/KFqkiMOcI2o/w337-h337-p/A763BDF7-1D8A-4BDF-B89D-3E0CA52D8200.JPG",
+          "width" : 337
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5738430201079563201/5738430201804456354"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-gwyaurHf-yY/T6L_3X6YaAI/AAAAAAAAIwQ/1JmXyDLaoiY/w168-h168-p/195AD5EE-86EE-4F14-BA73-555C35F3392E.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5738430201079563201/5738430202000205826"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-HkAVnOtOAfU/T6L_3czCTcI/AAAAAAAAIwQ/Dx-JUPXXZgk/w168-h168-p/274C73CA-D9BC-4617-A19B-03B3053FFD45.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5738430201079563201/5738430203311574466"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5738430201079563201"
+    } ],
+    "content" : "I ordered a variety pack of 0603 surface mount resistors from eBay and they came wrapped together with a rubber band. I was trying to think of a good way to store them because I knew the rubber band wouldn&#39;t last. The holes in the tape that are used for component feeds on pick and place machines are just big enough for a large paperclip to go through. With the paperclip in place, the group can be fanned out to see all of the individual tapes. If this works out, I&#39;ll go back and label each tape with the value in the same spot and order them from least to most resistance to more easily find a particular value. I might even look for a couple small key rings, instead of a paperclip, so it could be used more like a book.",
+    "objectType" : "note",
+    "originalContent" : "I ordered a variety pack of 0603 surface mount resistors from eBay and they came wrapped together with a rubber band. I was trying to think of a good way to store them because I knew the rubber band wouldn't last. The holes in the tape that are used for component feeds on pick and place machines are just big enough for a large paperclip to go through. With the paperclip in place, the group can be fanned out to see all of the individual tapes. If this works out, I'll go back and label each tape with the value in the same spot and order them from least to most resistance to more easily find a particular value. I might even look for a couple small key rings, instead of a paperclip, so it could be used more like a book.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/2fhRAZ7s5ft"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-05-03T21:59:58.464Z",
+  "title" : "I ordered a variety pack of 0603 surface mount resistors from eBay and they came wrapped together with...",
+  "updated" : "2012-05-03T21:59:58.464Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/2fhRAZ7s5ft",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,77 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/hFtyRfdfYuIlS8ZYLqB12qFzqpw\"",
+  "id" : "z12tu52bso31y320j22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "Thingiverse is a universe of things. Download our files and build them with your lasercutter, 3D printer, or CNC.",
+      "displayName" : "Samsung WEP475 Bluetooth Headset Earhook by Dillon1337 - Thingiverse",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://thingiverse-production.s3.amazonaws.com/renders/3f/36/36/49/ca/IMG_5808_preview_featured.jpg"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/DXrwR2OHAQEaoOMOeMN21bSNH1LNjoU5Um5SJki6LoI5BA7wtAoaxDdAwXM4kPlBMjOL7y0SgsQALip-3YMF_pfCz6U6dghUYaYpybzz4eEesdcBrXQrALXA81GyEoyPsdUvjQq8LT4vgSYzMw5AjTrzBg=w506-h910",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://www.thingiverse.com/thing:172687"
+    } ],
+    "content" : "I lost the earpiece for my Bluetooth headset so I designed a replacement in Sketchup. It&#39;s not perfect but it works. If I have troubles with it after some use, I&#39;ll change some dimensions to make it fit better.",
+    "objectType" : "note",
+    "originalContent" : "I lost the earpiece for my Bluetooth headset so I designed a replacement in Sketchup. It's not perfect but it works. If I have troubles with it after some use, I'll change some dimensions to make it fit better.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/3XBcA5EthaJ"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-10-27T20:46:04.575Z",
+  "title" : "I lost the earpiece for my Bluetooth headset so I designed a replacement in Sketchup. It's not perfect...",
+  "updated" : "2013-10-27T20:46:04.575Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/3XBcA5EthaJ",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,138 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/MWKLdNoygdf_JYUQvzdbGnPbNks\"",
+  "id" : "z12jclaa1xuzi1tp204cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "IMG_6102.JPG",
+      "displayName" : "Programming an ATtiny13A using Arduino as an ISP",
+      "fullImage" : {
+        "height" : 2048,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-wqPlZxrNaaQ/UsbPiF3UsbI/AAAAAAAAVIU/WoBP-Td-zyY/w1536-h2048/IMG_6102.JPG",
+        "width" : 1536
+      },
+      "id" : "107457342204653676533.5964682941095522738",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-wqPlZxrNaaQ/UsbPiF3UsbI/AAAAAAAAVIU/WoBP-Td-zyY/w506-h750/IMG_6102.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5964682941675766529/5964682941095522738"
+    } ],
+    "content" : "Last night I finally was able to program an ATtiny13A chip that I wasn&#39;t able to before. I previously tried using the AVR Studio software and a ZeptoProg II programmer but I wasn’t able to get it to cooperate. I found a great blog post on what to do and wrote a condensed version as a reference for the future. You can find that here: <a href=\"https://gist.github.com/dwaq/8239080\" class=\"ot-anchor\">https://gist.github.com/dwaq/8239080</a>. Also, this was my first time writing an actual document (and not a readme file) with Markdown and it’s amazing how easy it is to format documents. I would recommend it for any documents you may need to write that would have headings or included code.",
+    "objectType" : "note",
+    "originalContent" : "Last night I finally was able to program an ATtiny13A chip that I wasn't able to before. I previously tried using the AVR Studio software and a ZeptoProg II programmer but I wasn’t able to get it to cooperate. I found a great blog post on what to do and wrote a condensed version as a reference for the future. You can find that here: https://gist.github.com/dwaq/8239080. Also, this was my first time writing an actual document (and not a readme file) with Markdown and it’s amazing how easy it is to format documents. I would recommend it for any documents you may need to write that would have headings or included code.",
+    "plusoners" : {
+      "totalItems" : 6,
+      "items" : [ {
+        "displayName" : "Brandon Prentice",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Jj9650H6_xGgM1ZdlelXnvSGI5g\"",
+        "id" : "113632126439034122432",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-B1KxdwvZxzc/AAAAAAAAAAI/AAAAAAAAAAA/hqehaW3eyEU/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/113632126439034122432"
+      }, {
+        "displayName" : "Tyson Alain",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/M7b1T5yrTe244tNxmWw-k0qBamw\"",
+        "id" : "107837557649804350220",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-PeYm5oybzDw/AAAAAAAAAAI/AAAAAAAAAAA/PtRfm-UuVxo/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/107837557649804350220"
+      }, {
+        "displayName" : "Bradley Michaels .",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/wXgRn7_WA-FznTJuo80rAnI6qwc\"",
+        "id" : "117382373789365150646",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-fPTkaojDnvE/AAAAAAAAAAI/AAAAAAAAAAA/R468Z1cSlOE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117382373789365150646"
+      }, {
+        "displayName" : "Phillip Katete",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/uOGqjBBDFl_2Eqjv5z5HFTs_s6g\"",
+        "id" : "110247399016044831671",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-28gjtM_vP3s/AAAAAAAAAAI/AAAAAAAAAAA/adkYi8h4h0I/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/110247399016044831671"
+      }, {
+        "displayName" : "Doug Couch",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/pMYadRHyamhLwDeXwWTAcxyGREs\"",
+        "id" : "107746857268369573350",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-TjPD0Sz3IFg/AAAAAAAAAAI/AAAAAAAAAAA/A3933jSoyJY/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/107746857268369573350"
+      }, {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 1,
+      "items" : [ ]
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/UEPfUs6Buz5"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-01-03T15:11:32.350Z",
+  "title" : "Last night I finally was able to program an ATtiny13A chip that I wasn't able to before. I previously...",
+  "updated" : "2014-01-03T15:11:32.350Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/UEPfUs6Buz5",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

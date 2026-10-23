@@ -1,0 +1,110 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1wCxKgt29zwWZBI7pv2B2Q4pmyA\"",
+  "id" : "z12tjjgoasycg32yd04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "30ADF6E9-1613-40C2-90E3-BFADD166CD79.JPG",
+      "fullImage" : {
+        "height" : 1536,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-PNDs2fAqdlU/UUI5lBOkMRI/AAAAAAAAPAA/1YU34qgJp5I/s0-d/30ADF6E9-1613-40C2-90E3-BFADD166CD79.JPG",
+        "width" : 2048
+      },
+      "id" : "107457342204653676533.5855305773682536722",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-PNDs2fAqdlU/UUI5lBOkMRI/AAAAAAAAPAA/1YU34qgJp5I/w506-h750/30ADF6E9-1613-40C2-90E3-BFADD166CD79.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5855305776900607521/5855305773682536722?authkey=CJTbrMCW6dq_sAE"
+    } ],
+    "content" : "I got the rest of the goodies in the mail to follow the Dive Into JeeNodes series (<a href=\"http://jeelabs.net/projects/cafe/wiki/Dive_Into_JeeNodes\" class=\"ot-anchor\">http://jeelabs.net/projects/cafe/wiki/Dive_Into_JeeNodes</a>).  I&#39;m very excited to see what I can do with these. Modern Device (<a href=\"http://shop.moderndevice.com/\" class=\"ot-anchor\">http://shop.moderndevice.com/</a>) did an excellent job with the packaging of these boards (they even threw in a free breadboard Leonardo to play around with). I didn&#39;t notice until now that it has a few ports broken out specifically for servos. I definitely have a project in mind that I can use this board for.",
+    "objectType" : "note",
+    "originalContent" : "I got the rest of the goodies in the mail to follow the Dive Into JeeNodes series (http://jeelabs.net/projects/cafe/wiki/Dive_Into_JeeNodes).  I'm very excited to see what I can do with these. Modern Device (http://shop.moderndevice.com/) did an excellent job with the packaging of these boards (they even threw in a free breadboard Leonardo to play around with). I didn't notice until now that it has a few ports broken out specifically for servos. I definitely have a project in mind that I can use this board for.",
+    "plusoners" : {
+      "totalItems" : 3,
+      "items" : [ {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      }, {
+        "displayName" : "nick Grieco",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/9aNiJ2JkRXoWsXMNdSJ-1SH4DgA\"",
+        "id" : "111270724215802787195",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-xXWEs6beeb4/AAAAAAAAAAI/AAAAAAAAAAA/dU7PhJBkdE0/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/111270724215802787195"
+      }, {
+        "displayName" : "Mike Beardmore",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/xom2OkGQQfShtQqJ2xtOfPYyN1s\"",
+        "id" : "116341287830615647443",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-wPvWk8SByOw/AAAAAAAAAAI/AAAAAAAAAAA/JgxLy5WEcnE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/116341287830615647443"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 1,
+      "items" : [ ]
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/adpo6jxrDLV"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-03-14T20:56:53.723Z",
+  "title" : "I got the rest of the goodies in the mail to follow the Dive Into JeeNodes series (http://jeelabs.net...",
+  "updated" : "2013-03-14T20:56:53.723Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/adpo6jxrDLV",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

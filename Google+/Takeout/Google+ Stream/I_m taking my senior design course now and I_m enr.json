@@ -1,0 +1,77 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/L85kkDFkesSYU309j7lnivOFQLM\"",
+  "id" : "z13ss5drevz4f5ims22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "Overview. This document has links to videos to give tutorials on how to getting started *from scratch* with the freedom board. In these tutorials we build projects with bare metal code to see how thin...",
+      "displayName" : "FREEDOM BOARD / CORTEX M0+ GETTING STARTED | Freescale Community",
+      "objectType" : "article",
+      "url" : "https://community.freescale.com/docs/DOC-93960"
+    } ],
+    "content" : "I&#39;m taking my senior design course now and I&#39;m enrolled in the microcontroller section of it. We&#39;re using a $13 Freescale board (<a href=\"http://www.freescale.com/webapp/sps/site/prod_summary.jsp?code=FRDM-KL25Z\" class=\"ot-anchor\">http://www.freescale.com/webapp/sps/site/prod_summary.jsp?code=FRDM-KL25Z</a>) to do our main project in this course, and my professor is uploading how-to videos for this board onto YouTube so we can learn on our own pace outside of class. I figure I&#39;ll share the link with everyone in case they&#39;d like to follow along, because the videos do a really good job of explaining everything from a really simple standpoint and it would be great for some other people outside of the class to take advantage of it. His getting started videos are located right here: <a href=\"https://community.freescale.com/docs/DOC-93960\" class=\"ot-anchor\">https://community.freescale.com/docs/DOC-93960</a> If anyone decides to learn this board, let me know. I&#39;d like to see what kind of projects you could get going.",
+    "objectType" : "note",
+    "originalContent" : "I'm taking my senior design course now and I'm enrolled in the microcontroller section of it. We're using a $13 Freescale board (http://www.freescale.com/webapp/sps/site/prod_summary.jsp?code=FRDM-KL25Z) to do our main project in this course, and my professor is uploading how-to videos for this board onto YouTube so we can learn on our own pace outside of class. I figure I'll share the link with everyone in case they'd like to follow along, because the videos do a really good job of explaining everything from a really simple standpoint and it would be great for some other people outside of the class to take advantage of it. His getting started videos are located right here: https://community.freescale.com/docs/DOC-93960 If anyone decides to learn this board, let me know. I'd like to see what kind of projects you could get going.",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "james wolf",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1pOnIk2wStecV-UsYW2Ri2WJjGU\"",
+        "id" : "100923804654788847953",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAAAAA/7GEq8V2XgYE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/100923804654788847953"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/Fo8th7o518U"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-01-15T01:46:32.433Z",
+  "title" : "I'm taking my senior design course now and I'm enrolled in the microcontroller section of it. We're ...",
+  "updated" : "2013-01-15T01:46:32.433Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/Fo8th7o518U",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

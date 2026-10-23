@@ -1,0 +1,77 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/2593xjugWL0mzMIYbgPVOexUHZA\"",
+  "id" : "z13ws1yr1te0dzwuc22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "Files Needed: All digital files that are available, including the schematic, board files, code, and gerbers are located on my github. Some notes: The schematic and board files were designed in Eagle 6...",
+      "displayName" : "My Life as a Tinkerer: MSP430 Reaction Game",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://4.bp.blogspot.com/-EOF0QX458dw/TzhDbjrgMcI/AAAAAAAAEno/qC5VdxEKC0c/s400/12+-+2"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/3j8-vy9yBxiZX4ViE_m5dGr7TKkbqzGIbxbtb9132eMzLKzwxvsGYWBiUxrKeyF31xXWlrT6HbB9L8RSosqxG6ztvJRbFMFWQ880Ew=w506-h910",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://tinkeringetc.blogspot.com/p/msp430-reaction-game.html"
+    } ],
+    "content" : "I just finished my write-up on my MSP430 Reaction Game project. This project had a lot of firsts for me; first PCB design and manufacture, first time using github to host and version files, and first time using a microcontroller in a project. The object of the game is to stop the cycling LEDs at a specific LED to test your reaction skills. The TI MSP430G2231 microcontroller drives 8 LEDs via 3 pins using a 74HC595 shift register. The speed that the LEDs flash is determined from the potentiometer wiper via the analog to digital converter in the MSP430. There are also 2 pushbuttons to start/restart and stop the game. Everything is powered from a 9V battery that is dropped down to 3.3V via a LD1117V33 voltage regulator. There is also a programming header to program the microcontroller in-circuit with a TI Launchpad.<br /><br />Check out the link below for a video walkthrough and all the juicy details. Enjoy!",
+    "objectType" : "note",
+    "originalContent" : "I just finished my write-up on my MSP430 Reaction Game project. This project had a lot of firsts for me; first PCB design and manufacture, first time using github to host and version files, and first time using a microcontroller in a project. The object of the game is to stop the cycling LEDs at a specific LED to test your reaction skills. The TI MSP430G2231 microcontroller drives 8 LEDs via 3 pins using a 74HC595 shift register. The speed that the LEDs flash is determined from the potentiometer wiper via the analog to digital converter in the MSP430. There are also 2 pushbuttons to start/restart and stop the game. Everything is powered from a 9V battery that is dropped down to 3.3V via a LD1117V33 voltage regulator. There is also a programming header to program the microcontroller in-circuit with a TI Launchpad.\n\nCheck out the link below for a video walkthrough and all the juicy details. Enjoy!",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/DCE2HERcjgc"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-02-13T00:45:24.844Z",
+  "title" : "I just finished my write-up on my MSP430 Reaction Game project. This project had a lot of firsts for...",
+  "updated" : "2012-02-13T17:30:49.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/DCE2HERcjgc",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

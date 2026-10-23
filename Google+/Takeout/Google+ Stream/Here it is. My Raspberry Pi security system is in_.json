@@ -1,0 +1,190 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/OETx7thwtU82AnrgoAHDr8Fvny0\"",
+  "id" : "z12ryjs4wlfzvjgzs04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "IMG_5434.JPG",
+      "displayName" : "Here it is. My Raspberry Pi security system is in that case and the hole in the front is for the camera to see out of. I'll update the code on Github tomorrow and start writing a blog post for the project. Over the next few days, I'll keep an eye on how things are going and see if any bugs pop up or if there's anything I can improve on.",
+      "fullImage" : {
+        "height" : 1536,
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-iot0r5KxnyA/UhqTpuaQC7I/AAAAAAAATcA/yw30R09IEeE/s1600/photo.jpg",
+        "width" : 2048
+      },
+      "id" : "107457342204653676533.5916203405546621874",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-iot0r5KxnyA/UhqTpuaQC7I/AAAAAAAATcA/yw30R09IEeE/w506-h750/photo.jpg"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5916203404051715505/5916203405546621874"
+    } ],
+    "content" : "Here it is. My Raspberry Pi security system is in that case and the hole in the front is for the camera to see out of. I&#39;ll update the code on Github tomorrow and start writing a blog post for the project. Over the next few days, I&#39;ll keep an eye on how things are going and see if any bugs pop up or if there&#39;s anything I can improve on. ",
+    "objectType" : "note",
+    "originalContent" : "Here it is. My Raspberry Pi security system is in that case and the hole in the front is for the camera to see out of. I'll update the code on Github tomorrow and start writing a blog post for the project. Over the next few days, I'll keep an eye on how things are going and see if any bugs pop up or if there's anything I can improve on. ",
+    "plusoners" : {
+      "totalItems" : 5,
+      "items" : [ {
+        "displayName" : "Carlos GS",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/-79w-4PnW1lHA1WdEkDq32Hter4\"",
+        "id" : "113437723819360223498",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-vFU04N8SKHY/AAAAAAAAAAI/AAAAAAAAAAA/vjNYSz8j4WU/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/113437723819360223498"
+      }, {
+        "displayName" : "Kamil Sindi",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/qenWkahdwH78RONf3YgquXfNhus\"",
+        "id" : "117864115472463542580",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-guDiRJPfSY8/AAAAAAAAAAI/AAAAAAAAAAA/-VMm9bM1sCk/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117864115472463542580"
+      }, {
+        "displayName" : "Michael Leonard",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/a-e1l839aZM8y75X94U6eQTzj6Q\"",
+        "id" : "114465359533396650695",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-3vliWlI8684/AAAAAAAAAAI/AAAAAAAAAAA/Ugjyjq7cMT4/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/114465359533396650695"
+      }, {
+        "displayName" : "Bryan Rentoul",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/I2WJmLrik0j0xXBUO_QTUewSHAk\"",
+        "id" : "115482461410471042241",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-CpJn8JnaPck/AAAAAAAAAAI/AAAAAAAAAAA/fI2kd8dEkA4/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/115482461410471042241"
+      }, {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/vfOg9BSiYWcuYulOSuMZGf2N42s\"",
+        "id" : "z12ryjs4wlfzvjgzs04cexrqywbvcrqgizk0k.1386793660238423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "whats the micro sticking out of the side?",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-11T20:27:40.238Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-11T20:27:40.238Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/VUu7dzLSdoNV_bPmg-Z6P14kBh4\"",
+        "id" : "z12ryjs4wlfzvjgzs04cexrqywbvcrqgizk0k.1386855760989536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/100923804654788847953\" oid=\"100923804654788847953\">james wolf</a></span>  It&#39;s a Jeelink (<a href=\"http://jeelabs.com/products/jeelink\" class=\"ot-anchor\">http://jeelabs.com/products/jeelink</a>). It&#39;s the receiver for a Jeenode which is attached to the sensors in my apartment.",
+          "objectType" : "comment",
+          "originalContent" : "@100923804654788847953  It's a Jeelink (http://jeelabs.com/products/jeelink). It's the receiver for a Jeenode which is attached to the sensors in my apartment."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-12T13:42:40.989Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-12-12T13:42:40.989Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 2
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/iYovzmmDvBQ"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-08-25T23:30:46.844Z",
+  "title" : "Here it is. My Raspberry Pi security system is in that case and the hole in the front is for the camera...",
+  "updated" : "2013-08-25T23:30:46.844Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/iYovzmmDvBQ",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

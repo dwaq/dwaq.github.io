@@ -1,0 +1,163 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/R93jAqBImQoDCtq5kHWyoaloMMY\"",
+  "id" : "z12vwvt5btz0w3fbm04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "youtube"
+      } ],
+      "content" : " ",
+      "displayName" : "SCHAFT : DARPA Robotics Challenge 8 Tasks + Special Walking",
+      "embed" : {
+        "type" : "application/x-shockwave-flash",
+        "url" : "http://www.youtube.com/v/diaZFIUBMBQ?autohide=1&version=3"
+      },
+      "image" : {
+        "height" : 284,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/5rXfJxQeDXGFnR6tVRD2JziORQNHAGisDVplyg2p2YUnxJFLEYUYhZzUJt6IZuWfUiEdBEb2RgDENNeDq235gaQYChs=w506-h284-n",
+        "width" : 506
+      },
+      "objectType" : "video",
+      "url" : "http://www.youtube.com/attribution_link?a=C3tflsrtHBEUu_u8x1eDZg&u=/watch?v%3DdiaZFIUBMBQ%26feature%3Dshare"
+    } ],
+    "content" : "Now that&#39;s a pretty impressive robot",
+    "objectType" : "note",
+    "originalContent" : "Now that's a pretty impressive robot",
+    "plusoners" : {
+      "totalItems" : 9,
+      "items" : [ {
+        "displayName" : "Jesus Suarez",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/vJaYgamq-iOkrSNma5L-SnMFX7g\"",
+        "id" : "112931936363924940246",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-bDxSTw55zDQ/AAAAAAAAAAI/AAAAAAAAAAA/-gOqlFqUYSQ/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/112931936363924940246"
+      }, {
+        "displayName" : "Daniel Radu",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/xIlM6ONhd283axDR2hP6BEEZpIc\"",
+        "id" : "111337227751311572532",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-eBE1AVPGF8A/AAAAAAAAAAI/AAAAAAAAAAA/SGaV1jjWy-o/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/111337227751311572532"
+      }, {
+        "displayName" : "Neil Oliver",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/e7KJQsPm_-745OL2snL6ulBiQYk\"",
+        "id" : "114637755869127418230",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-LR6fRQR25uY/AAAAAAAAAAI/AAAAAAAAAAA/lIODc85Vj4c/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/114637755869127418230"
+      }, {
+        "displayName" : "LightOff",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/uciOMMrZugxsRmo2V5YHFsbU0dk\"",
+        "id" : "102698528702927418728",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-g4c7l9n2JTo/AAAAAAAAAAI/AAAAAAAAAAA/z_xko4mNEtA/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102698528702927418728"
+      }, {
+        "displayName" : "katten elvis",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kyuj8jEG2uw5suRdV3TU2I-fHNc\"",
+        "id" : "116072912453260597428",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Y81-BoFZBo8/AAAAAAAAAAI/AAAAAAAAAAA/2sGgvxib7cQ/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/116072912453260597428"
+      }, {
+        "displayName" : "SeductiveGod",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/T--j5fldYC2KQX19m7-L6LvvUdg\"",
+        "id" : "114848651413598736523",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-BeWVxglHoQQ/AAAAAAAAAAI/AAAAAAAAAAA/amkJ9p8035E/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/114848651413598736523"
+      }, {
+        "displayName" : "Mind Over Manter",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/q4HwXugmGmtH-VBfRdr8xLKiQ4M\"",
+        "id" : "110821358776389972856",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-SExH-v-E8EI/AAAAAAAAAAI/AAAAAAAAAAA/_kWJKqPzvFw/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/110821358776389972856"
+      }, {
+        "displayName" : "Soft47",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/jYnYJnjd_DrzznBhcGoIgaksvD8\"",
+        "id" : "109386752508588270431",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-pT-tOhnb0I0/AAAAAAAAAAI/AAAAAAAAAAA/54cEMh1f_vU/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/109386752508588270431"
+      }, {
+        "displayName" : "Costas Constantinou",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/feEBxvkzcXpW5ZNMLh09NB4pfvY\"",
+        "id" : "104816990457133241560",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-XpJKuN-dviY/AAAAAAAAAAI/AAAAAAAAAAA/kRFLEDZhNMY/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/104816990457133241560"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/hY5T9ZgvHtr"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-12-30T20:03:57.674Z",
+  "title" : "Now that's a pretty impressive robot",
+  "updated" : "2013-12-30T20:03:57.674Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/hY5T9ZgvHtr",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

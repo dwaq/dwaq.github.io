@@ -1,0 +1,149 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/ZzoQLl1VZuYLRGpKCvyVeoyik7E\"",
+  "id" : "z12bilziizmmetliy04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "2014-01-03",
+      "id" : "107457342204653676533.5964836955807505489",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "TinyLoadr shield on an Arduino with an ATtiny13A installed in the ZIF socket",
+        "image" : {
+          "height" : 253,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-uxYfZHFfsfA/Usdbm0-qWYI/AAAAAAAAVKE/toO3t3MMD0E/w253-h253-p/IMG_6103.JPG",
+          "width" : 253
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5964836955807505489/5964836954090133890"
+      }, {
+        "description" : "Programming the LED to blink. The LED is located on PB4 of the ATtiny - it stumped me for a while since there doesn't seem to be an schematics on his website, even though it's clearly an open source part.",
+        "image" : {
+          "height" : 253,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-sN8L4jMTVvI/Usdbmzt2myI/AAAAAAAAVJ8/XE0fu7btD9o/w253-h253-p/IMG_6104.MOV",
+          "width" : 253
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5964836955807505489/5964836953751198498"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5964836955807505489"
+    } ],
+    "content" : "A continuation of what I was doing yesterday... I received my TinyLoadr shield (<a href=\"http://jeffmurchison.com/blog/tag/tinyloadr-shield/\" class=\"ot-anchor\">http://jeffmurchison.com/blog/tag/tinyloadr-shield/</a>) from Tindie today and assembled it. I can use the same commands as yesterday to program my ATtiny13 and now I don&#39;t have all those messy wires. I like it so far.",
+    "objectType" : "note",
+    "originalContent" : "A continuation of what I was doing yesterday... I received my TinyLoadr shield (http://jeffmurchison.com/blog/tag/tinyloadr-shield/) from Tindie today and assembled it. I can use the same commands as yesterday to program my ATtiny13 and now I don't have all those messy wires. I like it so far.",
+    "plusoners" : {
+      "totalItems" : 3,
+      "items" : [ {
+        "displayName" : "Carlos Vega",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/T70V9nyAs4TobrcqltyLrQaJL8s\"",
+        "id" : "101454863782354267644",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-KjCfAHPoFb4/AAAAAAAAAAI/AAAAAAAAAAA/WII0O9Jg-g8/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/101454863782354267644"
+      }, {
+        "displayName" : "Carlos GS",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/-79w-4PnW1lHA1WdEkDq32Hter4\"",
+        "id" : "113437723819360223498",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-vFU04N8SKHY/AAAAAAAAAAI/AAAAAAAAAAA/vjNYSz8j4WU/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/113437723819360223498"
+      }, {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Paul Huber",
+          "id" : "102827406106355929027",
+          "image" : {
+            "url" : "https://lh5.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/Zjz2w1YpNS0/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/102827406106355929027",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/0O9qlf1j6QpK6_gKa2jBNoupqx8\"",
+        "id" : "z12bilziizmmetliy04cexrqywbvcrqgizk0k.1388799107550283",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Cool! Nice image too!",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2014-01-04T01:31:47.550Z",
+        "statusForViewer" : {
+          "isPlusOned" : true,
+          "canUpdate" : false
+        },
+        "updated" : "2014-01-04T01:31:47.550Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 1
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/eDwAcy7ETSM"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-01-04T00:55:53.992Z",
+  "title" : "A continuation of what I was doing yesterday... I received my TinyLoadr shield (http://jeffmurchison.com...",
+  "updated" : "2014-01-04T00:55:53.992Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/eDwAcy7ETSM",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

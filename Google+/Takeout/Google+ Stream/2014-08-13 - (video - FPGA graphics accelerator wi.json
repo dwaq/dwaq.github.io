@@ -1,0 +1,166 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "annotation" : "This is so impressive. The graphics are beautiful and the design post is overflowing with details. I can hardly believe one man built the entire project. <a href=\"http://andybrown.me.uk/wk/2014/06/01/ase/\" class=\"ot-anchor\">http://andybrown.me.uk/wk/2014/06/01/ase/</a> ",
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/cauO1_SiDoaROKfg8CyM-iD4hjg\"",
+  "id" : "z12phnzwknjiunl5y04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "displayName" : "Andy Brown",
+      "id" : "117482098163393731286",
+      "image" : {
+        "url" : "https://lh6.googleusercontent.com/-GvVZcUICRIc/AAAAAAAAAAI/AAAAAAAAACk/eymuo50gOqY/photo.jpg?sz=50"
+      },
+      "url" : "https://plus.google.com/117482098163393731286",
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "youtube"
+      } ],
+      "content" : "Read all about this project at my website: http://www.andybrown.me.uk\n\nThis video gives you a quick tour of my open source FPGA graphics accelerator board followed by a walkthrough of the graphics accelerator powering a theoretical platform game.\n\nThe controller MCU on the board is an STM32F429VIT6. The FPGA is a Xilinx Spartan 3 XC3S50 and the LCD is a 640x360 panel taken from a Sony Ericsson Vivaz U5 cellphone and reverse engineered by myself (see website for that reverse engineering project and free software)\n\nVisit my website to see the full writeup, get the hardware design files and all the VHDL and C++ firmware code. It's all free, come and get it!",
+      "displayName" : "FPGA graphics accelerator with 180MHz STM32F429 controller",
+      "embed" : {
+        "type" : "application/x-shockwave-flash",
+        "url" : "https://www.youtube.com/v/UEIDRQzh_d0?version=3&autohide=1&autoplay=1&feature=autoshare-u"
+      },
+      "image" : {
+        "height" : 284,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/1erX8Gqj3ldZFdA0_mVlUwzA2kYCXdu_fAkHzl_A1aYyMUbFlwHRr3wPG6HBzxQbhn0OhUwnIpG5ygQuh-xr=w506-h284-n",
+        "width" : 506
+      },
+      "objectType" : "video",
+      "url" : "https://www.youtube.com/watch?v=UEIDRQzh_d0&feature=autoshare"
+    } ],
+    "content" : "",
+    "id" : "z12izhwoene0i1jbn04cjl45bwfkhlww5po0k",
+    "objectType" : "activity",
+    "plusoners" : {
+      "totalItems" : 5,
+      "items" : [ {
+        "displayName" : "TexZK",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/O_wZJs65Gv6mvKR8No7PcxXHV2M\"",
+        "id" : "106585435198847952591",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-eK8Hl6_mq_U/AAAAAAAAAAI/AAAAAAAAAAA/Q0B6rDlTJ5o/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/106585435198847952591"
+      }, {
+        "displayName" : "Carlos GS",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/-79w-4PnW1lHA1WdEkDq32Hter4\"",
+        "id" : "113437723819360223498",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-vFU04N8SKHY/AAAAAAAAAAI/AAAAAAAAAAA/vjNYSz8j4WU/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/113437723819360223498"
+      }, {
+        "displayName" : "Mike Beardmore",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/xom2OkGQQfShtQqJ2xtOfPYyN1s\"",
+        "id" : "116341287830615647443",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-wPvWk8SByOw/AAAAAAAAAAI/AAAAAAAAAAA/JgxLy5WEcnE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/116341287830615647443"
+      }, {
+        "displayName" : "Clifford Kasper",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Dg0jCRbEfQN4obN4lBzUE-4X-Os\"",
+        "id" : "102024819361829647116",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-_UstqT_YXE4/AAAAAAAAAAI/AAAAAAAAAAA/1oC1KRHKelM/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102024819361829647116"
+      }, {
+        "displayName" : "Phillip Katete",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/uOGqjBBDFl_2Eqjv5z5HFTs_s6g\"",
+        "id" : "110247399016044831671",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-28gjtM_vP3s/AAAAAAAAAAI/AAAAAAAAAAA/adkYi8h4h0I/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/110247399016044831671"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Phillip Katete",
+          "id" : "110247399016044831671",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-28gjtM_vP3s/AAAAAAAAAAI/AAAAAAAAA3s/vIfBzkQbzxE/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/110247399016044831671",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/9eiN3Qh2O639PwU8EZVQpnrDDMk\"",
+        "id" : "z12phnzwknjiunl5y04cexrqywbvcrqgizk0k.1407944842271926",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Pulling that project off in a couple of months is proof of his genius and his undoubted depth of understanding in the subject matter. But that he punctuates that with such a detailed blog entry ... well, I am lost for words!",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2014-08-13T15:47:22.271Z",
+        "statusForViewer" : {
+          "isPlusOned" : true,
+          "canUpdate" : false
+        },
+        "updated" : "2014-08-13T15:47:22.271Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 1
+    },
+    "resharers" : {
+      "totalItems" : 1,
+      "items" : [ ]
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+andysworkshopuk/posts/hj1WGawVbCx"
+  },
+  "provider" : {
+    "title" : "Reshared Post"
+  },
+  "published" : "2014-08-13T14:41:02.434Z",
+  "title" : "",
+  "updated" : "2014-08-13T14:41:02.434Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/YsRA7ZtrjgM",
+  "verb" : "share",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

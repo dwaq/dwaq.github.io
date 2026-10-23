@@ -1,0 +1,71 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/92yYTEOCDFaCch2otmrQxDSomc0\"",
+  "id" : "z13zchyyhwuoejum522rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "content" : "I spent a lot of time on a project last week and thought I had run into an impassable roadblock. After ordering a better microcontroller and adjusting some hardware it seems to be working just like I wanted to. It just goes to show that giving up won&#39;t solve any problems. ",
+    "objectType" : "note",
+    "originalContent" : "I spent a lot of time on a project last week and thought I had run into an impassable roadblock. After ordering a better microcontroller and adjusting some hardware it seems to be working just like I wanted to. It just goes to show that giving up won't solve any problems. ",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Bryan Rentoul",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/I2WJmLrik0j0xXBUO_QTUewSHAk\"",
+        "id" : "115482461410471042241",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-CpJn8JnaPck/AAAAAAAAAAI/AAAAAAAAAAA/fI2kd8dEkA4/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/115482461410471042241"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/CgSj9gFKLpV"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-07-25T01:58:54.425Z",
+  "title" : "I spent a lot of time on a project last week and thought I had run into an impassable roadblock. After...",
+  "updated" : "2013-07-25T01:58:54.425Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/CgSj9gFKLpV",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,145 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/oz4xDyoxqubEzz3a_yEsqbKWylY\"",
+  "id" : "z12ls54hjuq0xlaw104cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5841684249028638481",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "Brittle, cracked wires",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-ETw5wt9sX9I/URHU38nUW_I/AAAAAAAAOM8/x--cPUXIPCo/w379-h379-p/photo.jpg",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5841684249028638481/5841684249305177074"
+      }, {
+        "description" : "Pretty aqua/blue replacement wires. Note how the fan pulls the heat away from the light and across the wires.",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-6oqhcnU2YHE/URHU39Qg1EI/AAAAAAAAONE/uD1voK0dj_Y/w126-h126-p/photo.jpg",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5841684249028638481/5841684249477960770"
+      }, {
+        "description" : "Let there be light!",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-NiqenuhL1zg/URHU31kayRI/AAAAAAAAOMk/8t51EBNdi3w/w126-h126-p/photo.jpg",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5841684249028638481/5841684247413967122"
+      }, {
+        "description" : "10k ohm resistor in my soldered up alligator clips",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-GPYe557uMxc/URHU3_HvKiI/AAAAAAAAONY/IWUkfl1Lji0/w126-h126-p/photo.jpg",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5841684249028638481/5841684249978022434"
+      }, {
+        "description" : "That's an accurate reading!",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-iuX943VtzaI/URHU3xPenjI/AAAAAAAAOM0/4ToNuFi0-OI/w126-h126-p/photo.jpg",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5841684249028638481/5841684246252396082"
+      }, {
+        "description" : "Set the voltage and measure the current. Or visa-versa. You can also read out the actual supplied voltage (it was 9.999V in this case) or power (10.237mW).",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-yFe1V4bfFso/URHU3416qNI/AAAAAAAAONQ/g-P2ObZJ0as/w126-h126-p/photo.jpg",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5841684249028638481/5841684248292665554"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5841684249028638481"
+    } ],
+    "content" : "Today at work I got to do some electrical engineering for once. Usually I&#39;m doing material sciences work... and that&#39;s how I started out my day. I was measuring HEMT characteristics when the light on the microscope when out. I checked around to see what was the problem, and when I unplugged it and opened it up, the problem was apparent - the heat from the light had made its power wire very brittle and it broke. This light does have a fan, but it only draws the heat away from the light and across the very supply wire that broke. I searched around for some wire and made a new connector for the light. I like the way it turned out (and how well the colors match). <br /><br />Someone else at work is doing some electro-plating research and I got to assist with that as well. I had to solder up some new copper alligator clips to some basic multimeter probes so they can clip the sample in, apply current, and not have to touch the setup until the process is finished. That worked out pretty well, but soon after my boss came in and made me find a precision current source for the samples. An accurate supply in the milliamp range is needed and what they had was not cutting it. I did some research on a Keithley 2612A meter that we had sitting around, and it seemed to fit the bill. I went through the quick start guide and tested it on a 10k ohm resistor as it mentioned with some pretty impressive results - this thing is seriously accurate! This source/meter is ideal for the electro-plating because you can set the current to the exact value (down to 3 decimal places) and turn on the output and that&#39;s exactly what you get. With the old power supply, they would have to play with the voltage and current knobs just to get something approximately close. If only I had more days like today at work! ",
+    "objectType" : "note",
+    "originalContent" : "Today at work I got to do some electrical engineering for once. Usually I'm doing material sciences work... and that's how I started out my day. I was measuring HEMT characteristics when the light on the microscope when out. I checked around to see what was the problem, and when I unplugged it and opened it up, the problem was apparent - the heat from the light had made its power wire very brittle and it broke. This light does have a fan, but it only draws the heat away from the light and across the very supply wire that broke. I searched around for some wire and made a new connector for the light. I like the way it turned out (and how well the colors match). \n\nSomeone else at work is doing some electro-plating research and I got to assist with that as well. I had to solder up some new copper alligator clips to some basic multimeter probes so they can clip the sample in, apply current, and not have to touch the setup until the process is finished. That worked out pretty well, but soon after my boss came in and made me find a precision current source for the samples. An accurate supply in the milliamp range is needed and what they had was not cutting it. I did some research on a Keithley 2612A meter that we had sitting around, and it seemed to fit the bill. I went through the quick start guide and tested it on a 10k ohm resistor as it mentioned with some pretty impressive results - this thing is seriously accurate! This source/meter is ideal for the electro-plating because you can set the current to the exact value (down to 3 decimal places) and turn on the output and that's exactly what you get. With the old power supply, they would have to play with the voltage and current knobs just to get something approximately close. If only I had more days like today at work! ",
+    "plusoners" : {
+      "totalItems" : 2,
+      "items" : [ {
+        "displayName" : "matt hollander",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/ONapvTWdoFc7HQUr-BQmrrnqHtw\"",
+        "id" : "114214542690172466521",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Tzk-kcshRos/AAAAAAAAAAI/AAAAAAAAAAA/MfWLr3sxXJg/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/114214542690172466521"
+      }, {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/NcZV4CxkUCJ"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-02-06T03:58:25.112Z",
+  "title" : "Today at work I got to do some electrical engineering for once. Usually I'm doing material sciences ...",
+  "updated" : "2013-02-06T04:03:06.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/NcZV4CxkUCJ",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

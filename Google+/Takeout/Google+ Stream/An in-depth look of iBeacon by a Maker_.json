@@ -1,0 +1,148 @@
+{
+  "access" : {
+    "accessSummary" : "Bluetooth Low Energy (Tutorials and Information Links)",
+    "description" : "Bluetooth Low Energy (Tutorials and Information Links)",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Q6Zrhs-VYIG7N4ZILbNV1YUqgIQ\"",
+  "id" : "z13jdj3xrxbkwhnys04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "Just a quick summary of Bluetooth Smart beacon devices: What I've experienced in development and testing with Apple's iBeacons technology.",
+      "displayName" : "A Maker Review on Bluetooth Smart Beacons (or Apple iBeacons) - Stuff Andy Makes - DIY, make, tinker, play",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://stuffandymakes.com/wp-content/uploads/2013/12/CC-Debugger.jpg"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/7US5KmiyzULe3_-TFIxMnkOsulOwKKyQnLojFmw690p0TjWJ-qilWIDCfTu8L8DOr1TNyJcKKsmlTfiFmz9kQ7ZewAFQVaqQ2xT5TOkmhQP0rYA_=w506-h910",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://stuffandymakes.com/2013/12/16/maker-review-bluetooth-smart-beacons-apple-ibeacons/"
+    } ],
+    "content" : "An in-depth look of iBeacon by a Maker.",
+    "objectType" : "note",
+    "originalContent" : "An in-depth look of iBeacon by a Maker.",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "james wolf",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1pOnIk2wStecV-UsYW2Ri2WJjGU\"",
+        "id" : "100923804654788847953",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAAAAA/7GEq8V2XgYE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/100923804654788847953"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Gyuri Grell",
+          "id" : "109842117639520159116",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-UvSdzWdYY4s/AAAAAAAAAAI/AAAAAAAA_Hw/H8LmSCdgDao/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/109842117639520159116",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/78OhyldEGJIHqPIxiOcMpkvyoC4\"",
+        "id" : "z13jdj3xrxbkwhnys04cexrqywbvcrqgizk0k.1387301156975681",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Good overview article",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-17T17:25:56.975Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-17T17:25:56.975Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/cuJSdKNNjkkyxFE77XbFX5FY638\"",
+        "id" : "z13jdj3xrxbkwhnys04cexrqywbvcrqgizk0k.1387462366004423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "wow, this is a thorough explanation, good find!",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2013-12-19T14:12:46.004Z",
+        "statusForViewer" : {
+          "isPlusOned" : true,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-19T14:12:46.004Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 2
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/dEVztDK8cXo"
+  },
+  "provider" : {
+    "title" : "Community"
+  },
+  "published" : "2013-12-17T16:51:42.286Z",
+  "title" : "An in-depth look of iBeacon by a Maker.",
+  "updated" : "2013-12-17T16:51:42.286Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/dEVztDK8cXo",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

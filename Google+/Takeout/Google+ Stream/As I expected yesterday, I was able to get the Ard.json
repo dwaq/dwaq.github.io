@@ -1,0 +1,87 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/IxsCIiYG5tyZXgUYjUsJVA9gyTs\"",
+  "id" : "z13jx1orbuvpwzv1e22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "Automatic-Garden-Waterer - A project that switches a valve to water plants in the garden. It has a manual switch to control the valve or a MSP430 microcontroller used as a timer attached to a relay to...",
+      "displayName" : "Automatic-Garden-Waterer",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "https://a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-140.png?1329275859"
+      },
+      "image" : {
+        "height" : 120,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/WDMi2B2yAxZSxh6seslTLCaPskCSEf39s5H0imdrDVKQGnhNFWntO9aOidJosn4NXJyAoaa9USmm6Wywl13PaXqliFs1p3cKi1tzOwIh4Dfq7vw2lUfBQD1DNKPbX2lodBtAyoEurvblVnS5GLlM9w=w120-h120",
+        "width" : 120
+      },
+      "objectType" : "article",
+      "url" : "https://github.com/dwaq/Automatic-Garden-Waterer/commit/e854ca143773266bf0527a17735ee7343db2672b#Automatic_Garden_Waterer.ino"
+    } ],
+    "content" : "As I expected yesterday, I was able to get the Arduino code written for my Automatic Garden Waterer in just one sitting. Everything that I wanted to implement is working as planned. The only thing left to do is comment the code more (I&#39;m just too tired now) and search around for any bugs. I hope to at least comment everything tomorrow during the day. Also, here&#39;s today&#39;s version of the code: <a href=\"https://github.com/dwaq/Automatic-Garden-Waterer/commit/e854ca143773266bf0527a17735ee7343db2672b#Automatic_Garden_Waterer.ino\" class=\"ot-anchor\">https://github.com/dwaq/Automatic-Garden-Waterer/commit/e854ca143773266bf0527a17735ee7343db2672b#Automatic_Garden_Waterer.ino</a>",
+    "objectType" : "note",
+    "originalContent" : "As I expected yesterday, I was able to get the Arduino code written for my Automatic Garden Waterer in just one sitting. Everything that I wanted to implement is working as planned. The only thing left to do is comment the code more (I'm just too tired now) and search around for any bugs. I hope to at least comment everything tomorrow during the day. Also, here's today's version of the code: https://github.com/dwaq/Automatic-Garden-Waterer/commit/e854ca143773266bf0527a17735ee7343db2672b#Automatic_Garden_Waterer.ino",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Kris Kortright",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Sqwlxyp4SJVx92Sbb6nJHbfhMmk\"",
+        "id" : "117228107982719398401",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Wjiqs-p9Yn8/AAAAAAAAAAI/AAAAAAAAAAA/TfWSQ3HWPaA/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117228107982719398401"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/8AgkQtnqRoc"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-07-19T02:23:08.772Z",
+  "title" : "As I expected yesterday, I was able to get the Arduino code written for my Automatic Garden Waterer ...",
+  "updated" : "2012-07-19T02:23:08.772Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/8AgkQtnqRoc",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

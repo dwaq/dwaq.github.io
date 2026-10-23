@@ -1,0 +1,171 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/nX2D9aAtSyzy8BVC6s8RUpMYO_M\"",
+  "id" : "z13piz2rdmvrz325o04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "2013-07-08",
+      "id" : "107457342204653676533.5898421966045007073",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 337,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-y3yA3DOzopY/Udtnh-FW6WI/AAAAAAAASgk/el39RmVEAZc/w337-h337-p/Task%2BManager%2B2.PNG",
+          "width" : 337
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5898421966045007073/5898421970270611810?authkey=CIf3m8SspYCvgAE"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-OPXIEd-1h7I/UdtnlvY7cWI/AAAAAAAASgw/6fdeFqK0oqg/w168-h168-p/Task+Manager+3.PNG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5898421966045007073/5898422035045642594?authkey=CIf3m8SspYCvgAE"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-UZc2nGjQ9Ik/UdtnjEDWx2I/AAAAAAAASgo/rscoof1O-dU/w168-h168-p/Task+Manager.PNG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5898421966045007073/5898421989052696418?authkey=CIf3m8SspYCvgAE"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5898421966045007073?authkey=CIf3m8SspYCvgAE"
+    } ],
+    "content" : "I updated to  <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23windows81preview\">#windows81preview</a>   and opened up the task manager for no reason in particular and was surprised at what I saw. I really like the UI for this and all the information that they make available to you. I don&#39;t know if Windows 8 had the same interface, but feel free to use this site to help you get Windows 8.1 set up: <a href=\"http://www.pocket-lint.com/news/121043-windows-8-1-release-date-and-what-you-need-to-know-to-get-ready\" class=\"ot-anchor\">http://www.pocket-lint.com/news/121043-windows-8-1-release-date-and-what-you-need-to-know-to-get-ready</a><br /><br />Edit: Posting this caused Internet Explorer to crash. I&#39;m still sticking with Windows 7 for the time being, just thought it would be fun to see what the next version of Windows 8 looked like.",
+    "objectType" : "note",
+    "originalContent" : "I updated to  #windows81preview   and opened up the task manager for no reason in particular and was surprised at what I saw. I really like the UI for this and all the information that they make available to you. I don't know if Windows 8 had the same interface, but feel free to use this site to help you get Windows 8.1 set up: http://www.pocket-lint.com/news/121043-windows-8-1-release-date-and-what-you-need-to-know-to-get-ready\n\nEdit: Posting this caused Internet Explorer to crash. I'm still sticking with Windows 7 for the time being, just thought it would be fun to see what the next version of Windows 8 looked like.",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Ashley Van Steenacker",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/F_qeEia1hOIFJaNmTlS_OJXRyiM\"",
+        "id" : "107673918632268513568",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-XZSkFXJ4Kp4/AAAAAAAAAAI/AAAAAAAAAAA/3VhWGLVD7fs/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/107673918632268513568"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Ashley Van Steenacker",
+          "id" : "107673918632268513568",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-XZSkFXJ4Kp4/AAAAAAAAAAI/AAAAAAAAd68/8iVCfdP98aw/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107673918632268513568",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/4IkVmpx5-Mw665PEPAPEJYF4jo0\"",
+        "id" : "z13piz2rdmvrz325o04cexrqywbvcrqgizk0k.1373333899055853",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<a href=\"http://blogs.msdn.com/b/b8/archive/2011/10/13/the-windows-8-task-manager.aspx\" class=\"ot-anchor\">http://blogs.msdn.com/b/b8/archive/2011/10/13/the-windows-8-task-manager.aspx</a> yes, win8 has this as well.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-07-09T01:38:19.055Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-07-09T01:38:36.000Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/scyiZV4dLIxPjSw9u8FcyVeAQEU\"",
+        "id" : "z13piz2rdmvrz325o04cexrqywbvcrqgizk0k.1373334136237536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Thanks for the info. I&#39;ve never used Windows 8 enough to need it. And considering how buggy Win8 is, that shows I <b>really</b> haven&#39;t used it much.",
+          "objectType" : "comment",
+          "originalContent" : "Thanks for the info. I've never used Windows 8 enough to need it. And considering how buggy Win8 is, that shows I *really* haven't used it much."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-07-09T01:42:16.237Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-07-09T01:42:16.237Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 2
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/X7uA1NhMfBF"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-07-09T01:33:58.713Z",
+  "title" : "I updated to #windows81preview  and opened up the task manager for no reason in particular and was surprised...",
+  "updated" : "2013-07-09T01:35:47.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/X7uA1NhMfBF",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,127 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/OJNpQlNo0wGq3hAQYo57m4Xp3qc\"",
+  "id" : "z131jhthxzaltvjkt22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5769468289573740033",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-t1hZSA-8qXw/UBFE1yMhSZI/AAAAAAAAK7U/VZBcBU11oiw/w379-h379-p/7B3BD08A-3F40-4C59-BDE9-19C99F730A44.JPG",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5769468289573740033/5769468288436357522"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-PVfg5LKg0uU/UBFE1_JtVbI/AAAAAAAAK7U/cyCN1dX7df0/w126-h126-p/B740A8D5-6102-4E6D-BFD7-B92374E54478.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5769468289573740033/5769468291914225074"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-7OeF6uF-7wU/UBFE1_B4SqI/AAAAAAAAK7U/buxo1jtj694/w126-h126-p/C2049FFD-FFBB-4A7A-B126-16B7F429A65E.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5769468289573740033/5769468291881388706"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-lzlwt9tzHPM/UBFE19jpPcI/AAAAAAAAK7U/hMSgrO-hFhM/w126-h126-p/21426C1A-4A19-4687-8157-D138953DCFA0.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5769468289573740033/5769468291486137794"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-F-b_e1ucjrI/UBFE1203FPI/AAAAAAAAK7U/HdptgLxBQ3A/w126-h126-p/747D72F2-EC03-43D2-AE3E-5828297C925F.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5769468289573740033/5769468289679299826"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5769468289573740033"
+    } ],
+    "content" : "Last night I added the switches to my Automatic Garden Waterer circuit board.  There are three 13mm tact switches used for increasing and decreasing the amount of time on, as well as a start/stop button. They are each mounted on a female header to give them more height to match the height of the LCD so they will stick out above the cover when it&#39;s installed. Along the left side is a terminal block that will connect to an external switch for manual override of the valve. Each of the switches are connected with a pull down resistor for more accurate readings. I added a small reset switch on the right side as I mentioned yesterday. The new terminal block on the right side will output to the relay to switch the solenoid and will also have an LED as an extra reminder that the valve is open. As far as I know, the circuit is all finished except for the crystal (which I&#39;m still waiting for).",
+    "objectType" : "note",
+    "originalContent" : "Last night I added the switches to my Automatic Garden Waterer circuit board.  There are three 13mm tact switches used for increasing and decreasing the amount of time on, as well as a start/stop button. They are each mounted on a female header to give them more height to match the height of the LCD so they will stick out above the cover when it's installed. Along the left side is a terminal block that will connect to an external switch for manual override of the valve. Each of the switches are connected with a pull down resistor for more accurate readings. I added a small reset switch on the right side as I mentioned yesterday. The new terminal block on the right side will output to the relay to switch the solenoid and will also have an LED as an extra reminder that the valve is open. As far as I know, the circuit is all finished except for the crystal (which I'm still waiting for).",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Brian Jackson",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/ZSrMUG8EN9LMQp2I5YHQj9DXTK4\"",
+        "id" : "111551702129959743024",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-dCcJXLHTEv4/AAAAAAAAAAI/AAAAAAAAAAA/Msw0X_t5sFk/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/111551702129959743024"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/5GFNFu2FYvd"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-07-26T13:23:36.443Z",
+  "title" : "Last night I added the switches to my Automatic Garden Waterer circuit board.  There are three 13mm ...",
+  "updated" : "2012-07-26T13:23:36.443Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/5GFNFu2FYvd",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

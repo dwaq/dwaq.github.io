@@ -1,0 +1,99 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/NjU12_3cSA7je8MSaywPHdop3_8\"",
+  "id" : "z121wz3zvwyft1j3122rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5827913765848475057",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 337,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-OMDo78durns/UODosX7KFhI/AAAAAAAANfk/Vvay3F_cZck/w337-h337-p/photo.jpg",
+          "width" : 337
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5827913765848475057/5827913766851450386"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-aO2_gN8hdTk/UODosfjL5TI/AAAAAAAANfg/Tzsv4E6dLvs/w168-h168-p/photo.jpg",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5827913765848475057/5827913768898389298"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-yZ10c42-E4E/UODosYSlVVI/AAAAAAAANfo/PkWCzokTguw/w168-h168-p/photo.jpg",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5827913765848475057/5827913766949705042"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5827913765848475057"
+    } ],
+    "content" : "I ripped apart one of the broken ballasts that I replaced the other day. First off, I spelled the burnt electronics right away, and right afterwards I noticed everything was coated in a dielectric material. I can see how this would be important with the high voltages and metal case. I guess I won&#39;t be salvaging any parts from these. ",
+    "objectType" : "note",
+    "originalContent" : "I ripped apart one of the broken ballasts that I replaced the other day. First off, I spelled the burnt electronics right away, and right afterwards I noticed everything was coated in a dielectric material. I can see how this would be important with the high voltages and metal case. I guess I won't be salvaging any parts from these. ",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/HJaZFhfo8Li"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-12-31T01:21:54.408Z",
+  "title" : "I ripped apart one of the broken ballasts that I replaced the other day. First off, I spelled the burnt...",
+  "updated" : "2012-12-31T01:22:44.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/HJaZFhfo8Li",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,61 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/OtrW_0c6Q8t5W79GLEPlxuYJVDg\"",
+  "id" : "z13eutsr5om3vpenq22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "content" : "Last night I planned on writing up a blog post on my Closet Door Lightswitch, but realized there was one feature I wanted to impliment but haven&#39;t done so yet --  a shut down timer. I wanted the light to automatically shut off after a set amount of time if the doors were left open. After working on it for most of the night, it still didn&#39;t work as I had planned. I spent too much time programming the MSP430 chip in the launchpad and then switching it back to the circuit. I will have to make an in-circuit programmer/debugger next time I work on that project because it will make my life so much easier. With only two pins to solder, I should have done it earlier.<br /><br />My code: <a href=\"https://github.com/dwaq/Closet-Door-Lightswitch/blob/automatic-shut-off/Closet-Door-Lightswitch.c\" class=\"ot-anchor\">https://github.com/dwaq/Closet-Door-Lightswitch/blob/automatic-shut-off/Closet-Door-Lightswitch.c</a>",
+    "objectType" : "note",
+    "originalContent" : "Last night I planned on writing up a blog post on my Closet Door Lightswitch, but realized there was one feature I wanted to impliment but haven't done so yet --  a shut down timer. I wanted the light to automatically shut off after a set amount of time if the doors were left open. After working on it for most of the night, it still didn't work as I had planned. I spent too much time programming the MSP430 chip in the launchpad and then switching it back to the circuit. I will have to make an in-circuit programmer/debugger next time I work on that project because it will make my life so much easier. With only two pins to solder, I should have done it earlier.\n\nMy code: https://github.com/dwaq/Closet-Door-Lightswitch/blob/automatic-shut-off/Closet-Door-Lightswitch.c",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/Lnxzedj93gQ"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-07-03T16:52:46.294Z",
+  "title" : "Last night I planned on writing up a blog post on my Closet Door Lightswitch, but realized there was...",
+  "updated" : "2012-07-03T16:52:46.294Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/Lnxzedj93gQ",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

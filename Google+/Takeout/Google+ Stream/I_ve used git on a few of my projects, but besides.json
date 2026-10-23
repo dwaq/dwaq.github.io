@@ -1,0 +1,77 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/P7z02sKKNul2Y5XugHAG-6vbnT0\"",
+  "id" : "z12tjx2wuzfnj1xbp04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "This is the Git reference site. This is meant to be a quick reference for learning and remembering the most important and commonly used Git commands. The commands are organized into sections of the ty...",
+      "displayName" : "Git Reference",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://gitref.org/images/snapshots.png"
+      },
+      "image" : {
+        "height" : 120,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/_vpFrFtl_36uIchxElTdNgYCzeLYNSC43F-Z8AFu8uy716YnYdseMZTAMKM=w120-h120",
+        "width" : 120
+      },
+      "objectType" : "article",
+      "url" : "http://gitref.org/index.html"
+    } ],
+    "content" : "I&#39;ve used git on a few of my projects, but besides knowing what commands I needed to type to post my files to GitHub, I didn&#39;t know how git or its commands actually worked. I found <a href=\"http://gitref.org/index.html\" class=\"ot-anchor\">http://gitref.org/index.html</a> today and it was exactly what I wanted. It went through everything about git with clear writing and excellent examples. I couldn&#39;t recommend it more.",
+    "objectType" : "note",
+    "originalContent" : "I've used git on a few of my projects, but besides knowing what commands I needed to type to post my files to GitHub, I didn't know how git or its commands actually worked. I found http://gitref.org/index.html today and it was exactly what I wanted. It went through everything about git with clear writing and excellent examples. I couldn't recommend it more.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/i8fbatMiZDs"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-05-02T18:18:03.631Z",
+  "title" : "I've used git on a few of my projects, but besides knowing what commands I needed to type to post my...",
+  "updated" : "2012-05-02T18:19:07.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/i8fbatMiZDs",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

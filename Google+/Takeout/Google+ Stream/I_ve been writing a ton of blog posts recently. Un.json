@@ -1,0 +1,61 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/GkKDTGIwgti2ZRfkPcAHrCqoLKU\"",
+  "id" : "z12yijjies25udkqx04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "content" : "I&#39;ve been writing a ton of blog posts recently. Unfortunately, they&#39;re all waiting for one of my projects to get finished. On the bright side, I believe that project will be finished on Saturday. After that, be on the look out for lots of posts from me!",
+    "objectType" : "note",
+    "originalContent" : "I've been writing a ton of blog posts recently. Unfortunately, they're all waiting for one of my projects to get finished. On the bright side, I believe that project will be finished on Saturday. After that, be on the look out for lots of posts from me!",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/e412PiZv7uu"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-08-08T16:30:05.270Z",
+  "title" : "I've been writing a ton of blog posts recently. Unfortunately, they're all waiting for one of my projects...",
+  "updated" : "2012-08-08T16:30:05.270Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/e412PiZv7uu",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

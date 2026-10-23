@@ -1,0 +1,402 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/7y-uM-GlbHjY2pUdtVcIkEHongY\"",
+  "id" : "z12wwtnpprzztxvpf04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5838657172422176465",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-IR09Bu4DxLY/UQcTwy2Tk-I/AAAAAAAAN8E/_i-d-K1458c/w379-h379-p/600574CF-3885-4FB5-BD0A-EFA07F99B4E3.MOV",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5838657172422176465/5838657170913334242?authkey=CLKq5sWQrdCKDQ"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-cKPDpxV5kMM/UQcTw_hC5tI/AAAAAAAAN8E/MRLpqqCJUDo/w126-h126-p/E7D8C2ED-162C-4F59-9B29-94E753AEFBB6.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5838657172422176465/5838657174313821906?authkey=CLKq5sWQrdCKDQ"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-UEH9XCGES94/UQcTw81bhpI/AAAAAAAAN8E/XusoA2s5xTM/w126-h126-p/C6ED7857-4C1F-4A81-A4EA-12B87746A3CE.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5838657172422176465/5838657173594015378?authkey=CLKq5sWQrdCKDQ"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-gjuu0hDEBAk/UQcTw9-V_nI/AAAAAAAAN8E/HO0WAzG49dc/w126-h126-p/FACAFFF1-665D-43BC-911B-B148C3ABE539.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5838657172422176465/5838657173899837042?authkey=CLKq5sWQrdCKDQ"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-sxlGrVkS2xA/UQcTwybbXLI/AAAAAAAAN8E/SuZ7xc1Hnxs/w126-h126-p/FFA93E82-69C5-4952-9A60-888F01FE613D.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5838657172422176465/5838657170800598194?authkey=CLKq5sWQrdCKDQ"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5838657172422176465?authkey=CLKq5sWQrdCKDQ"
+    } ],
+    "content" : "My <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Digispark\">#Digispark</a> from Kickstarter came in today. I backed one board and the RGB LED shield. I ran into some problems after installing the driver, which required a reboot of my computer, but has ran fine since. It uses the Arduino IDE, but has a hacky way of programming it. You have to hit upload on the program, then it will tell you when to plug the board into one of your USB ports. It is made so it is in programming mode for 5 seconds upon initial power-up and then it switches over and runs the stored code. I&#39;m not sure what I&#39;m going to do with it yet, but it does fit pretty nice on the side of my computer. Maybe I&#39;ll just run the demo that cycles through the LED&#39;s colors all the time.",
+    "objectType" : "note",
+    "originalContent" : "My #Digispark from Kickstarter came in today. I backed one board and the RGB LED shield. I ran into some problems after installing the driver, which required a reboot of my computer, but has ran fine since. It uses the Arduino IDE, but has a hacky way of programming it. You have to hit upload on the program, then it will tell you when to plug the board into one of your USB ports. It is made so it is in programming mode for 5 seconds upon initial power-up and then it switches over and runs the stored code. I'm not sure what I'm going to do with it yet, but it does fit pretty nice on the side of my computer. Maybe I'll just run the demo that cycles through the LED's colors all the time.",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Gary Hodgson",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/anE1Hf6kDsq-abWeKctU6EcAfpQ\"",
+        "id" : "106465579732448802787",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-eANojgKApPQ/AAAAAAAAAAI/AAAAAAAAAAA/wxIjXuFhblk/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/106465579732448802787"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Trayton Rattay",
+          "id" : "105511893742560845358",
+          "image" : {
+            "url" : "https://lh4.googleusercontent.com/-MImVqykrwKo/AAAAAAAAAAI/AAAAAAAAANA/Y-Cbtokk9II/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/105511893742560845358",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/mA1F2J665yjheVXF_wAcW_HtJ64\"",
+        "id" : "z12wwtnpprzztxvpf04cexrqywbvcrqgizk0k.1359430982918048",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Looks awesome, i saw that kickstarter but like you wasn&#39;t sure what i would do with it lol..",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-01-29T03:43:02.918Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-01-29T03:43:02.918Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/3ay4u4ZohIbQDE5NOHp3VI5eT2o\"",
+        "id" : "z12wwtnpprzztxvpf04cexrqywbvcrqgizk0k.1359431107696536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Have you ever used an Arduino before?",
+          "objectType" : "comment",
+          "originalContent" : "Have you ever used an Arduino before?"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-01-29T03:45:07.696Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-01-29T03:45:07.696Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Trayton Rattay",
+          "id" : "105511893742560845358",
+          "image" : {
+            "url" : "https://lh4.googleusercontent.com/-MImVqykrwKo/AAAAAAAAAAI/AAAAAAAAANA/Y-Cbtokk9II/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/105511893742560845358",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/eyAPNYpyNLb5ezmeXFTfYlvVJHs\"",
+        "id" : "z12wwtnpprzztxvpf04cexrqywbvcrqgizk0k.1359432754034048",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "I&#39;ve wanted one for a while now just never got around to purchasing one haha. Same reason as this i know theres a lot of stuff you can do with the i just don&#39;t know what i would do with it lol.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-01-29T04:12:34.034Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-01-29T04:12:34.034Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Tp6YeQKaXbKwq0sBfC8Mtg4btgE\"",
+        "id" : "z12wwtnpprzztxvpf04cexrqywbvcrqgizk0k.1359436127293536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Yeah. The real fun comes in when you really want your idea to work and you&#39;re learning what you need to do as you go.",
+          "objectType" : "comment",
+          "originalContent" : "Yeah. The real fun comes in when you really want your idea to work and you're learning what you need to do as you go."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-01-29T05:08:47.293Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-01-29T05:08:47.293Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Trayton Rattay",
+          "id" : "105511893742560845358",
+          "image" : {
+            "url" : "https://lh4.googleusercontent.com/-MImVqykrwKo/AAAAAAAAAAI/AAAAAAAAANA/Y-Cbtokk9II/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/105511893742560845358",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/3qzcdKVpLsv661C6qGjUuPgCxIw\"",
+        "id" : "z12wwtnpprzztxvpf04cexrqywbvcrqgizk0k.1359448470515048",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Yeah Ainsleys sisters Fiance used one to make a Motion sensor controller for a gas powered RC car , the guy it was for is completely paralyzed from the neck down and i guess it was his dream to drive one so he put it in a hat and steers it around and controls it using his head. Pretty awesome stuff.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-01-29T08:34:30.515Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-01-29T08:34:30.515Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/22RXLUBGBjYoT5Hbj6UX_svdpcw\"",
+        "id" : "z12wwtnpprzztxvpf04cexrqywbvcrqgizk0k.1359479302415536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "That&#39;s amazing.",
+          "objectType" : "comment",
+          "originalContent" : "That's amazing."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-01-29T17:08:22.415Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-01-29T17:08:22.415Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Trayton Rattay",
+          "id" : "105511893742560845358",
+          "image" : {
+            "url" : "https://lh4.googleusercontent.com/-MImVqykrwKo/AAAAAAAAAAI/AAAAAAAAANA/Y-Cbtokk9II/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/105511893742560845358",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/-t-VaGPfKoYyMbX6rtql9RS25tk\"",
+        "id" : "z12wwtnpprzztxvpf04cexrqywbvcrqgizk0k.1359480222288048",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Well i should note he didn&#39;t exactly use an Arduino but built the controller on some PCB copying the Arduino layout. But yeah it&#39;s pretty awesome.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-01-29T17:23:42.288Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-01-29T17:23:42.288Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/2mB0Y3w80td7css4Nu1K1aBRd78\"",
+        "id" : "z12wwtnpprzztxvpf04cexrqywbvcrqgizk0k.1359480697671536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Yeah, I&#39;m cheap and do the same thing. If you know what you&#39;re doing, it definitely saves some money.",
+          "objectType" : "comment",
+          "originalContent" : "Yeah, I'm cheap and do the same thing. If you know what you're doing, it definitely saves some money."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-01-29T17:31:37.671Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-01-29T17:31:37.671Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Trayton Rattay",
+          "id" : "105511893742560845358",
+          "image" : {
+            "url" : "https://lh4.googleusercontent.com/-MImVqykrwKo/AAAAAAAAAAI/AAAAAAAAANA/Y-Cbtokk9II/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/105511893742560845358",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/58G3F0hSDjR2iii8QTYxHpysnS8\"",
+        "id" : "z12wwtnpprzztxvpf04cexrqywbvcrqgizk0k.1359485331298048",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Yeah I think when i asked him he said the whole setup only cost about 35 bucks, most expensive thing was the accelerometer at like 20 bucks lol.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-01-29T18:48:51.298Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-01-29T18:48:51.298Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 9
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/VkGdqThnjRS"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-01-29T00:11:48.414Z",
+  "title" : "My #Digispark from Kickstarter came in today. I backed one board and the RGB LED shield. I ran into ...",
+  "updated" : "2013-01-29T00:11:48.414Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/VkGdqThnjRS",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

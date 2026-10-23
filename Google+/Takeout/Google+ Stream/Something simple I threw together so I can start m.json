@@ -1,0 +1,318 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/FJMCxN2Sc3Pq8gIF1cO8u9QEItg\"",
+  "id" : "z12zyddbnmyhd35kw22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "     I bought an electric imp about a year and a half ago when they were released. I loved it's simplicity and made a few temporary projects involving it but wanted to keep it for something more advanced. After all this time,...",
+      "displayName" : "electric imp-Controlled 120VAC Relay Switcher",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://4.bp.blogspot.com/-PP6B_uXAt0A/Uqcajfgo1LI/AAAAAAAAUzU/lC5k9wNjdbw/s400/IMG_6030.JPG"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://4.bp.blogspot.com/-PP6B_uXAt0A/Uqcajfgo1LI/AAAAAAAAUzU/lC5k9wNjdbw/w506-h910/IMG_6030.JPG",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://tinkeringetc.blogspot.com/2013/12/electric-imp-controlled-120vac-relay.html"
+    } ],
+    "content" : "Something simple I threw together so I can start my &quot;dumb&quot; coffee maker while still in bed.",
+    "objectType" : "note",
+    "originalContent" : "Something simple I threw together so I can start my \"dumb\" coffee maker while still in bed.",
+    "plusoners" : {
+      "totalItems" : 3,
+      "items" : [ {
+        "displayName" : "nick Grieco",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/9aNiJ2JkRXoWsXMNdSJ-1SH4DgA\"",
+        "id" : "111270724215802787195",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-xXWEs6beeb4/AAAAAAAAAAI/AAAAAAAAAAA/dU7PhJBkdE0/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/111270724215802787195"
+      }, {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      }, {
+        "displayName" : "Justin Pierce",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/hLqVVaDOOnDybsZ5Jhk-EWiwdhw\"",
+        "id" : "101106064759965886947",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-5iI_vbHhhW8/AAAAAAAAAAI/AAAAAAAAAAA/ZR9xWdElQu8/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/101106064759965886947"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Justin Pierce",
+          "id" : "101106064759965886947",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-5iI_vbHhhW8/AAAAAAAAAAI/AAAAAAAADpQ/5VyqgDWYgww/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/101106064759965886947",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/bl_dy28REpB_ku-WZF2sjLytOtU\"",
+        "id" : "z12zyddbnmyhd35kw22rhxrr1yu5xn3rw04.1386728909724334",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Electronics and any sort of programing are two things I never took the time to learn about.<br />But if I did, I would build this.<br />Cool!<br />",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-11T02:28:29.724Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-11T02:28:29.724Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/6yPwpBZBhf6U9pnrNJzaEXag-I0\"",
+        "id" : "z12zyddbnmyhd35kw22rhxrr1yu5xn3rw04.1386766322123423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Cool, I am working on a garage door opener with some very similar ideas. I am using the <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/112526208786662512291\" oid=\"112526208786662512291\">Adafruit Industries</a></span> cc3000 instead of the electric imp but the idea is the same. Love IOT ideas!",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-11T12:52:02.123Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-11T12:52:02.123Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/NIsVLwXYmfoUXTY9D6kRSywYbyw\"",
+        "id" : "z12zyddbnmyhd35kw22rhxrr1yu5xn3rw04.1386790312636536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/100923804654788847953\" oid=\"100923804654788847953\">james wolf</a></span> This actually started out as a garage door opener for my girlfriend until I realized the Wi-Fi from her house doesn&#39;t reach her garage. Since I already had the basis for the app and the software I made some quick changes and now I can use it. I&#39;d hate to give away something so cool anyhow :)<br /><br />Also the Spark Core that I posted about right before this is essentially an Arduino with the CC3000 module on it so I can play with that in the future.",
+          "objectType" : "comment",
+          "originalContent" : "+100923804654788847953 This actually started out as a garage door opener for my girlfriend until I realized the Wi-Fi from her house doesn't reach her garage. Since I already had the basis for the app and the software I made some quick changes and now I can use it. I'd hate to give away something so cool anyhow :)\n\nAlso the Spark Core that I posted about right before this is essentially an Arduino with the CC3000 module on it so I can play with that in the future."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-11T19:31:52.636Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-12-11T19:31:52.636Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1AmstIDxaGYwt7r0JVgWLv-klfs\"",
+        "id" : "z12zyddbnmyhd35kw22rhxrr1yu5xn3rw04.1386793592011423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Yeah, sparkcore is sweet. Cant wait to get mine, that is my favorite kickstarter so far!",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-11T20:26:32.011Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-11T20:26:32.011Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/FF7jAD13U9nBECwscgZIVs5h4AU\"",
+        "id" : "z12zyddbnmyhd35kw22rhxrr1yu5xn3rw04.1386793608126423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "IOT is the future!",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2013-12-11T20:26:48.126Z",
+        "statusForViewer" : {
+          "isPlusOned" : true,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-11T20:26:48.126Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/cb83wYSrST4S7CfL_FGzjfgoDhY\"",
+        "id" : "z12zyddbnmyhd35kw22rhxrr1yu5xn3rw04.1386856229476536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/100923804654788847953\" oid=\"100923804654788847953\">james wolf</a></span> I also backed a BLEduino (<a href=\"http://www.kickstarter.com/projects/kytelabs/bleduino-bluetooth-40-ble-made-easy-arduino-compat\" class=\"ot-anchor\">http://www.kickstarter.com/projects/kytelabs/bleduino-bluetooth-40-ble-made-easy-arduino-compat</a>) because I&#39;ve been interested in the idea of BLE but haven&#39;t found many good resources for using it on a hobby project. I&#39;m interested to see how it compares to the Spark Core.",
+          "objectType" : "comment",
+          "originalContent" : "@100923804654788847953 I also backed a BLEduino (http://www.kickstarter.com/projects/kytelabs/bleduino-bluetooth-40-ble-made-easy-arduino-compat) because I've been interested in the idea of BLE but haven't found many good resources for using it on a hobby project. I'm interested to see how it compares to the Spark Core."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-12T13:50:29.476Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-12-12T13:50:29.476Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Z_91I6fK22fA1ouSvO9JLSQAr1I\"",
+        "id" : "z12zyddbnmyhd35kw22rhxrr1yu5xn3rw04.1386860734963423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Yeah <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/107457342204653676533\" oid=\"107457342204653676533\">Dillon Nichols</a></span>  I am super interested in BLE stuff as well.  There are some very interesting opportunities for micros with BLE (such as locating).  I just got one of these but haven&#39;t yet had the chance to do anything other than basic testing with it:<br /><a href=\"http://redbearlab.com/blemini/\" class=\"ot-anchor\">http://redbearlab.com/blemini/</a>",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-12-12T15:05:34.963Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-12-12T15:06:01.000Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 7
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/5iK8oXhw3rn"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-12-11T01:57:11.611Z",
+  "title" : "Something simple I threw together so I can start my \"dumb\" coffee maker while still in bed.",
+  "updated" : "2013-12-11T01:57:11.611Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/5iK8oXhw3rn",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

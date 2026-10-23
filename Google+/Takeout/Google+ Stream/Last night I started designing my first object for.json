@@ -1,0 +1,77 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/qZZ80FbA7ffqotdJUkHExIl3vx4\"",
+  "id" : "z12ssjva4pv5ih1er22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "Thingiverse is a universe of things. Download our files and build them with your lasercutter, 3D printer, or CNC.",
+      "displayName" : "Thomas & Betts E987NR Junction Box Cover by Dillon1337 - Thingiverse",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://thingiverse-production.s3.amazonaws.com/renders/f9/de/9e/d1/89/lid_preview_card.jpg"
+      },
+      "image" : {
+        "height" : 120,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/t4MrIo2uh-FPBAEOCmeg1tWFUH5uS8szQzWyzCyiJ7NXoCWL9qItZVor3LRUMURszpW5EwCV=w120-h120",
+        "width" : 120
+      },
+      "objectType" : "article",
+      "url" : "http://www.thingiverse.com/thing:27291"
+    } ],
+    "content" : "Last night I started designing my first object for 3D printing. You can view it here: <a href=\"http://www.thingiverse.com/thing:27291\" class=\"ot-anchor\">http://www.thingiverse.com/thing:27291</a>. It&#39;s for my Automatic Garden Waterer project (<a href=\"http://tinkeringetc.blogspot.com/2012/06/automatic-garden-waterer-part-1.html\" class=\"ot-anchor\">http://tinkeringetc.blogspot.com/2012/06/automatic-garden-waterer-part-1.html</a>) that I am re-doing with an Arduino and 16x2 character LCD. If you check out my blog, you&#39;d see that I mutilated the previous cover so I wanted a replacement. I think I found the right replacement lid in Lowe&#39;s, but it was over $10 -- nearly the same price as the entire junction box. I first plan on creating a solid lid (as you see here), and then creating a derivative with the cutout for the LCD, buttons, and mounting holes.<br /><br />I spent a lot of time trying to print it out last night but my Printrbot was not having it. The large first layer was the culprit. The print wasn&#39;t sticking and I am still unsure what part of the bed is giving me troubles -- if it&#39;s the temperature, surface, or leveling of the bed. I think I&#39;ll start with some smaller prints first and work my way up because I&#39;ve printed out three objects so far that are a couple square inches with no problems.",
+    "objectType" : "note",
+    "originalContent" : "Last night I started designing my first object for 3D printing. You can view it here: http://www.thingiverse.com/thing:27291. It's for my Automatic Garden Waterer project (http://tinkeringetc.blogspot.com/2012/06/automatic-garden-waterer-part-1.html) that I am re-doing with an Arduino and 16x2 character LCD. If you check out my blog, you'd see that I mutilated the previous cover so I wanted a replacement. I think I found the right replacement lid in Lowe's, but it was over $10 -- nearly the same price as the entire junction box. I first plan on creating a solid lid (as you see here), and then creating a derivative with the cutout for the LCD, buttons, and mounting holes.\n\nI spent a lot of time trying to print it out last night but my Printrbot was not having it. The large first layer was the culprit. The print wasn't sticking and I am still unsure what part of the bed is giving me troubles -- if it's the temperature, surface, or leveling of the bed. I think I'll start with some smaller prints first and work my way up because I've printed out three objects so far that are a couple square inches with no problems.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/FZT2M2oMzGg"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-07-24T15:06:53.593Z",
+  "title" : "Last night I started designing my first object for 3D printing. You can view it here: http://www.thi...",
+  "updated" : "2012-07-24T15:06:53.593Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/FZT2M2oMzGg",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,61 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/rLrNu_aiNMBghDOs0fEwXdX_dsE\"",
+  "id" : "z12mgzgrevaywbrjz04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "content" : "My elderly neighbor just came over to ask me about a problem he&#39;s been having with his TracFone... He keeps his phone in a case on his waist and when he bends over the phone dials a number, even when the phone is locked. Did I mention that the number that it calls is 911? He said he&#39;s been calling 911 daily for about the past two weeks.<br /><br />My guess was that there was a speed-dial set to that number but that wasn&#39;t the case, nor was it calling the last dialed number. I don&#39;t know how it ends up calling 911.<br /><br />I understand the need of having an easy way to call 911 in case of an emergency, but whoever thought that 911 should be able to be called while the phone is locked is not a very good decision maker.",
+    "objectType" : "note",
+    "originalContent" : "My elderly neighbor just came over to ask me about a problem he's been having with his TracFone... He keeps his phone in a case on his waist and when he bends over the phone dials a number, even when the phone is locked. Did I mention that the number that it calls is 911? He said he's been calling 911 daily for about the past two weeks.\n\nMy guess was that there was a speed-dial set to that number but that wasn't the case, nor was it calling the last dialed number. I don't know how it ends up calling 911.\n\nI understand the need of having an easy way to call 911 in case of an emergency, but whoever thought that 911 should be able to be called while the phone is locked is not a very good decision maker.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/jmufLseTMBq"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-03-06T19:31:04.161Z",
+  "title" : "My elderly neighbor just came over to ask me about a problem he's been having with his TracFone... He...",
+  "updated" : "2012-03-06T19:51:34.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/jmufLseTMBq",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

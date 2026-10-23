@@ -1,0 +1,101 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/lGH_4aCxhsCFfzFi9XRio-6wUSo\"",
+  "id" : "z12zylly1qzezjzw004cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "IMG_6117.JPG",
+      "displayName" : "Here's an updated lid for the Backwoods Logger case. I switched out the buttons for ones that were 10mm tall and they will probably work if I adjust the size of the button holes. They're a little too tight to push right now. I went to Home Depot to pick up M3 bolts but they only had one size and it was too short, so I ordered a bunch from Amazon prime which I should get in a couple days. I also added a vent so the internal pressure sensor would equalize with with atmospheric pressure. I noticed the layers shifted while printing and I checked out the X and Y belts. The Y belt was very loose but I tightened them both up and I printed a box and it turned out very nice. I should print another calibration cube to ensure my step values are alright because I printed a circular object a few days ago and it turned out lopsided. The work on a 3D printer is never done it seems.",
+      "fullImage" : {
+        "height" : 2048,
+        "type" : "image/jpeg",
+        "url" : "https://lh4.googleusercontent.com/-LyI59Dt8ECY/Usq8mrDDznI/AAAAAAAAVQI/h1N-lnqSAXQ/w1536-h2048/IMG_6117.JPG",
+        "width" : 1536
+      },
+      "id" : "107457342204653676533.5965788028982251122",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh4.googleusercontent.com/-LyI59Dt8ECY/Usq8mrDDznI/AAAAAAAAVQI/h1N-lnqSAXQ/w506-h750/IMG_6117.JPG"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5965788026584318161/5965788028982251122"
+    } ],
+    "content" : "Here&#39;s an updated lid for the Backwoods Logger case. I switched out the buttons for ones that were 10mm tall and they will probably work if I adjust the size of the button holes. They&#39;re a little too tight to push right now. I went to Home Depot to pick up M3 bolts but they only had one size and it was too short, so I ordered a bunch from Amazon prime which I should get in a couple days. I also added a vent so the internal pressure sensor would equalize with with atmospheric pressure. I noticed the layers shifted while printing and I checked out the X and Y belts. The Y belt was very loose but I tightened them both up and I printed a box and it turned out very nice. I should print another calibration cube to ensure my step values are alright because I printed a circular object a few days ago and it turned out lopsided. The work on a 3D printer is never done it seems.  ",
+    "objectType" : "note",
+    "originalContent" : "Here's an updated lid for the Backwoods Logger case. I switched out the buttons for ones that were 10mm tall and they will probably work if I adjust the size of the button holes. They're a little too tight to push right now. I went to Home Depot to pick up M3 bolts but they only had one size and it was too short, so I ordered a bunch from Amazon prime which I should get in a couple days. I also added a vent so the internal pressure sensor would equalize with with atmospheric pressure. I noticed the layers shifted while printing and I checked out the X and Y belts. The Y belt was very loose but I tightened them both up and I printed a box and it turned out very nice. I should print another calibration cube to ensure my step values are alright because I printed a circular object a few days ago and it turned out lopsided. The work on a 3D printer is never done it seems.  ",
+    "plusoners" : {
+      "totalItems" : 2,
+      "items" : [ {
+        "displayName" : "Carlos GS",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/-79w-4PnW1lHA1WdEkDq32Hter4\"",
+        "id" : "113437723819360223498",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-vFU04N8SKHY/AAAAAAAAAAI/AAAAAAAAAAA/vjNYSz8j4WU/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/113437723819360223498"
+      }, {
+        "displayName" : "Luis Diaz",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/6Yg9AHQXXmEViu6S2dog9P6sYZQ\"",
+        "id" : "108290751508891748631",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-9TCuR4NN1xQ/AAAAAAAAAAI/AAAAAAAAAAA/71oRvg15NEk/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/108290751508891748631"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/NaTVCUm5wxr"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-01-06T14:24:27.943Z",
+  "title" : "Here's an updated lid for the Backwoods Logger case. I switched out the buttons for ones that were 10mm...",
+  "updated" : "2014-01-06T14:24:27.943Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/NaTVCUm5wxr",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

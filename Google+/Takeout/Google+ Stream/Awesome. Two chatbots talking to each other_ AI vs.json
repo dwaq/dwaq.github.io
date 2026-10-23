@@ -1,0 +1,98 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "annotation" : "Now I want to hook two Watsons up to each other and see what happens.",
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/snQUFYS6sZNVBKTuHld9AjOpayU\"",
+  "id" : "z13bdjlbewn0w3jgz04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "displayName" : "Amber Case",
+      "id" : "115058286796980954574",
+      "image" : {
+        "url" : "https://lh3.googleusercontent.com/-NjGfso3OouE/AAAAAAAAAAI/AAAAAAANMlk/6Cx43YJCv10/photo.jpg?sz=50"
+      },
+      "url" : "https://plus.google.com/115058286796980954574",
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "youtube"
+      } ],
+      "content" : "What happens when you let two bots have a conversation? We certainly never expected this...",
+      "displayName" : "AI vs. AI. Two chatbots talking to each other",
+      "embed" : {
+        "type" : "application/x-shockwave-flash",
+        "url" : "http://www.youtube.com/v/WnzlbyTZsQY&hl=en&fs=1&autoplay=1"
+      },
+      "image" : {
+        "height" : 284,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/xajz_xyk2GMjMQGX4ht3esA1WEsj5z86WludOqOAqyOS6aZ5Dz2B2hyBOoL8pJKfb_uBxjVAsWrHw8sLRoX03zoo8KOttUB8FPmvGpW0_A=w506-h284-n",
+        "width" : 506
+      },
+      "objectType" : "video",
+      "url" : "http://www.youtube.com/watch?v=WnzlbyTZsQY"
+    } ],
+    "content" : "Awesome. Two chatbots talking to each other: <a href=\"http://www.youtube.com/watch?v=WnzlbyTZsQY\" class=\"ot-anchor\">AI vs. AI. Two chatbots talking to each other</a>",
+    "id" : "z13bvrexhmynihk2f22pu53pixe3zdbya04",
+    "objectType" : "activity",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Ryan Bing",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1ALENUJQaLncEmZp7PdLJIC8Vqc\"",
+        "id" : "117562784210382014167",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-myakUWchj48/AAAAAAAAAAI/AAAAAAAAAAA/KiUblef0U0E/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117562784210382014167"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/115058286796980954574/posts/DdWJKPXuhLa"
+  },
+  "provider" : {
+    "title" : "Reshared Post"
+  },
+  "published" : "2011-08-29T22:15:44.852Z",
+  "title" : "Awesome. Two chatbots talking to each other: AI vs. AI. Two chatbots talking to each other",
+  "updated" : "2011-08-29T22:15:44.852Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/TgAMLJqaFBB",
+  "verb" : "share",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

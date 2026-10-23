@@ -1,0 +1,247 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/_iyJsGQVGFtpLN3GhtfSFfduiv8\"",
+  "id" : "z12isbsxvwrewbdzj04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5842080778894898465",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-JqD5QXNQZME/URM9hNV7emI/AAAAAAAAOSs/HmaGWkZS56c/w379-h379-p/photo.jpg",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5842080778894898465/5842080782356281954"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-G3y3V2H1AH8/URM9hBFhK5I/AAAAAAAAOS0/WB2dJwyKo2U/w126-h126-p/photo.jpg",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5842080778894898465/5842080779066223506"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-pu60jpoy55A/URM9hKtwFPI/AAAAAAAAOS8/NS4zfa2rIIM/w126-h126-p/photo.jpg",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5842080778894898465/5842080781650892018"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-vbaQfHzCOhA/URM9hCT8PlI/AAAAAAAAOSg/KQmcP7b5Vb4/w126-h126-p/photo.jpg",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5842080778894898465/5842080779395153490"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5842080778894898465"
+    } ],
+    "content" : "I just finished up the first version of the 3D-printed mounting hardware for the camera and light bar on my group&#39;s line-following car. I started with the mounts on the side of the camera. They allow it to swivel up and down to adjust the angle. We used two antennas for an adjustable z-direction height. Finally a bracket was made for the bottom to attach these parts and the light bar to the bumper. <br /><br />Just about every part needs improved in one way or another, but its good enough to play with now. I&#39;ll probably start with version 2.0 tomorrow. ",
+    "objectType" : "note",
+    "originalContent" : "I just finished up the first version of the 3D-printed mounting hardware for the camera and light bar on my group's line-following car. I started with the mounts on the side of the camera. They allow it to swivel up and down to adjust the angle. We used two antennas for an adjustable z-direction height. Finally a bracket was made for the bottom to attach these parts and the light bar to the bumper. \n\nJust about every part needs improved in one way or another, but its good enough to play with now. I'll probably start with version 2.0 tomorrow. ",
+    "plusoners" : {
+      "totalItems" : 5,
+      "items" : [ {
+        "displayName" : "Lucas Walter",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/epZ6Koiy4-N01h9-pCGwRZioBJc\"",
+        "id" : "103190342755104432973",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-x7pwUw7EjJk/AAAAAAAAAAI/AAAAAAAAAAA/6Yux1ybeTJk/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/103190342755104432973"
+      }, {
+        "displayName" : "Mike Beardmore",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/xom2OkGQQfShtQqJ2xtOfPYyN1s\"",
+        "id" : "116341287830615647443",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-wPvWk8SByOw/AAAAAAAAAAI/AAAAAAAAAAA/JgxLy5WEcnE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/116341287830615647443"
+      }, {
+        "displayName" : "Kris Kortright",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Sqwlxyp4SJVx92Sbb6nJHbfhMmk\"",
+        "id" : "117228107982719398401",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Wjiqs-p9Yn8/AAAAAAAAAAI/AAAAAAAAAAA/TfWSQ3HWPaA/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117228107982719398401"
+      }, {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      }, {
+        "displayName" : "james wolf",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1pOnIk2wStecV-UsYW2Ri2WJjGU\"",
+        "id" : "100923804654788847953",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAAAAA/7GEq8V2XgYE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/100923804654788847953"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "james wolf",
+          "id" : "100923804654788847953",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAA5jM/oKhfIH6ljXg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/100923804654788847953",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/F136p2o_ZaRPQhAF4_tfQeZOkbg\"",
+        "id" : "z12isbsxvwrewbdzj04cexrqywbvcrqgizk0k.1360243557603423",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Light bar? What&#39;s it going to do?",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-02-07T13:25:57.603Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-02-07T13:25:57.603Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Kris Kortright",
+          "id" : "117228107982719398401",
+          "image" : {
+            "url" : "https://lh4.googleusercontent.com/-Wjiqs-p9Yn8/AAAAAAAAAAI/AAAAAAAABlE/hd0f_p1K3Iw/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/117228107982719398401",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/y_6xYJSn2uKHLBTSmuc9UHDXitM\"",
+        "id" : "z12isbsxvwrewbdzj04cexrqywbvcrqgizk0k.1360256690031902",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Nice job!",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-02-07T17:04:50.031Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-02-07T17:04:50.031Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/n0uquyyGrLAGITkndVqaNyTe01c\"",
+        "id" : "z12isbsxvwrewbdzj04cexrqywbvcrqgizk0k.1360258540778536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "The camera works best when there&#39;s high contrast between the white track and black line so the light is there to make the white seem brighter. I&#39;m not convinced its really necessary, but my professor strongly suggested it so I decided to include it.",
+          "objectType" : "comment",
+          "originalContent" : "The camera works best when there's high contrast between the white track and black line so the light is there to make the white seem brighter. I'm not convinced its really necessary, but my professor strongly suggested it so I decided to include it."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-02-07T17:35:40.778Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-02-07T17:35:40.778Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 3
+    },
+    "resharers" : {
+      "totalItems" : 1,
+      "items" : [ ]
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/h2bXbhsQXKS"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-02-07T05:37:09.539Z",
+  "title" : "I just finished up the first version of the 3D-printed mounting hardware for the camera and light bar...",
+  "updated" : "2013-02-07T05:37:25.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/h2bXbhsQXKS",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

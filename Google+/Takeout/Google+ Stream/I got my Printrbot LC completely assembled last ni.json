@@ -1,0 +1,158 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/FWmzqHZ5y8vIgRMIytV_xKRMa3Q\"",
+  "id" : "z134ybgy1smfjphjv04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "I finished assembling my Printrbot LC last night. I still have to calibrate everything and make adjustments, but I now have a 3D printer that I am able to control over Pronterface. You can view the as...",
+      "displayName" : "Printrbot Build: Part 2",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://3.bp.blogspot.com/-PZYZCpXzs-0/T_WijTmlAeI/AAAAAAAAKS0/ae0aZpzNRU0/s400/E4BBACF9-E28A-42A2-A31E-5F0F562C9056.JPG"
+      },
+      "image" : {
+        "height" : 120,
+        "type" : "image/jpeg",
+        "url" : "https://3.bp.blogspot.com/-PZYZCpXzs-0/T_WijTmlAeI/AAAAAAAAKS0/ae0aZpzNRU0/w120-h120/E4BBACF9-E28A-42A2-A31E-5F0F562C9056.JPG",
+        "width" : 120
+      },
+      "objectType" : "article",
+      "url" : "http://tinkeringetc.blogspot.com/2012/07/printrbot-build-part-2.html"
+    } ],
+    "content" : "I got my Printrbot LC completely assembled last night and was able to control it via Prontrface. There&#39;s a video on that page of it&#39;s first movements. Tonight will be the boring task of calibrating everything and hopefully I&#39;ll be able to extrude something -- even if it&#39;s not a model.",
+    "objectType" : "note",
+    "originalContent" : "I got my Printrbot LC completely assembled last night and was able to control it via Prontrface. There's a video on that page of it's first movements. Tonight will be the boring task of calibrating everything and hopefully I'll be able to extrude something -- even if it's not a model.",
+    "plusoners" : {
+      "totalItems" : 2,
+      "items" : [ {
+        "displayName" : "Jonathan Molina (DigitalKNK)",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/ib-YYJ9nj1M4kWi09IR__NqRh20\"",
+        "id" : "104551390394369416290",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-ufPDBevcMlg/AAAAAAAAAAI/AAAAAAAAAAA/V-JfpxL1CeY/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/104551390394369416290"
+      }, {
+        "displayName" : "Howard C. Shaw III",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/MkEcSmb_wf1vTYYKHl2DhA4oYRM\"",
+        "id" : "116496743359717565259",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-pNhu40K89QI/AAAAAAAAAAI/AAAAAAAAAAA/r3sW7t-Cj8U/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/116496743359717565259"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Clifford Kasper",
+          "id" : "102024819361829647116",
+          "image" : {
+            "url" : "https://lh4.googleusercontent.com/-_UstqT_YXE4/AAAAAAAAAAI/AAAAAAAAGVQ/i_zwsd4ydaE/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/102024819361829647116",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/AZOBYV3SOh7hDKNvJYwqUYN8rb8\"",
+        "id" : "z134ybgy1smfjphjv04cexrqywbvcrqgizk0k.1341717541960984",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Good job Dillon.  I have mine Printrbot Original completed and still need to construct it.  The right threaded rod seems to have a sticking point, any suggestions on how to fix it?",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-07-08T03:19:01.960Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2012-07-08T03:19:01.960Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/pN9SvreH2DwvoT_gJ8i6igjfNZk\"",
+        "id" : "z134ybgy1smfjphjv04cexrqywbvcrqgizk0k.1341840383353536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/102024819361829647116\" oid=\"102024819361829647116\">Clifford Kasper</a></span>, you&#39;re saying the bolt threads on but gets caught on a part of the rod? I would check for a bur or defect on the rod and file it down if possible. If this doesn&#39;t seem to be the problem, could you give me a better explanation?",
+          "objectType" : "comment",
+          "originalContent" : "@102024819361829647116, you're saying the bolt threads on but gets caught on a part of the rod? I would check for a bur or defect on the rod and file it down if possible. If this doesn't seem to be the problem, could you give me a better explanation?"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-07-09T13:26:23.353Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-07-09T13:26:23.353Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 2
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/j471nmsrQcQ"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-07-05T15:02:49.453Z",
+  "title" : "I got my Printrbot LC completely assembled last night and was able to control it via Prontrface. There's...",
+  "updated" : "2012-07-05T15:02:49.453Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/j471nmsrQcQ",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

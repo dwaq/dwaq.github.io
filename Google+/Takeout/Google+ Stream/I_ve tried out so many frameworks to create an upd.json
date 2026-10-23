@@ -1,0 +1,100 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/jPb1b_id5iNEg95LDJurxEUXvEg\"",
+  "id" : "z12vfjsxftazcdw5204cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "2014-06-30",
+      "id" : "107457342204653676533.6030905766016627585",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "Mobile layout",
+        "image" : {
+          "height" : 253,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-VR0S_BgwT9s/U7IU25newMI/AAAAAAAAXyU/7e64nEr2fwY/w253-h253-p/Screenshot%2Bfrom%2B2014-06-30%2B21%253A52%253A55.png",
+          "width" : 253
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6030905766016627585/6030905784414421186"
+      }, {
+        "description" : "Desktop layout",
+        "image" : {
+          "height" : 253,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-2IlhBmVpTOY/U7IU10uK4JI/AAAAAAAAXyM/hK7-_ScJ1_8/w253-h253-p/Screenshot%2Bfrom%2B2014-06-30%2B21%253A51%253A28.png",
+          "width" : 253
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6030905766016627585/6030905765920432274"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/6030905766016627585"
+    } ],
+    "content" : "I&#39;ve tried out so many frameworks to create an updated mobile web app for my electric imp powered relay. I ran across <a href=\"https://developers.google.com/web/fundamentals/\" class=\"ot-anchor\">https://developers.google.com/web/fundamentals/</a> today and I think it may be best for what I want to do. Everything else I used so far has used complicated JavaScript to emulate a native iOS app. This framework seems like it uses a simple responsive theme. I only have a basic UI so far, but I like how there&#39;s a desktop layout (something nothing else has) and how everything instantly refreshes on all devices when code is changed. I still have to finish implementing the background JavaScript to actually make it communicate with the electric imp, but I am hopeful that I can do that without many problems.",
+    "objectType" : "note",
+    "originalContent" : "I've tried out so many frameworks to create an updated mobile web app for my electric imp powered relay. I ran across https://developers.google.com/web/fundamentals/ today and I think it may be best for what I want to do. Everything else I used so far has used complicated JavaScript to emulate a native iOS app. This framework seems like it uses a simple responsive theme. I only have a basic UI so far, but I like how there's a desktop layout (something nothing else has) and how everything instantly refreshes on all devices when code is changed. I still have to finish implementing the background JavaScript to actually make it communicate with the electric imp, but I am hopeful that I can do that without many problems.",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Howard C. Shaw III",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/MkEcSmb_wf1vTYYKHl2DhA4oYRM\"",
+        "id" : "116496743359717565259",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-pNhu40K89QI/AAAAAAAAAAI/AAAAAAAAAAA/r3sW7t-Cj8U/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/116496743359717565259"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/UF6TqKYaRzM"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-07-01T02:01:42.736Z",
+  "title" : "I've tried out so many frameworks to create an updated mobile web app for my electric imp powered relay...",
+  "updated" : "2014-07-01T02:01:42.736Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/UF6TqKYaRzM",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

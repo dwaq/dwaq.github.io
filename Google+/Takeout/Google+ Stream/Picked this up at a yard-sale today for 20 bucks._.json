@@ -1,0 +1,253 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/K5mE2IYPeVjOnjVkmQO6syLvnoc\"",
+  "id" : "z12ocxmy1xmav1ilw22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "2F130414-5414-466F-BEB1-607ECF0BC865.JPG",
+      "fullImage" : {
+        "height" : 1536,
+        "type" : "image/jpeg",
+        "url" : "https://lh6.googleusercontent.com/--XIoRB4RnSw/UZg9AEPp3CI/AAAAAAAAQ9Y/NGMC7tiYEKA/s1600/photo.jpg",
+        "width" : 2048
+      },
+      "id" : "107457342204653676533.5879516384880876578",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh6.googleusercontent.com/--XIoRB4RnSw/UZg9AEPp3CI/AAAAAAAAQ9Y/NGMC7tiYEKA/w506-h750/photo.jpg"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5879516381134457441/5879516384880876578"
+    } ],
+    "content" : "Picked this up at a yard-sale today for 20 bucks. Anybody know if its as hackable as a roomba?",
+    "objectType" : "note",
+    "originalContent" : "Picked this up at a yard-sale today for 20 bucks. Anybody know if its as hackable as a roomba?",
+    "plusoners" : {
+      "totalItems" : 2,
+      "items" : [ {
+        "displayName" : "Justin Shaw",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/pXm6xnB7Rq7kRul7NTOCT4UDF6M\"",
+        "id" : "110749747659159749550",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-IFU0TaMUgqQ/AAAAAAAAAAI/AAAAAAAAAAA/Y9uHXE-742s/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/110749747659159749550"
+      }, {
+        "displayName" : "Tim Carr",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/0U5gIGiWVEwRlpK9Fia4p0dSl8o\"",
+        "id" : "115083563777381946514",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-DQIrS8GVBmw/AAAAAAAAAAI/AAAAAAAAAAA/7IT9PlA5q-I/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/115083563777381946514"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Justin Shaw",
+          "id" : "110749747659159749550",
+          "image" : {
+            "url" : "https://lh4.googleusercontent.com/-IFU0TaMUgqQ/AAAAAAAAAAI/AAAAAAAA3h0/nFJ7jwGtjO0/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/110749747659159749550",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Z6NjQF9zKrF2-galPhfrhx_zYow\"",
+        "id" : "z12ocxmy1xmav1ilw22rhxrr1yu5xn3rw04.1373978935174196",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Killer find.  Any luck hacking it?",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-07-16T12:48:55.174Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-07-16T12:48:55.174Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/kCcq6Fr66N7wyJ0IH2hregHy2hs\"",
+        "id" : "z12ocxmy1xmav1ilw22rhxrr1yu5xn3rw04.1373979341522536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "I haven&#39;t as much as even taken it out of the box. I&#39;ve never really explored robotics so I son&#39;t know what I could make out of it.",
+          "objectType" : "comment",
+          "originalContent" : "I haven't as much as even taken it out of the box. I've never really explored robotics so I son't know what I could make out of it."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-07-16T12:55:41.522Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-07-16T12:55:41.522Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Justin Shaw",
+          "id" : "110749747659159749550",
+          "image" : {
+            "url" : "https://lh4.googleusercontent.com/-IFU0TaMUgqQ/AAAAAAAAAAI/AAAAAAAA3h0/nFJ7jwGtjO0/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/110749747659159749550",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/W2o9q9axDGP_LrNqDxtsBb9xbWg\"",
+        "id" : "z12ocxmy1xmav1ilw22rhxrr1yu5xn3rw04.1373979529645196",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Might make a great platform for a tele-presence robot.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-07-16T12:58:49.645Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-07-16T12:58:49.645Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Justin Shaw",
+          "id" : "110749747659159749550",
+          "image" : {
+            "url" : "https://lh4.googleusercontent.com/-IFU0TaMUgqQ/AAAAAAAAAAI/AAAAAAAA3h0/nFJ7jwGtjO0/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/110749747659159749550",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1lHtoVTD3_kahT4aEm_uGgegEeU\"",
+        "id" : "z12ocxmy1xmav1ilw22rhxrr1yu5xn3rw04.1373979764793196",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<a href=\"http://mysite.verizon.net/gsplews/2serial-conn.htm\" class=\"ot-anchor\">http://mysite.verizon.net/gsplews/2serial-conn.htm</a><br /><a href=\"http://www.robotshop.com/blog/en/irobot-releases-roomba-serial-port-interface-4101\" class=\"ot-anchor\">http://www.robotshop.com/blog/en/irobot-releases-roomba-serial-port-interface-4101</a>",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-07-16T13:02:44.793Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-07-16T13:02:44.793Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/O8zJ5KgP2iyCB27c7BfNSWeQQ-U\"",
+        "id" : "z12ocxmy1xmav1ilw22rhxrr1yu5xn3rw04.1373980742381536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Thanks for the links. When I get around to doing something with it, I&#39;ll be sure to check them out in more detail.",
+          "objectType" : "comment",
+          "originalContent" : "Thanks for the links. When I get around to doing something with it, I'll be sure to check them out in more detail."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-07-16T13:19:02.381Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-07-16T13:19:02.381Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 5
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/B7VyQJ4a7W7"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-05-19T02:46:24.563Z",
+  "title" : "Picked this up at a yard-sale today for 20 bucks. Anybody know if its as hackable as a roomba?",
+  "updated" : "2013-05-19T02:46:26.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/B7VyQJ4a7W7",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

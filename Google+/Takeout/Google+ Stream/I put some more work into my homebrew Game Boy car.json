@@ -1,0 +1,136 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/ka7pe74tkehS4G0_tzFA8rFeEdI\"",
+  "id" : "z12evrizeknhvr2xe04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5710722264330022481",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-Rf0qSVvBSFA/T0CKlD9umbI/AAAAAAAA1Yw/7byHeqojhW4jfzOSKfSa-gW3Lm7EutWwACJoC/w379-h379-p/9548616F-3B06-45D3-89E8-17C28BFBA962.JPG",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5710722264330022481/5710716696829794738"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-ihLr0B05mCo/T0CKircEN-I/AAAAAAAAF2A/HJeYBelh0jE/w126-h126-p/F2F73C4D-36A1-4B2B-B730-E0E3DC335AAE.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5710722264330022481/5710716655886415842"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-88cSNmfPM0w/T0CKgQZTUCI/AAAAAAAAF14/xXPMOZ11V3U/w126-h126-p/BDD82408-FA5B-4BBF-8EBE-A43065728A48.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5710722264330022481/5710716614267326498"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-1Pd16cxp5pg/T0CKeFqUm9I/AAAAAAAAF1w/nS_ZJ4cs6V8/w126-h126-p/944D57B7-A92A-44C3-A3AE-793A66F0CAFA.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5710722264330022481/5710716577026186194"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-pvXaDn4oDfY/T0CKcHZpnkI/AAAAAAAAF1o/lZSYtvC12UI/w126-h126-p/0D42DD82-0339-40EE-A304-74127B728433.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5710722264330022481/5710716543133392450"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5710722264330022481"
+    } ],
+    "content" : "I put some more work into my homebrew Game Boy cartridge tonight. I previously had made a schematic and board file of what I thought the board looked like from some internet sources. I went ahead and traced all the traces with a logic probe and wrote some notes on how everything should be connected. It turns out that a few of my traces in my schematic are different than what I measured today. It&#39;s a little too late now to be trying to correct a mess of lines so I&#39;ll save that for another night. I did a printout of my board file and found out that the layout matched a real board exactly, so that&#39;s a good thing.<br /><br />This first picture is using the logic probe to trace the traces in a actual Game Boy PCB. There&#39;s a 9V battery in parallel with the probe and I went ahead and soldered the positive lead to each pad on the connector, one at a time. You then move the logic probe around the board to each pad and when it&#39;s on the same trace as the pad that you have the voltage on, it lights up red and beeps. It&#39;s a very easy way of figuring out where traces go. (I don&#39;t know why I didn&#39;t think of this earlier, but it&#39;s not really necessary to have the ground lines soldered to the board. As long as they&#39;re connected to each other, that would be fine.)<br /><br />The other pictures show the layout from the board file that I was editing on Eagle. The traces aren&#39;t correct just yet, but the board outline matches (from careful measurements with a digital caliper). Also, I know the position of the holes for the PCB, but I don&#39;t have them set as drill holes yet. That&#39;s something for another day, mostly because I&#39;m not exactly sure how to do that yet.",
+    "objectType" : "note",
+    "originalContent" : "I put some more work into my homebrew Game Boy cartridge tonight. I previously had made a schematic and board file of what I thought the board looked like from some internet sources. I went ahead and traced all the traces with a logic probe and wrote some notes on how everything should be connected. It turns out that a few of my traces in my schematic are different than what I measured today. It's a little too late now to be trying to correct a mess of lines so I'll save that for another night. I did a printout of my board file and found out that the layout matched a real board exactly, so that's a good thing.\n\nThis first picture is using the logic probe to trace the traces in a actual Game Boy PCB. There's a 9V battery in parallel with the probe and I went ahead and soldered the positive lead to each pad on the connector, one at a time. You then move the logic probe around the board to each pad and when it's on the same trace as the pad that you have the voltage on, it lights up red and beeps. It's a very easy way of figuring out where traces go. (I don't know why I didn't think of this earlier, but it's not really necessary to have the ground lines soldered to the board. As long as they're connected to each other, that would be fine.)\n\nThe other pictures show the layout from the board file that I was editing on Eagle. The traces aren't correct just yet, but the board outline matches (from careful measurements with a digital caliper). Also, I know the position of the holes for the PCB, but I don't have them set as drill holes yet. That's something for another day, mostly because I'm not exactly sure how to do that yet.",
+    "plusoners" : {
+      "totalItems" : 2,
+      "items" : [ {
+        "displayName" : "Heather Lackey",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/GaG9Enqr8G3eipqpZ59bV8ODxtU\"",
+        "id" : "100036293387428792280",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-ADKZdM4CA-M/AAAAAAAAAAI/AAAAAAAAAAA/CQgnlBxkmzc/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/100036293387428792280"
+      }, {
+        "displayName" : "Remy Porter",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/6Jnf2mJXPy-O2xrG74F0IxA_vWk\"",
+        "id" : "105350353135669642561",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-hDrKQ4t-Bsw/AAAAAAAAAAI/AAAAAAAAAAA/zaR_p6McSQk/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/105350353135669642561"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/VT5ksmWtRTA"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-02-19T05:59:01.307Z",
+  "title" : "I put some more work into my homebrew Game Boy cartridge tonight. I previously had made a schematic ...",
+  "updated" : "2012-02-19T05:59:01.307Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/VT5ksmWtRTA",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

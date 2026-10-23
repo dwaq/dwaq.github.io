@@ -1,0 +1,77 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/dMY9TLZB1Qr35O5RmJj6aopQWm8\"",
+  "id" : "z121f1pxzri1vh22522rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "I realised that I had completely forgotten to talk about the PCB I designed for the first prototype! Before integrating the controller into a Beaglebone, I decided to test the concept using an Ardu...",
+      "displayName" : "Z-Scale controller part IIIb: Arduino Shield",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://www.aerodynes.fr/wp-content/uploads/2013/04/Screen-Shot-2013-03-22-at-5.44.06-PM-300x239.png"
+      },
+      "image" : {
+        "height" : 120,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/RoXUIMlPUu88-ZH4BVX5dx0QU7VV_ePjYkW0WcAqSCYJVKXE_J6xMnfFYqeEusjhVEsjH0ivdhOkPIrEmx6h2LnC6Ribxqppfy5bOaAPzmJzYFQ8xaBZRJHVdtZ60lv-Y9vukDZ-LTLM96Inx4oPHAQKnQ=w120-h120",
+        "width" : 120
+      },
+      "objectType" : "article",
+      "url" : "http://www.aerodynes.fr/2013/04/15/z-scale-controller-part-iiib-arduino-shield/"
+    } ],
+    "content" : "&quot;The cost of a 2-layer PCB today is about the same as the cost of a digital photograph print 10 years ago...&quot;<br /><br />This line blew my mind. It&#39;s unbelievable how fast technology is moving. (And great blog, by the way.)",
+    "objectType" : "note",
+    "originalContent" : "\"The cost of a 2-layer PCB today is about the same as the cost of a digital photograph print 10 years ago...\"\n\nThis line blew my mind. It's unbelievable how fast technology is moving. (And great blog, by the way.)",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/CZ2SGL64aoB"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-02-06T20:17:14.612Z",
+  "title" : "\"The cost of a 2-layer PCB today is about the same as the cost of a digital photograph print 10 years...",
+  "updated" : "2014-04-18T12:55:42.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/CZ2SGL64aoB",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

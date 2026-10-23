@@ -1,0 +1,402 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/faZjt1FZW5355UDaMvP-7UiFxY8\"",
+  "id" : "z12ztrvonmf4wbzjp04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "I bought a few of these ProtoBoards a while back as I was placing an order on iTead Studio's iStore. I think I bought them because they were offered at a discount, but even at the current price of...",
+      "displayName" : "My Life as a Tinkerer: 5V Regulated Breadboard Power Supply",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://3.bp.blogspot.com/-Td06c-fpsj8/TxR-YOZP-sI/AAAAAAAAEkk/W69TP9rfT1w/s400/12+-+1"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/Mx_jobiqYVaFhwEkHdKxfZARgyCLYjxKMTUaKqJHXubCK-jdRxqvaFjYYyjSmu5bqJtdrzUGWupTBWFHQGJdt1FQTniNKltjbe6dzIe3fvNhaS53-2huLaI-UZ9Gc1xcoeY=w506-h910",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://tinkeringetc.blogspot.com/2012/01/5v-regulated-breadboard-power-supply.html"
+    } ],
+    "content" : "An overview of an easy to build breadboard power supply that I just made in about an hour.",
+    "objectType" : "note",
+    "originalContent" : "An overview of an easy to build breadboard power supply that I just made in about an hour.",
+    "plusoners" : {
+      "totalItems" : 2,
+      "items" : [ {
+        "displayName" : "mohan mx",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/QaI8MqDJ31xMcRWKPi_piVe1ibo\"",
+        "id" : "111010999580908265495",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-LqYdqxseAk4/AAAAAAAAAAI/AAAAAAAAAAA/QuL4vgZi2X4/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/111010999580908265495"
+      }, {
+        "displayName" : "Brandon Prentice",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Jj9650H6_xGgM1ZdlelXnvSGI5g\"",
+        "id" : "113632126439034122432",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-B1KxdwvZxzc/AAAAAAAAAAI/AAAAAAAAAAA/hqehaW3eyEU/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/113632126439034122432"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "mohan mx",
+          "id" : "111010999580908265495",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-LqYdqxseAk4/AAAAAAAAAAI/AAAAAAAABII/gaMmh5fpEv4/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/111010999580908265495",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/CxPjOdx7WbT2r46kuVbpd1tmv_I\"",
+        "id" : "z12ztrvonmf4wbzjp04cexrqywbvcrqgizk0k.1329763559266205",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Im damn in need of a regulated 12v 10A power supply from a car for power a mini itx pc...any ideas???",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-02-20T18:45:59.266Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2012-02-20T18:45:59.266Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Bf-I0AE4_J-aA9rtoZqxmktyTkU\"",
+        "id" : "z12ztrvonmf4wbzjp04cexrqywbvcrqgizk0k.1329764096742536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Let me get this straight, you&#39;re putting a computer in your car?",
+          "objectType" : "comment",
+          "originalContent" : "Let me get this straight, you're putting a computer in your car?"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-02-20T18:54:56.742Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-02-20T18:54:56.742Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "mohan mx",
+          "id" : "111010999580908265495",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-LqYdqxseAk4/AAAAAAAAAAI/AAAAAAAABII/gaMmh5fpEv4/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/111010999580908265495",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/BW_tNff_S5RO59r0a2ZOyjdtPV0\"",
+        "id" : "z12ztrvonmf4wbzjp04cexrqywbvcrqgizk0k.1329764229559205",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Yup a mini ITX! im creating a dedicated linux distro for it too!!  I&#39;ve already bought the PICO PSU atx power supply, BUt i need to regulate the 12v voltage",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-02-20T18:57:09.559Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2012-02-20T18:57:09.559Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/D3X6l_0Upqkvmvgj9aVrpL9WQcc\"",
+        "id" : "z12ztrvonmf4wbzjp04cexrqywbvcrqgizk0k.1329764532525536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Just to start off, I&#39;m no expert on this stuff but I&#39;ll try and help you out. So the power supply you bought is 12V, 10A, but the computer runs on 12V, some other amperage?",
+          "objectType" : "comment",
+          "originalContent" : "Just to start off, I'm no expert on this stuff but I'll try and help you out. So the power supply you bought is 12V, 10A, but the computer runs on 12V, some other amperage?"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-02-20T19:02:12.525Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-02-20T19:02:12.525Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "mohan mx",
+          "id" : "111010999580908265495",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-LqYdqxseAk4/AAAAAAAAAAI/AAAAAAAABII/gaMmh5fpEv4/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/111010999580908265495",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Iw1h-l8diFqvmvBFMOnQXf3BYAE\"",
+        "id" : "z12ztrvonmf4wbzjp04cexrqywbvcrqgizk0k.1329764901964205",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Thanks for the help ! I&#39;ll explain<br />I&#39;ve already bought this <a href=\"http://www.ebay.in/itm/PicoPSU-90-90W-12Volt-ATX-Power-Supply-Cyncronix-/160429546791#ht_2806wt_905\" class=\"ot-anchor\">http://www.ebay.in/itm/PicoPSU-90-90W-12Volt-ATX-Power-Supply-Cyncronix-/160429546791#ht_2806wt_905</a><br /><br />This supplies all the necessary voltage outputs for the motherboard using a single 12v input. The problem is iths automatically programmed to shutdown at over 13.4v or below 10v for protection. But this happens from time to time in car. eg: during starting the engine the voltage peaks to 14v or so.<br /><br />All i need is a regulator which can provide me a fixed 12v 10A output, the LM7*** series seems to provide a constant voltage but the current is low, I just need a high current 12v regulator circuit ..sorry for the long comment :P",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-02-20T19:08:21.964Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2012-02-20T19:08:21.964Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/j0kqV6qkw3KIQ7tRy78AhfKL8F0\"",
+        "id" : "z12ztrvonmf4wbzjp04cexrqywbvcrqgizk0k.1329767658701000",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "The long comment is fine -- I know exactly what you mean now. As you said, the chips that I used will not handle that current. You&#39;ll need something pretty beefy to handle that current, probably something with a heatsink. Unfortunately I don&#39;t know off the top of my head what chip you need to get it to work, but you seem to be on the right track and should be able to find what you need with some googling.",
+          "objectType" : "comment",
+          "originalContent" : "The long comment is fine -- I know exactly what you mean now. As you said, the chips that I used will not handle that current. You'll need something pretty beefy to handle that current, probably something with a heatsink. Unfortunately I don't know off the top of my head what chip you need to get it to work, but you seem to be on the right track and should be able to find what you need with some googling."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-02-20T19:54:18.701Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-02-20T19:54:18.701Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "mohan mx",
+          "id" : "111010999580908265495",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-LqYdqxseAk4/AAAAAAAAAAI/AAAAAAAABII/gaMmh5fpEv4/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/111010999580908265495",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/ByGYH_Kbf8WT9yomorBk4elDfQg\"",
+        "id" : "z12ztrvonmf4wbzjp04cexrqywbvcrqgizk0k.1329769151102205",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Exactly!!, and im on it, but google seems a little erratic today :P anyways thanks !",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-02-20T20:19:11.102Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2012-02-20T20:19:11.102Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/186Z8Dg9ecTejlYPVcCTDHSAcUU\"",
+        "id" : "z12ztrvonmf4wbzjp04cexrqywbvcrqgizk0k.1329770696838000",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Im going to follow your blog. I hope to see some results on there soon. Good luck",
+          "objectType" : "comment",
+          "originalContent" : "Im going to follow your blog. I hope to see some results on there soon. Good luck"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-02-20T20:44:56.838Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-02-20T20:44:56.838Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "mohan mx",
+          "id" : "111010999580908265495",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-LqYdqxseAk4/AAAAAAAAAAI/AAAAAAAABII/gaMmh5fpEv4/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/111010999580908265495",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Y7PawRE4j6a-7xEOrueh1mfXKdk\"",
+        "id" : "z12ztrvonmf4wbzjp04cexrqywbvcrqgizk0k.1329771278586205",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Oh thats nice of ya!!..Its a bit outdated I guess, will catch up real soon!...actually im going to open an entire website based on this project, and make the distro availabe for download too...I&#39;ll post u the link when i launch it :D",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-02-20T20:54:38.586Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2012-02-20T20:54:38.586Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/_GCykjZzMPfinw27OW-dML2E0mI\"",
+        "id" : "z12ztrvonmf4wbzjp04cexrqywbvcrqgizk0k.1329772678827000",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "That sounds good to me. Thanks!",
+          "objectType" : "comment",
+          "originalContent" : "That sounds good to me. Thanks!"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-02-20T21:17:58.827Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2012-02-20T21:17:58.827Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 10
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/i9Kc8q3DZTU"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-01-16T20:25:07.770Z",
+  "title" : "An overview of an easy to build breadboard power supply that I just made in about an hour.",
+  "updated" : "2012-01-16T20:25:07.770Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/i9Kc8q3DZTU",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

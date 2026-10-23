@@ -1,0 +1,281 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/tPKHrXREcBUXLzgevtbTwQsBbQg\"",
+  "id" : "z13sirhowweuhzzub22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "     I love creating electronics projects in the most cost effective way. If you're going to use an Arduino in a project, you could embed the whole $30 board, or just the $3 IC chip. Unfortunately, after using just the chip, ...",
+      "displayName" : "Programming Arduino Bootloader on ATmega328p with ZeptoProg II",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://1.bp.blogspot.com/-gVMcbXZDgBA/UV3l5wxXsAI/AAAAAAAAP1I/qKsDImLE1wk/s400/Photo+1.jpg"
+      },
+      "image" : {
+        "height" : 120,
+        "type" : "image/jpeg",
+        "url" : "https://1.bp.blogspot.com/-gVMcbXZDgBA/UV3l5wxXsAI/AAAAAAAAP1I/qKsDImLE1wk/w120-h120/Photo+1.jpg",
+        "width" : 120
+      },
+      "objectType" : "article",
+      "url" : "http://tinkeringetc.blogspot.com/2013/04/programming-arduino-bootloader-on.html"
+    } ],
+    "content" : "If anyone uses an <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23Arduino\">#Arduino</a> and wants to program the bootloader on a fresh ATmega328, this blog post may help you out.",
+    "objectType" : "note",
+    "originalContent" : "If anyone uses an #Arduino and wants to program the bootloader on a fresh ATmega328, this blog post may help you out.",
+    "plusoners" : {
+      "totalItems" : 2,
+      "items" : [ {
+        "displayName" : "Mike Beardmore",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/xom2OkGQQfShtQqJ2xtOfPYyN1s\"",
+        "id" : "116341287830615647443",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-wPvWk8SByOw/AAAAAAAAAAI/AAAAAAAAAAA/JgxLy5WEcnE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/116341287830615647443"
+      }, {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Paul Huber",
+          "id" : "102827406106355929027",
+          "image" : {
+            "url" : "https://lh5.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/Zjz2w1YpNS0/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/102827406106355929027",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/BW1hHN8EOwp3NfWbWSkCz99QX3E\"",
+        "id" : "z13sirhowweuhzzub22rhxrr1yu5xn3rw04.1365615136729283",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Nice article!<br />I bought some 9-digit multiplexed LED surplus calculator displays and I&#39;d like to drive one from an Arduino Uno without using up all the output pins. Do you have anything on that?",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-04-10T17:32:16.729Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-04-10T17:32:16.729Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Lhfhw0i9-w34llLWg6Qn-JFJ3Bo\"",
+        "id" : "z13sirhowweuhzzub22rhxrr1yu5xn3rw04.1365640935783536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/102827406106355929027\" oid=\"102827406106355929027\">Paul Huber</a></span> How many pins are on the displays you have?",
+          "objectType" : "comment",
+          "originalContent" : "+102827406106355929027 How many pins are on the displays you have?"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-04-11T00:42:15.783Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-04-11T00:42:15.783Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Paul Huber",
+          "id" : "102827406106355929027",
+          "image" : {
+            "url" : "https://lh5.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/Zjz2w1YpNS0/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/102827406106355929027",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/9ZqVtGmrPqe4xBru8JLwOA_1Va0\"",
+        "id" : "z13sirhowweuhzzub22rhxrr1yu5xn3rw04.1365644837140283",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "There&#39;s a total of 17 (7 segment pins + decimal point + a common cathode pin for each of the 9 digits). It&#39;s the type of LED display that was in the handheld calculators of the 70s.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-04-11T01:47:17.140Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-04-11T01:47:17.140Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/U6afAgpIhMXUkOiiKvmzBJFRzR8\"",
+        "id" : "z13sirhowweuhzzub22rhxrr1yu5xn3rw04.1365645828854536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/102827406106355929027\" oid=\"102827406106355929027\">Paul Huber</a></span> You could use a shift register and this tutorial <a href=\"http://arduino.cc/en/Tutorial/ShiftOut\" class=\"ot-anchor\">http://arduino.cc/en/Tutorial/ShiftOut</a> to get it working with a few less pins. There&#39;s only 8 outputs on that so you&#39;d still have to drive one of the digits directly from the Arduino. You could also use that chip to control the segments. Keep in mind that the chip in that tutorial can only make 1 output high at a time so you&#39;ll need something more specialized for driving all the segments of the LEDs at the same time, and for grounding the cathode of the digit you want displayed. There are ICs made specifically for driving common cathode displays but I think they would only work for one digit so you may need some multiplexing. Hopefully this helps more than it confuses you :)",
+          "objectType" : "comment",
+          "originalContent" : "+102827406106355929027 You could use a shift register and this tutorial http://arduino.cc/en/Tutorial/ShiftOut to get it working with a few less pins. There's only 8 outputs on that so you'd still have to drive one of the digits directly from the Arduino. You could also use that chip to control the segments. Keep in mind that the chip in that tutorial can only make 1 output high at a time so you'll need something more specialized for driving all the segments of the LEDs at the same time, and for grounding the cathode of the digit you want displayed. There are ICs made specifically for driving common cathode displays but I think they would only work for one digit so you may need some multiplexing. Hopefully this helps more than it confuses you :)"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-04-11T02:03:48.854Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-04-11T02:03:48.854Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/tVh1c17l4gMktneXjDOBNXTYwwI\"",
+        "id" : "z13sirhowweuhzzub22rhxrr1yu5xn3rw04.1365646034315536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Also, I just thought they may be VFD segments since its that old, instead of LEDs, and that may be a different issue entirely.",
+          "objectType" : "comment",
+          "originalContent" : "Also, I just thought they may be VFD segments since its that old, instead of LEDs, and that may be a different issue entirely."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-04-11T02:07:14.315Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-04-11T02:07:14.315Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Paul Huber",
+          "id" : "102827406106355929027",
+          "image" : {
+            "url" : "https://lh5.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/Zjz2w1YpNS0/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/102827406106355929027",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/XmAzZiP5mEWBMleRxhjendfFsl0\"",
+        "id" : "z13sirhowweuhzzub22rhxrr1yu5xn3rw04.1365647099051283",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/107457342204653676533\" oid=\"107457342204653676533\">Dillon Nichols</a></span> Thanks. I haven&#39;t done any experimenting yet with a shift register but I&#39;ll have to play around with that chip. I think you&#39;re right that I&#39;ll need something specialized to manage the multiplexing. Only one digit is actually lit at a time (they use persistence of vision to give the appearance of a fully lit display) so I need something to continuously scan through the 9 digits. These are definitely LED. They&#39;re the type used in the original TI-30 calculator.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-04-11T02:24:59.051Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-04-11T02:24:59.051Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 6
+    },
+    "resharers" : {
+      "totalItems" : 1,
+      "items" : [ ]
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/D3UK6HMKJQ7"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-04-10T14:59:11.445Z",
+  "title" : "If anyone uses an #Arduino and wants to program the bootloader on a fresh ATmega328, this blog post ...",
+  "updated" : "2013-04-10T14:59:11.445Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/D3UK6HMKJQ7",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

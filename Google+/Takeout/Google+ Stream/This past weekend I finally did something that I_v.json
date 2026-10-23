@@ -1,0 +1,263 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/j_CkFqvEj4e3L7mZz-6XQx2s0YU\"",
+  "id" : "z12cdxup0v2cgo0ckpvjhxsjqljgsxz01",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "2014-09-02",
+      "id" : "107457342204653676533.6054518964962698257",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 337,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-bz1KUrrK-yA/VAX464Gz8WI/AAAAAAAAZD4/qGyfJ7nifxQ/w337-h337-p/IMG_7086.JPG",
+          "width" : 337
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6054518964962698257/6054518964446556514"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-iEUK6RR6jkw/VAX460oKT-I/AAAAAAAAZD4/i0Q1lVbpiAo/w168-h168-p/IMG_7084.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6054518964962698257/6054518963512692706"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 168,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-2J_cRB9t1Io/VAX461Jg-JI/AAAAAAAAZD4/VUQolK-6PG4/w168-h168-p/IMG_7085.JPG",
+          "width" : 168
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/6054518964962698257/6054518963652589714"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/6054518964962698257"
+    } ],
+    "content" : "This past weekend I finally did something that I&#39;ve been meaning to do for a long time - countersink the screws in my Hotplate project so there is more available room to use for reflowing circuit boards. The original writeup is here: <a href=\"http://tinkeringetc.blogspot.com/2011/06/homemade-pid-controlled-hotplate.html\" class=\"ot-anchor\">http://tinkeringetc.blogspot.com/2011/06/homemade-pid-controlled-hotplate.html</a> and you can see that the screws used to stick out of the top limiting the space that could be used. Now that the screws are below the surface, I can place circuit boards that are larger than the surface of the hotplate on top of it, and the circuit board will lay flat.",
+    "objectType" : "note",
+    "originalContent" : "This past weekend I finally did something that I've been meaning to do for a long time - countersink the screws in my Hotplate project so there is more available room to use for reflowing circuit boards. The original writeup is here: http://tinkeringetc.blogspot.com/2011/06/homemade-pid-controlled-hotplate.html and you can see that the screws used to stick out of the top limiting the space that could be used. Now that the screws are below the surface, I can place circuit boards that are larger than the surface of the hotplate on top of it, and the circuit board will lay flat.",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Josh Bower",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/piszCeXBTSXOZPPYDXDmEIsIL0c\"",
+        "id" : "111678661346844516321",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-FtSs37IFTMc/AAAAAAAAAAI/AAAAAAAAAAA/u7gsM4w-Z2I/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/111678661346844516321"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/iQzQ3deOOJhjjzU-lc8j1fl2Jkc\"",
+        "id" : "z12cdxup0v2cgo0ckpvjhxsjqljgsxz01.1445868888366548",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/111678661346844516321\" oid=\"111678661346844516321\">Josh Bower</a></span> The link in the above post has all of the info that I&#39;ve written about this project.",
+          "objectType" : "comment",
+          "originalContent" : "@111678661346844516321 The link in the above post has all of the info that I've written about this project."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2015-10-26T14:14:48.366Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2015-10-26T14:14:48.366Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Guy Howling",
+          "id" : "110912474242102666252",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/110912474242102666252",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/-3cSBLnNEWwEFqNEHxi6X5TS-zA\"",
+        "id" : "z12cdxup0v2cgo0ckpvjhxsjqljgsxz01.1462684194267948",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Hey could you attach a plate like that to a bottle jack? Could the plate take the pressure of 20 tons?",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2016-05-08T05:09:54.267Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2016-05-08T05:09:54.267Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/IDjIWfuUTD_7_UMPBgygH41QcNI\"",
+        "id" : "z12cdxup0v2cgo0ckpvjhxsjqljgsxz01.1462803415388464",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/110912474242102666252\" oid=\"110912474242102666252\">Guy Holwig</a></span> I think if you used thicker aluminum and machined an area out for the heating strip that it would be able to withstand the pressure",
+          "objectType" : "comment",
+          "originalContent" : "@110912474242102666252 I think if you used thicker aluminum and machined an area out for the heating strip that it would be able to withstand the pressure"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2016-05-09T14:16:55.388Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2016-05-09T14:16:55.388Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Guy Howling",
+          "id" : "110912474242102666252",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/110912474242102666252",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/pQmtixS0D0T68m4nQw8VxgWclqI\"",
+        "id" : "z12cdxup0v2cgo0ckpvjhxsjqljgsxz01.1462804784121256",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Ok thank you...BTW I love the things you&#39;ve made there pretty cool",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2016-05-09T14:39:44.121Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2016-05-09T14:39:44.121Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/9alDC3lvlsY1IOsObJ2aXsjmxa0\"",
+        "id" : "z12cdxup0v2cgo0ckpvjhxsjqljgsxz01.1462813196515747",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Thanks <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/110912474242102666252\" oid=\"110912474242102666252\">Guy Holwig</a></span>!",
+          "objectType" : "comment",
+          "originalContent" : "Thanks @110912474242102666252!"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2016-05-09T16:59:56.515Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2016-05-09T16:59:56.515Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 5
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/117wcy587AP"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-09-02T17:08:58.112Z",
+  "title" : "This past weekend I finally did something that I've been meaning to do for a long time - countersink...",
+  "updated" : "2014-09-02T17:08:58.112Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/117wcy587AP",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

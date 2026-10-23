@@ -1,0 +1,136 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/9kucXI7plMcoRZ_6rZJBsVSui6U\"",
+  "id" : "z13jxdqiaxuxexf2l22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5839458192215696641",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "Looks good... But there's one small problem.",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-y7q1ObGjlfE/UQnsSSnJWOI/AAAAAAAAOBE/uHl1FeFrhTg/w379-h379-p/photo.jpg",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5839458192215696641/5839458190840387810"
+      }, {
+        "description" : "Seems alright so far...",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/--aqV0r35ksw/UQnsSYHUZuI/AAAAAAAAOBA/8HWqkruFzs4/w126-h126-p/photo.jpg",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5839458192215696641/5839458192317507298"
+      }, {
+        "description" : "Yesterday's flimsy version - the angled part nearly broke off.",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-woCmO4ZOdBI/UQnsSb0UmNI/AAAAAAAAXVI/JxdKAuJbjLs/w126-h126-p/BF553998-9760-46BD-B0CE-7E66CB0A1C61.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5839458192215696641/5839458193311570130"
+      }, {
+        "description" : "My $4 fan.",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-hxcUUhK-Iuw/UQnsSQJQAlI/AAAAAAAAOA4/FHdVZ_0iEzU/w126-h126-p/photo.jpg",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5839458192215696641/5839458190178124370"
+      }, {
+        "description" : "Today's revision looks much better.",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-erudmVBUHAk/UQnsSft9E8I/AAAAAAAAOBI/c3uFx986okU/w126-h126-p/photo.jpg",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5839458192215696641/5839458194358604738"
+      }, {
+        "description" : "The problem: the wooden back is lower than the print head, so the extruder tip will never touch the hotbed.",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-vFTTukAqJWk/UQnsSW62fLI/AAAAAAAAOA8/t0zay2T-2qo/w126-h126-p/photo.jpg",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5839458192215696641/5839458191996779698"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5839458192215696641"
+    } ],
+    "content" : "I bought a 60mm fan a while back at Micro Center in Dallas, Texas that I planned on using to cool the plastic after printing on my 3D printer. Since I have a bunch of prints with some small details that I need to make, it would be really helpful to have the fan installed now. Last night and tonight I made two revisions of a bracket to mount the fan on. Unfortunately they both had some problems.<br /><br />Yesterday&#39;s version was just too frail - partially from the way I designed it and partially from some incorrect settings on my printer. I came up with a more robust solution tonight and fixed the wrong parameters on my printer and gave it another shot. Although it looks much better and functions pretty well, there is one shortcoming - the increased height from this additional piece lifts the printer head too far above its old position, causing another piece on the mounting bracket to come in contact with the hot bed before the nozzle.<br /><br />My current way of designing this fan mount won&#39;t work for this reason. I have one more option that I may try out over the weekend. It involves &quot;pinching&quot; the fan mount around the sides of the extruder bracket. If this doesn&#39;t work, the Printrbot shop just starting selling a laser-cut fan mount that should hopefully work for my size fan. It&#39;s only $7 so that&#39;s not too bad, but I doubt I&#39;ll get it in time to print out these small parts that I need done by Sunday. I may have to just hold the fan to the prints for the small sections.",
+    "objectType" : "note",
+    "originalContent" : "I bought a 60mm fan a while back at Micro Center in Dallas, Texas that I planned on using to cool the plastic after printing on my 3D printer. Since I have a bunch of prints with some small details that I need to make, it would be really helpful to have the fan installed now. Last night and tonight I made two revisions of a bracket to mount the fan on. Unfortunately they both had some problems.\n\nYesterday's version was just too frail - partially from the way I designed it and partially from some incorrect settings on my printer. I came up with a more robust solution tonight and fixed the wrong parameters on my printer and gave it another shot. Although it looks much better and functions pretty well, there is one shortcoming - the increased height from this additional piece lifts the printer head too far above its old position, causing another piece on the mounting bracket to come in contact with the hot bed before the nozzle.\n\nMy current way of designing this fan mount won't work for this reason. I have one more option that I may try out over the weekend. It involves \"pinching\" the fan mount around the sides of the extruder bracket. If this doesn't work, the Printrbot shop just starting selling a laser-cut fan mount that should hopefully work for my size fan. It's only $7 so that's not too bad, but I doubt I'll get it in time to print out these small parts that I need done by Sunday. I may have to just hold the fan to the prints for the small sections.",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Kris Kortright",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Sqwlxyp4SJVx92Sbb6nJHbfhMmk\"",
+        "id" : "117228107982719398401",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Wjiqs-p9Yn8/AAAAAAAAAAI/AAAAAAAAAAA/TfWSQ3HWPaA/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117228107982719398401"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/EcAVxSyvfuQ"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-01-31T04:00:10.431Z",
+  "title" : "I bought a 60mm fan a while back at Micro Center in Dallas, Texas that I planned on using to cool the...",
+  "updated" : "2013-01-31T04:07:28.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/EcAVxSyvfuQ",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

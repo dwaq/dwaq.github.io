@@ -1,0 +1,87 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/lzy0yrkxOpERa89G15kju_3E5u8\"",
+  "id" : "z12gcbs5ckqwwxhjt04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "At the beginning of the year, I posted my Spark Lamp project. It worked fine most of the time but I noticed when I would get home from work and flip the light switch on the wall to turn the lamps on, it would take 10 to 15 se...",
+      "displayName" : "Spark Lamp Update",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://4.bp.blogspot.com/-RZfwsu4cbRw/Vms6uEILuFI/AAAAAAAAhR4/X79PR5OfhYs/s400/IMG_9064.JPG"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://4.bp.blogspot.com/-RZfwsu4cbRw/Vms6uEILuFI/AAAAAAAAhR4/X79PR5OfhYs/w506-h910/IMG_9064.JPG",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://tinkeringetc.blogspot.com/2015/12/spark-lamp-update.html"
+    } ],
+    "content" : "Here&#39;s a quick update on my Spark Lamp project. After many months of use, I found an issue where the lights would be delayed turning on and I had to make some hardware and software changes to fix the issue.",
+    "objectType" : "note",
+    "originalContent" : "Here's a quick update on my Spark Lamp project. After many months of use, I found an issue where the lights would be delayed turning on and I had to make some hardware and software changes to fix the issue.",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/iigAf236XHy"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2015-12-23T20:38:12.473Z",
+  "title" : "Here's a quick update on my Spark Lamp project. After many months of use, I found an issue where the...",
+  "updated" : "2015-12-23T20:38:12.473Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/iigAf236XHy",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

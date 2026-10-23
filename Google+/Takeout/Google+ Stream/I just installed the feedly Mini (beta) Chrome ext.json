@@ -1,0 +1,61 @@
+{
+  "access" : {
+    "accessSummary" : "Open feedly (Roadmap)",
+    "description" : "Open feedly (Roadmap)",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/4Sah2E9dGxR11XBeECLcP2g6A5s\"",
+  "id" : "z13kz5brewi0ypyso22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "content" : "I just installed the feedly Mini (beta) Chrome extension and it places the icon on the webpage in the same spot as my Spreed Chrome extension. I can inspect the element on the page and add a 20px bottom position and they don&#39;t overlap anymore. Would it be possible to add this to the app&#39;s settings where the position is persistent? Or is there a file I can modify on windows to do this for me? Thanks a lot!",
+    "objectType" : "note",
+    "originalContent" : "I just installed the feedly Mini (beta) Chrome extension and it places the icon on the webpage in the same spot as my Spreed Chrome extension. I can inspect the element on the page and add a 20px bottom position and they don't overlap anymore. Would it be possible to add this to the app's settings where the position is persistent? Or is there a file I can modify on windows to do this for me? Thanks a lot!",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/4WQnexFE7RJ"
+  },
+  "provider" : {
+    "title" : "Community"
+  },
+  "published" : "2014-08-11T13:48:56.499Z",
+  "title" : "I just installed the feedly Mini (beta) Chrome extension and it places the icon on the webpage in the...",
+  "updated" : "2014-08-11T13:48:56.499Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/4WQnexFE7RJ",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

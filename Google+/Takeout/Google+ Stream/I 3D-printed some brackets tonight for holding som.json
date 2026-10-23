@@ -1,0 +1,145 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/N6-Ezn2X61E_hcTgr3JUKNMqaIM\"",
+  "id" : "z12gybgyjz3rxbcgs04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5911425285194078657",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 253,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-2uzuu-86NU0/UgmZ-hrZANI/AAAAAAAATEM/Zr5gHcS9BSQ/w253-h253-p/photo.jpg",
+          "width" : 253
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5911425285194078657/5911425285371789522"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 253,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-CbnP6IWgVEU/UgmZ-g81LHI/AAAAAAAATEU/82DzPJX8EzI/w253-h253-p/photo.jpg",
+          "width" : 253
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5911425285194078657/5911425285176503410"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5911425285194078657"
+    } ],
+    "content" : "I 3D-printed some brackets tonight for holding some circuit boards and the power plug in place. I&#39;m modernizing a very old flip clock, but trying to use the original parts when I can. I think the only things left to do now are cut the wooden case down to size, fill in some unnecessary holes, and clean the whole thing up. If I stay motivated, I&#39;ll have it done this week. ",
+    "objectType" : "note",
+    "originalContent" : "I 3D-printed some brackets tonight for holding some circuit boards and the power plug in place. I'm modernizing a very old flip clock, but trying to use the original parts when I can. I think the only things left to do now are cut the wooden case down to size, fill in some unnecessary holes, and clean the whole thing up. If I stay motivated, I'll have it done this week. ",
+    "plusoners" : {
+      "totalItems" : 6,
+      "items" : [ {
+        "displayName" : "Bryan Rentoul",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/I2WJmLrik0j0xXBUO_QTUewSHAk\"",
+        "id" : "115482461410471042241",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-CpJn8JnaPck/AAAAAAAAAAI/AAAAAAAAAAA/fI2kd8dEkA4/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/115482461410471042241"
+      }, {
+        "displayName" : "Ronaldo Costa",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/TXJD3Nq13rJOmxqCBimkoAq8MCs\"",
+        "id" : "101602127554044456370",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-v7tXNmZ1o9Q/AAAAAAAAAAI/AAAAAAAAAAA/5XuVe-qbwUo/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/101602127554044456370"
+      }, {
+        "displayName" : "Mike Beardmore",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/xom2OkGQQfShtQqJ2xtOfPYyN1s\"",
+        "id" : "116341287830615647443",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-wPvWk8SByOw/AAAAAAAAAAI/AAAAAAAAAAA/JgxLy5WEcnE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/116341287830615647443"
+      }, {
+        "displayName" : "james wolf",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1pOnIk2wStecV-UsYW2Ri2WJjGU\"",
+        "id" : "100923804654788847953",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAAAAA/7GEq8V2XgYE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/100923804654788847953"
+      }, {
+        "displayName" : "Ashley Van Steenacker",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/F_qeEia1hOIFJaNmTlS_OJXRyiM\"",
+        "id" : "107673918632268513568",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-XZSkFXJ4Kp4/AAAAAAAAAAI/AAAAAAAAAAA/3VhWGLVD7fs/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/107673918632268513568"
+      }, {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/SU9Bu6uRzR6"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-08-13T02:29:14.707Z",
+  "title" : "I 3D-printed some brackets tonight for holding some circuit boards and the power plug in place. I'm ...",
+  "updated" : "2013-08-13T02:29:14.707Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/SU9Bu6uRzR6",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

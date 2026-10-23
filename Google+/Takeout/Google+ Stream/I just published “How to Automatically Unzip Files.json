@@ -1,0 +1,77 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/t1QmMScFZlY4Tmdl2dJCyIC7qqU\"",
+  "id" : "z13xc1cjsqv0tzes122rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "macOS has a nice feature where it can automatically unzip “safe” files after downloading. I was looking for a way to do the same thing on Windows and couldn’t find a nice tutorial using free or open source software, so I deci...",
+      "displayName" : "How to Automatically Unzip Files Downloaded from Chrome on Windows",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "https://1.bp.blogspot.com/-T7vWglUPxc8/V-f4R9sQ2qI/AAAAAAAA0eY/wMSiRfciRqUAi5l_1eJtB8Ce6Wq-7mCLgCPcB/s400/2.png"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://1.bp.blogspot.com/-T7vWglUPxc8/V-f4R9sQ2qI/AAAAAAAA0eY/wMSiRfciRqUAi5l_1eJtB8Ce6Wq-7mCLgCPcB/w506-h910/2.png",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://tinkeringetc.blogspot.com/2016/09/how-to-automatically-unzip-files.html"
+    } ],
+    "content" : "I just published “How to Automatically Unzip Files Downloaded from Chrome on Windows”",
+    "objectType" : "note",
+    "originalContent" : "I just published “How to Automatically Unzip Files Downloaded from Chrome on Windows”",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/1Dyn77nkvbB"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2016-09-25T16:25:27.680Z",
+  "title" : "I just published “How to Automatically Unzip Files Downloaded from Chrome on Windows”",
+  "updated" : "2016-09-25T16:25:27.680Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/1Dyn77nkvbB",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

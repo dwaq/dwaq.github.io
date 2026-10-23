@@ -1,0 +1,154 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/QYHvXBsS_sK8o1BhIU0i0catzBU\"",
+  "id" : "z132ed1yhs3czvqky22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5831532880938697377",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-hmQd6ObNqUE/UO3EQn0JzNI/AAAAAAAANm8/Z7ShVVrBdBE/w379-h379-p/81167BC2-3053-4006-A95D-4FF7DB93656A.JPG",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5831532880938697377/5831532882359340242?authkey=CNDbhdf-_6rOmgE"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-9inYW9xNog0/UO3EQm5NApI/AAAAAAAANm8/DYjnxgxaVm8/w126-h126-p/5679146A-AC9B-4E60-A649-08740C052520.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5831532880938697377/5831532882112086674?authkey=CNDbhdf-_6rOmgE"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-tMiIFe5k93A/UO3EQk8TloI/AAAAAAAANm8/ydVUh8IGF5s/w126-h126-p/FCA406C4-F31C-4B7E-8FD9-387CC8D2FA67.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5831532880938697377/5831532881588229762?authkey=CNDbhdf-_6rOmgE"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-eyNDQQQnyOY/UO3EQkEmJaI/AAAAAAAANm8/pnndTq3WxOs/w126-h126-p/DB67E688-790A-400A-8CC3-7F86C80F09CF.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5831532880938697377/5831532881354565026?authkey=CNDbhdf-_6rOmgE"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-HBfJvoLKG60/UO3EQu3qLSI/AAAAAAAANm8/qHCtNb3RvzU/w126-h126-p/E786E865-5611-4342-98AA-F392186AD1C5.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5831532880938697377/5831532884253093154?authkey=CNDbhdf-_6rOmgE"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5831532880938697377?authkey=CNDbhdf-_6rOmgE"
+    } ],
+    "content" : "Here&#39;s a 3D-printed case I made for my MSP430 reaction game. It was the only hobby-related project that I did last semester. I previously had the bottom case and the solid lid printed out, but hacked some holes in the lid with a drill and a knife to get it to work for me. This case setup works, but I&#39;d rather it just be a case for the stock parts. As you can tell, the buttons, power switch, and potentiometer are different parts than I typically use for the game. It&#39;s a good start, but I need to put in some more work to make it as nice as I&#39;d like.",
+    "objectType" : "note",
+    "originalContent" : "Here's a 3D-printed case I made for my MSP430 reaction game. It was the only hobby-related project that I did last semester. I previously had the bottom case and the solid lid printed out, but hacked some holes in the lid with a drill and a knife to get it to work for me. This case setup works, but I'd rather it just be a case for the stock parts. As you can tell, the buttons, power switch, and potentiometer are different parts than I typically use for the game. It's a good start, but I need to put in some more work to make it as nice as I'd like.",
+    "plusoners" : {
+      "totalItems" : 4,
+      "items" : [ {
+        "displayName" : "Ronaldo Costa",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/TXJD3Nq13rJOmxqCBimkoAq8MCs\"",
+        "id" : "101602127554044456370",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-v7tXNmZ1o9Q/AAAAAAAAAAI/AAAAAAAAAAA/5XuVe-qbwUo/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/101602127554044456370"
+      }, {
+        "displayName" : "Lucas Walter",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/epZ6Koiy4-N01h9-pCGwRZioBJc\"",
+        "id" : "103190342755104432973",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-x7pwUw7EjJk/AAAAAAAAAAI/AAAAAAAAAAA/6Yux1ybeTJk/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/103190342755104432973"
+      }, {
+        "displayName" : "Brett Coulthard",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/IlFklXQ5za1XT3QyNe7cHNC3iqI\"",
+        "id" : "117674378823937836939",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-0LrsZrtCVck/AAAAAAAAAAI/AAAAAAAAAAA/kg2MfeIO1KU/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117674378823937836939"
+      }, {
+        "displayName" : "james wolf",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1pOnIk2wStecV-UsYW2Ri2WJjGU\"",
+        "id" : "100923804654788847953",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAAAAA/7GEq8V2XgYE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/100923804654788847953"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/68w8AbW5ZiB"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-01-09T19:25:56.519Z",
+  "title" : "Here's a 3D-printed case I made for my MSP430 reaction game. It was the only hobby-related project that...",
+  "updated" : "2013-01-09T19:25:56.519Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/68w8AbW5ZiB",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

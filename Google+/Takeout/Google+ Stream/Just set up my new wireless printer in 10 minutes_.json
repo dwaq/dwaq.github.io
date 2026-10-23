@@ -1,0 +1,214 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/jD_oXRMaYRa6VOubHGDNF_HfkUM\"",
+  "id" : "z12lclkayoy5fbiv222rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "content" : "Just set up my new wireless printer in 10 minutes. So much easier than trying to set up a wireless print server in my house. Amazing how technology is. You can hardly buy a printer now without it being wireless.",
+    "objectType" : "note",
+    "originalContent" : "Just set up my new wireless printer in 10 minutes. So much easier than trying to set up a wireless print server in my house. Amazing how technology is. You can hardly buy a printer now without it being wireless.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Kenneth Finnegan",
+          "id" : "106463527110429050752",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-d3wzRGorsfY/AAAAAAAAAAI/AAAAAAAAQzg/BScA4CkTfQw/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/106463527110429050752",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/0yxGR2d7yR7g7Fn4sr2TmaGWrJk\"",
+        "id" : "z12lclkayoy5fbiv222rhxrr1yu5xn3rw04.1313884159428000",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Haha. I just set up a 15 year old 10bT DB25 print server on my network, and it took like 2 hours to get the panel DIP switches right.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2011-08-20T23:49:19.428Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2011-08-20T23:49:19.428Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/WI4aORwSVlVwZLp-B3DfG4rFCEs\"",
+        "id" : "z12lclkayoy5fbiv222rhxrr1yu5xn3rw04.1313886376349000",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Do you have it hooked up to an equally ancient computer or is it a standalone piece?",
+          "objectType" : "comment",
+          "originalContent" : "Do you have it hooked up to an equally ancient computer or is it a standalone piece?"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2011-08-21T00:26:16.349Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2011-08-21T00:26:16.349Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Kenneth Finnegan",
+          "id" : "106463527110429050752",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-d3wzRGorsfY/AAAAAAAAAAI/AAAAAAAAQzg/BScA4CkTfQw/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/106463527110429050752",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/LUzobvJ2jVx7upXzIbWbEP5vHZA\"",
+        "id" : "z12lclkayoy5fbiv222rhxrr1yu5xn3rw04.1313886577549000",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "We&#39;re using it from all of our modern computers to print on our HP Laserjet 2300 printer, which is about as modern as it can be while still being a parallel port printer.  It&#39;s the only thing on our network that uses 10Mb half-duplex Ethernet, that&#39;s for sure.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2011-08-21T00:29:37.549Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2011-08-21T00:29:37.549Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/zAvLMxnSBmHE5ekSVpIcG38Nkng\"",
+        "id" : "z12lclkayoy5fbiv222rhxrr1yu5xn3rw04.1313886866260000",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "I remember there wasn&#39;t many options for parallel port printers back when my family got our first computer running windows 95. So I&#39;m gonna assume it&#39;s pretty old.",
+          "objectType" : "comment",
+          "originalContent" : "I remember there wasn't many options for parallel port printers back when my family got our first computer running windows 95. So I'm gonna assume it's pretty old."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2011-08-21T00:34:26.260Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2011-08-21T00:34:26.260Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Kenneth Finnegan",
+          "id" : "106463527110429050752",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-d3wzRGorsfY/AAAAAAAAAAI/AAAAAAAAQzg/BScA4CkTfQw/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/106463527110429050752",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/4IANL2_Ih6FEMb686bOc6A11wAM\"",
+        "id" : "z12lclkayoy5fbiv222rhxrr1yu5xn3rw04.1313887041668000",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "The network box&#39;s firmware has a build date in 1997, so yeah.  Pretty old.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2011-08-21T00:37:21.668Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2011-08-21T00:37:21.668Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 5
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/HUE2p73mUs3"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2011-08-20T22:45:58.417Z",
+  "title" : "Just set up my new wireless printer in 10 minutes. So much easier than trying to set up a wireless print...",
+  "updated" : "2011-08-20T22:45:58.417Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/HUE2p73mUs3",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,81 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/gaOKymeSYkVcNkEhuoQEvYVAk4I\"",
+  "id" : "z132uxdhyvahyteei22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "Untitled.png",
+      "fullImage" : {
+        "height" : 64,
+        "type" : "image/jpeg",
+        "url" : "https://lh4.googleusercontent.com/-gzctp741j-Q/T5cjL0gd3wI/AAAAAAAAHEE/yQSVPvPN5VI/w288-h288/Untitled.png",
+        "width" : 117
+      },
+      "id" : "107457342204653676533.5735091336459968258",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh4.googleusercontent.com/-gzctp741j-Q/T5cjL0gd3wI/AAAAAAAAHEE/yQSVPvPN5VI/w506-h750/Untitled.png"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5735091337169108817/5735091336459968258"
+    } ],
+    "content" : "Now that there&#39;s a ton of ways to sync your files to the cloud (see <a href=\"http://www.theverge.com/2012/4/24/2954960/google-drive-dropbox-skydrive-sugarsync-cloud-storage-competition\" class=\"ot-anchor\">http://www.theverge.com/2012/4/24/2954960/google-drive-dropbox-skydrive-sugarsync-cloud-storage-competition</a>), I was thinking all day on how I plan to use them all. I primarily use Dropbox, Microsoft SkyDrive, and now Google Drive.<br /><br />I plan on using SkyDrive to backup my photos and videos I&#39;ve taken that are currently scattered over my computer, flash drives, and a backup hard drive. It&#39;s best for media like this because of it&#39;s 25 GB of storage space. On Google Drive I would like to keep all of my documents so I can edit them easily anywhere, since Drive seems to be best suited for that. And finally I&#39;ll use Dropbox for everything that&#39;s left over (current projects, things I want to easily get a hold of on my iPhone, and shared items). It&#39;s also best for cross-platform so I can sync files between Windows 7 and Ubuntu. Hopefully all of these choices will help me get my digital media more organized.",
+    "objectType" : "note",
+    "originalContent" : "Now that there's a ton of ways to sync your files to the cloud (see http://www.theverge.com/2012/4/24/2954960/google-drive-dropbox-skydrive-sugarsync-cloud-storage-competition), I was thinking all day on how I plan to use them all. I primarily use Dropbox, Microsoft SkyDrive, and now Google Drive.\n\nI plan on using SkyDrive to backup my photos and videos I've taken that are currently scattered over my computer, flash drives, and a backup hard drive. It's best for media like this because of it's 25 GB of storage space. On Google Drive I would like to keep all of my documents so I can edit them easily anywhere, since Drive seems to be best suited for that. And finally I'll use Dropbox for everything that's left over (current projects, things I want to easily get a hold of on my iPhone, and shared items). It's also best for cross-platform so I can sync files between Windows 7 and Ubuntu. Hopefully all of these choices will help me get my digital media more organized.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/E6sR3VJBG3N"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-04-24T22:11:01.778Z",
+  "title" : "Now that there's a ton of ways to sync your files to the cloud (see http://www.theverge.com/2012/4/24...",
+  "updated" : "2012-04-30T16:39:07.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/E6sR3VJBG3N",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

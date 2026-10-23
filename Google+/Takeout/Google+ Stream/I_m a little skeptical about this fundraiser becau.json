@@ -1,0 +1,87 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/rc41e7zpZRLkuBMWHcIa3fARrrs\"",
+  "id" : "z13yhtbrmvy1v3vv322rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "Produce a nonprofit version of Arduino for only US$9 to help expanding the knowledge of electronics",
+      "displayName" : "$9 ARDUINO Compatible electronic board - Anyone can learn Electronics",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://d2oadd98wnjs7n.cloudfront.net/projects/461894/pictures/primary/20130710233152-indiegogo_pitch.jpg?1373524318"
+      },
+      "image" : {
+        "height" : 120,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/aweKaHW5ID-fzAeHDxf_ft59rwTGZ8-KZyoE-0cN3nkK6o6tyKGuRWtJynbX-YAMlX8gA9hW-AKGXa72ng0rx0YnUrVeC5GreLOhW1qGOogp6he56xltoKBeZXFWgIqlffhAyGGiM7O7Mu1OC0O61WNBAhS-JwOcp8_NKrK1Vho8Si4=w120-h120",
+        "width" : 120
+      },
+      "objectType" : "article",
+      "url" : "http://www.indiegogo.com/projects/9-arduino-compatible-electronic-board-anyone-can-learn-electronics/x/3965427"
+    } ],
+    "content" : "I&#39;m a little skeptical about this fundraiser because he&#39;s not earning any profits from his work, but if it can help bring the cost of electronics down for a newcomer, I&#39;m in. ",
+    "objectType" : "note",
+    "originalContent" : "I'm a little skeptical about this fundraiser because he's not earning any profits from his work, but if it can help bring the cost of electronics down for a newcomer, I'm in. ",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Bryan Rentoul",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/I2WJmLrik0j0xXBUO_QTUewSHAk\"",
+        "id" : "115482461410471042241",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-CpJn8JnaPck/AAAAAAAAAAI/AAAAAAAAAAA/fI2kd8dEkA4/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/115482461410471042241"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/HhsDiStp4Cj"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-07-16T12:43:00.880Z",
+  "title" : "I'm a little skeptical about this fundraiser because he's not earning any profits from his work, but...",
+  "updated" : "2013-07-16T12:43:00.880Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/HhsDiStp4Cj",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

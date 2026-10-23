@@ -1,0 +1,127 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/nM6i_NXVzio8oR-tnSss0eWhPHM\"",
+  "id" : "z13lzbzaayjiyp15c04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5743885393304969329",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-jNRWOSJWlcg/T7ZhVTcOOHI/AAAAAAAAhtk/Aa3FbKM-MJ0/w379-h379-p/9B8368DC-0BAA-4287-81B5-269EAF0E06AA.JPG",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5743885393304969329/5743885393381439602"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-1Z8HRCA8rsM/T7ZhVbY2XKI/AAAAAAAAI98/BNYZd0a8u6U/w126-h126-p/E0809944-A79C-44FC-A22D-FB7DA6AB3C38.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5743885393304969329/5743885395514776738"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-J7guHi2yVSA/T7ZhVfYvoaI/AAAAAAAAI98/GDI5Wd2AYDE/w126-h126-p/2879CF49-95C6-4B02-837F-7A553B5F75CA.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5743885393304969329/5743885396588077474"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh4.googleusercontent.com/-mmXkSYOvsec/T7ZhVYAMR0I/AAAAAAAAI98/fr7xj31i7Oo/w126-h126-p/9823B3C5-B399-4E26-B61A-54A6481542FF.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5743885393304969329/5743885394606049090"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5743885393304969329"
+    } ],
+    "content" : "Here&#39;s some photos of a shelf I made a few weeks ago but haven&#39;t got around to posting about until now. <br /><br />I made it with some sanded down scrap wood with some parts stained and others painted. I tried to make it match my dresser that you can see to the left in the first picture. It is the same total height as the dresser and the same thickness as the wall to the right. The shelves&#39; height match up with the drawers&#39; height and it was created using the same color scheme. The shelves are stained nearly the same color (and the same color as my other shelves in my room: <a href=\"http://tinkeringetc.blogspot.com/2011/08/storage-container-shelving-system.html\" class=\"ot-anchor\">http://tinkeringetc.blogspot.com/2011/08/storage-container-shelving-system.html</a>) and the sides and back pieces are painted black. I added small back pieces to the shelves so nothing could fall off the back because molding on the walls prevents the shelves from sitting flush to the wall. The second picture shows this the best. The third picture is from as soon as I finished screwing it together. The final picture is the notes I took on the dimensions.<br /><br />Some simple woodworking gave me a lot more room for my tools and gadgets. I wish I would&#39;ve made this a year ago! (By the way, I&#39;m going to hang those albums up this weekend on the wall behind the shelves.)",
+    "objectType" : "note",
+    "originalContent" : "Here's some photos of a shelf I made a few weeks ago but haven't got around to posting about until now. \n\nI made it with some sanded down scrap wood with some parts stained and others painted. I tried to make it match my dresser that you can see to the left in the first picture. It is the same total height as the dresser and the same thickness as the wall to the right. The shelves' height match up with the drawers' height and it was created using the same color scheme. The shelves are stained nearly the same color (and the same color as my other shelves in my room: http://tinkeringetc.blogspot.com/2011/08/storage-container-shelving-system.html) and the sides and back pieces are painted black. I added small back pieces to the shelves so nothing could fall off the back because molding on the walls prevents the shelves from sitting flush to the wall. The second picture shows this the best. The third picture is from as soon as I finished screwing it together. The final picture is the notes I took on the dimensions.\n\nSome simple woodworking gave me a lot more room for my tools and gadgets. I wish I would've made this a year ago! (By the way, I'm going to hang those albums up this weekend on the wall behind the shelves.)",
+    "plusoners" : {
+      "totalItems" : 2,
+      "items" : [ {
+        "displayName" : "Paul Huber",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Kqxu6RAo48ucOR3LUTzkTThlGhs\"",
+        "id" : "102827406106355929027",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Xln7AQ5n-H0/AAAAAAAAAAI/AAAAAAAAAAA/9i77sLzCd40/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/102827406106355929027"
+      }, {
+        "displayName" : "Matt Rowland",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/OoRngHPW04LcWeISQocZqkArX5Y\"",
+        "id" : "100441405885050682977",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-VYuNCFbld5c/AAAAAAAAAAI/AAAAAAAAAAA/XydWBFXSIZg/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/100441405885050682977"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/V7BFnRopgkr"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-05-18T14:48:54.310Z",
+  "title" : "Here's some photos of a shelf I made a few weeks ago but haven't got around to posting about until now...",
+  "updated" : "2012-05-18T14:52:39.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/V7BFnRopgkr",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,118 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/fu76C_Yz_gZn5N1qvw4u1ohe2Lg\"",
+  "id" : "z13lspppys2ftz4ay04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "displayName" : "",
+      "id" : "107457342204653676533.5750371320953049025",
+      "objectType" : "album",
+      "thumbnails" : [ {
+        "description" : "",
+        "image" : {
+          "height" : 379,
+          "type" : "image/jpeg",
+          "url" : "https://lh6.googleusercontent.com/-EnPuNnbGlkc/T81sP3GhTjI/AAAAAAAAJPc/lxKNuWqkkCE/w379-h379-p/A6060B88-2E4E-4874-99D8-17877C5B2582.JPG",
+          "width" : 379
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5750371320953049025/5750371318967127602"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh5.googleusercontent.com/-hVD8SaTGECY/T81sP16Y-YI/AAAAAAAAJPc/ASptbrBJkTw/w126-h126-p/DEBAE3C9-F844-42EF-8A46-FC4B78249792.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5750371320953049025/5750371318647814530"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-SHagNKztNao/T81sP1DP0-I/AAAAAAAA1YY/cuL3JuwJq7EIkbhcJaOCZLr4dV_mnsKNQCJoC/w126-h126-p/DC3FDA86-07AD-4948-93F4-6A5726F1E167.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5750371320953049025/5750371318416528354"
+      }, {
+        "description" : "",
+        "image" : {
+          "height" : 126,
+          "type" : "image/jpeg",
+          "url" : "https://lh3.googleusercontent.com/-bZgcRgFs5F0/T81sPwYyFWI/AAAAAAAA1b4/ymEG5QTA4OwGH7MVbI8bQlAD4xA2zOufgCJoC/w126-h126-p/4F84A9DD-4D00-499A-86FC-01A758E48541.JPG",
+          "width" : 126
+        },
+        "url" : "https://plus.google.com/photos/107457342204653676533/albums/5750371320953049025/5750371317164676450"
+      } ],
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5750371320953049025"
+    } ],
+    "content" : "Here&#39;s the electronics of my latest project -- a automatic garden waterer. I re-purposed the PCB from my MSP430 Reaction Game project (<a href=\"http://tinkeringetc.blogspot.com/p/msp430-reaction-game.html\" class=\"ot-anchor\">http://tinkeringetc.blogspot.com/p/msp430-reaction-game.html</a>). This is the front panel of an electrical gang box. The dial will adjust how much time to water the plants and then the MSP430 will switch on a relay that will open up a valve for the water to flow. I hope to finish up the electrical aspect of it tomorrow, then I only need to modify the original program to get it to work as I intended. Stay tuned!",
+    "objectType" : "note",
+    "originalContent" : "Here's the electronics of my latest project -- a automatic garden waterer. I re-purposed the PCB from my MSP430 Reaction Game project (http://tinkeringetc.blogspot.com/p/msp430-reaction-game.html). This is the front panel of an electrical gang box. The dial will adjust how much time to water the plants and then the MSP430 will switch on a relay that will open up a valve for the water to flow. I hope to finish up the electrical aspect of it tomorrow, then I only need to modify the original program to get it to work as I intended. Stay tuned!",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Kris Kortright",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/Sqwlxyp4SJVx92Sbb6nJHbfhMmk\"",
+        "id" : "117228107982719398401",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-Wjiqs-p9Yn8/AAAAAAAAAAI/AAAAAAAAAAA/TfWSQ3HWPaA/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/117228107982719398401"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/e9ujag65zHp"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-06-05T02:17:35.795Z",
+  "title" : "Here's the electronics of my latest project -- a automatic garden waterer. I re-purposed the PCB from...",
+  "updated" : "2012-06-05T02:17:35.795Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/e9ujag65zHp",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

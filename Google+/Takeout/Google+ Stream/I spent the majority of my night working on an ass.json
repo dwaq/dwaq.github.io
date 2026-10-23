@@ -1,0 +1,148 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/_5K-JmS8v5gzbxbnf4GRKpJSrfc\"",
+  "id" : "z13ogn5asmvqupv4504cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "How to Solder. Soldering electronic components, including wires and through-hole or surface-mount components, is a skill that can help anyone with the basic knowledge of electronic components create p...",
+      "displayName" : "How to Solder",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/-0ZaxBoc3IEQ/T0rCtOgss3I/AAAAAAAAGCc/52OA1sOonSs/s640/BC4BA382-0AB6-4A65-B217-CBE8B7D5AC05.JPG"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/1X9s4x9fLmivvT18LTey5PbpGZIBYTAKxF6VuXqL18WE4Murko85ZNHrU6ttd_RQbkGXcULrvZm6lg156vjhL9GnF5s=w506-h910",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://www.personal.psu.edu/djn5065/howtosolder.html"
+    } ],
+    "content" : "I spent the majority of my night working on an assignment for my technical writing class. The purpose of this assignment was to create an instruction set for something that you were interested in. I, of course, chose something that relates to electronics -- soldering. To meet the 1000 word guideline, I explained how to solder two wires together, how to solder through-hole components, and how to solder surface-mount components.I have covered everything with enough detail for someone new to soldering. I can revise anything if the professor (or any of you) gives me any suggestions.",
+    "objectType" : "note",
+    "originalContent" : "I spent the majority of my night working on an assignment for my technical writing class. The purpose of this assignment was to create an instruction set for something that you were interested in. I, of course, chose something that relates to electronics -- soldering. To meet the 1000 word guideline, I explained how to solder two wires together, how to solder through-hole components, and how to solder surface-mount components.I have covered everything with enough detail for someone new to soldering. I can revise anything if the professor (or any of you) gives me any suggestions.",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Prithwiraj Sengupta",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/TvFq4yt3ksBH-3YNGVLjDYXslN4\"",
+        "id" : "112192574506145300420",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-iol4gZDo4bw/AAAAAAAAAAI/AAAAAAAAAAA/kBQDDXsp4Js/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/112192574506145300420"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Prithwiraj Sengupta",
+          "id" : "112192574506145300420",
+          "image" : {
+            "url" : "https://lh3.googleusercontent.com/-iol4gZDo4bw/AAAAAAAAAAI/AAAAAAAACBY/VgOBgOSYbPs/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/112192574506145300420",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/ijuRc19e-6vr6oX-u-GgfRjieSc\"",
+        "id" : "z13ogn5asmvqupv4504cexrqywbvcrqgizk0k.1330323654147352",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Very delicately explained. Thanks. :)",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2012-02-27T06:20:54.147Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2012-02-27T06:20:54.147Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Amanda Kulick",
+          "id" : "110689826438161155099",
+          "image" : {
+            "url" : "https://lh5.googleusercontent.com/-CbvT7YUFr7Q/AAAAAAAAAAI/AAAAAAAAANU/XInisJ8Gz4E/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/110689826438161155099",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/aCTB9CWSi2TVTNPUkgn_TbTFau8\"",
+        "id" : "z13ogn5asmvqupv4504cexrqywbvcrqgizk0k.1330346057530080",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "soldering&lt;33333",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 1
+        },
+        "published" : "2012-02-27T12:34:17.530Z",
+        "statusForViewer" : {
+          "isPlusOned" : true,
+          "canUpdate" : false
+        },
+        "updated" : "2012-02-27T12:34:17.530Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 2
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/PPUh184mVM1"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-02-27T04:59:51.935Z",
+  "title" : "I spent the majority of my night working on an assignment for my technical writing class. The purpose...",
+  "updated" : "2012-02-27T04:59:51.935Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/PPUh184mVM1",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

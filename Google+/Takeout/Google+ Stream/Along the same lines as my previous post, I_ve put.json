@@ -1,0 +1,77 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/XqkahGasZdGxwGuDK_YA3a2Wxa8\"",
+  "id" : "z12ps14rsyrttx5sn22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "Automatic-Garden-Waterer - A project that switches a valve to water plants in the garden.",
+      "displayName" : "Automatic-Garden-Waterer",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "https://a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-140.png?1329275856"
+      },
+      "image" : {
+        "height" : 120,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/bGWdUc6cidxJxqlrCqLSj_rt_K1mofIGq7wEoqzWSrEzLqi57w6h7oTkkeV48Ku9OyPT72JY_4PBC-HVcbqMag=w120-h120",
+        "width" : 120
+      },
+      "objectType" : "article",
+      "url" : "https://github.com/dwaq/Automatic-Garden-Waterer"
+    } ],
+    "content" : "Along the same lines as my previous post, I&#39;ve put some time into designing the schematic for the Arduino and 16x2 character LCD. I used Fritzing for this, although I&#39;d typically use Eagle for creating schematics. You can tell that Fritzing is still a work in progress, but for creating simple schematics for projects containing an Arduino, it can&#39;t be beat. You can check out the schematics (called Controller.fzz) that I created at <a href=\"https://github.com/dwaq/Automatic-Garden-Waterer\" class=\"ot-anchor\">https://github.com/dwaq/Automatic-Garden-Waterer</a> ",
+    "objectType" : "note",
+    "originalContent" : "Along the same lines as my previous post, I've put some time into designing the schematic for the Arduino and 16x2 character LCD. I used Fritzing for this, although I'd typically use Eagle for creating schematics. You can tell that Fritzing is still a work in progress, but for creating simple schematics for projects containing an Arduino, it can't be beat. You can check out the schematics (called Controller.fzz) that I created at https://github.com/dwaq/Automatic-Garden-Waterer ",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/4D5wvssHXDU"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-07-24T15:19:14.620Z",
+  "title" : "Along the same lines as my previous post, I've put some time into designing the schematic for the Arduino...",
+  "updated" : "2012-07-24T15:19:14.620Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/4D5wvssHXDU",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

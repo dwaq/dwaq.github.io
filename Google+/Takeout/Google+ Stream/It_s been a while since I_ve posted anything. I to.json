@@ -1,0 +1,96 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/qxx-uqnY_iyeEOSouERdKdsbZBc\"",
+  "id" : "z13dcbhael23jtqe422rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "     I took a sculpture class during my last semester at Penn State so I could meet the required number of credits to graduate. One of the last projects in that class was to create an interactive art installation. I went thro...",
+      "displayName" : "Adjustable RGB LED Color Cube",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://1.bp.blogspot.com/-YHUN2pwgnpA/UdIGlVV_3WI/AAAAAAAASf4/VRSGtOP3aaw/s400/IMG_5251.JPG"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://1.bp.blogspot.com/-YHUN2pwgnpA/UdIGlVV_3WI/AAAAAAAASf4/VRSGtOP3aaw/w506-h910/IMG_5251.JPG",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://tinkeringetc.blogspot.com/2013/07/adjustable-rgb-led-color-cube.html"
+    } ],
+    "content" : "It&#39;s been a while since I&#39;ve posted anything. I took a short break from tinkerering while I finished my electrical engineering degree up at Penn State and started my first &quot;real&quot; job at Hughes Network Systems in Maryland. I began work on this project in the middle of April and finally got around to adding the final touches and writing up a blog post now. I present to you the Adjustable RGB LED Color Cube!",
+    "objectType" : "note",
+    "originalContent" : "It's been a while since I've posted anything. I took a short break from tinkerering while I finished my electrical engineering degree up at Penn State and started my first \"real\" job at Hughes Network Systems in Maryland. I began work on this project in the middle of April and finally got around to adding the final touches and writing up a blog post now. I present to you the Adjustable RGB LED Color Cube!",
+    "plusoners" : {
+      "totalItems" : 2,
+      "items" : [ {
+        "displayName" : "Bryan Rentoul",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/I2WJmLrik0j0xXBUO_QTUewSHAk\"",
+        "id" : "115482461410471042241",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-CpJn8JnaPck/AAAAAAAAAAI/AAAAAAAAAAA/fI2kd8dEkA4/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/115482461410471042241"
+      }, {
+        "displayName" : "Justin Pierce",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/hLqVVaDOOnDybsZ5Jhk-EWiwdhw\"",
+        "id" : "101106064759965886947",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-5iI_vbHhhW8/AAAAAAAAAAI/AAAAAAAAAAA/ZR9xWdElQu8/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/101106064759965886947"
+      } ]
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/CVWEZus5T2q"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-07-01T23:27:17.250Z",
+  "title" : "It's been a while since I've posted anything. I took a short break from tinkerering while I finished...",
+  "updated" : "2013-07-01T23:27:17.250Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/CVWEZus5T2q",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

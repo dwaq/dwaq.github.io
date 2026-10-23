@@ -1,0 +1,61 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/y9QyL0pAURQgkTRlrNXE-i68wLo\"",
+  "id" : "z131f5fb1mexuld0w22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "content" : "I recently wrote about how I needed to redo the control panel on my Automatic Garden Waterer (<a href=\"http://tinkeringetc.blogspot.com/2012/06/automatic-garden-waterer-part-1.html\" class=\"ot-anchor\">http://tinkeringetc.blogspot.com/2012/06/automatic-garden-waterer-part-1.html</a>), so I&#39;ve been experimenting with using a PIC to control a 16x2 character LCD for the project. I spent last night trying to get my PIC to communicate with the LCD. I believe there was an issue with the way the timing on the chip was set up, but I was unable to display anything on the LCD. Today I pulled out my <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/114839908922424087554\" oid=\"114839908922424087554\">Arduino</a></span> to see what I could get working and in a couple minutes I had made more progress using the Arduino than I had made all night with the PIC. Although I had my Arduino for a few years, I had never used it for anything other than flashing a LED when I first got it. I can definitely see why they are such a popular choice for tinkerers now. With the Arduino, I hopefully can get the panel operational in only a couple nights.",
+    "objectType" : "note",
+    "originalContent" : "I recently wrote about how I needed to redo the control panel on my Automatic Garden Waterer (http://tinkeringetc.blogspot.com/2012/06/automatic-garden-waterer-part-1.html), so I've been experimenting with using a PIC to control a 16x2 character LCD for the project. I spent last night trying to get my PIC to communicate with the LCD. I believe there was an issue with the way the timing on the chip was set up, but I was unable to display anything on the LCD. Today I pulled out my @114839908922424087554 to see what I could get working and in a couple minutes I had made more progress using the Arduino than I had made all night with the PIC. Although I had my Arduino for a few years, I had never used it for anything other than flashing a LED when I first got it. I can definitely see why they are such a popular choice for tinkerers now. With the Arduino, I hopefully can get the panel operational in only a couple nights.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/5jPUapYbFXX"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-07-18T03:10:31.711Z",
+  "title" : "I recently wrote about how I needed to redo the control panel on my Automatic Garden Waterer (http:/...",
+  "updated" : "2012-07-18T03:10:31.711Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/5jPUapYbFXX",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

@@ -1,0 +1,133 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/5MQvb9JwSXNbDeToobqFilPvLB4\"",
+  "id" : "z12bgfwjtoeydpuai04cexrqywbvcrqgizk0k",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "content" : "I did a <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23teardown\">#teardown</a> of my Aunt&#39;s computer last night. I believe it&#39;s a Toshiba Satellite A205. The model number rubbed off from heavy use as it is a Windows Vista-era computer. It would not turn on at all and I checked all of the obvious things and I couldn&#39;t find anything wrong with it. I made this .pdf so I could keep track of the screws for reassembly. I&#39;m sharing it because it may be helpful to someone else.<br />I wrote it using the Notes Plus app for iPad. It worked well but every time I switched to the camera to take photos, the app crashed. This app definitely takes a lot of memory and I don&#39;t think my original iPad mini can handle it.",
+    "objectType" : "note",
+    "originalContent" : "I did a #teardown of my Aunt's computer last night. I believe it's a Toshiba Satellite A205. The model number rubbed off from heavy use as it is a Windows Vista-era computer. It would not turn on at all and I checked all of the obvious things and I couldn't find anything wrong with it. I made this .pdf so I could keep track of the screws for reassembly. I'm sharing it because it may be helpful to someone else.\nI wrote it using the Notes Plus app for iPad. It worked well but every time I switched to the camera to take photos, the app crashed. This app definitely takes a lot of memory and I don't think my original iPad mini can handle it.",
+    "plusoners" : {
+      "totalItems" : 1,
+      "items" : [ {
+        "displayName" : "Anool Mahidharia",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/cZrMX4UZFePCKgv70dI0gcKZrXg\"",
+        "id" : "107198716859948323715",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-B9IeFYpqevU/AAAAAAAAAAI/AAAAAAAAAAA/IinmsjjUjUg/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/107198716859948323715"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Anool Mahidharia",
+          "id" : "107198716859948323715",
+          "image" : {
+            "url" : "https://lh5.googleusercontent.com/-B9IeFYpqevU/AAAAAAAAAAI/AAAAAAAAOVg/lyeEYRiYSjg/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107198716859948323715",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/U2fd_O8-AnxU6LIh3iNAeuK18vY\"",
+        "id" : "z12bgfwjtoeydpuai04cexrqywbvcrqgizk0k.1408205227178379",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "The Toshiba does not turn on at all - no BIOS message, no Beeps? Did you disassemble the fan assembly and clean it - it&#39;s most likely clogged up with dust. Also, if you&#39;re not getting any display, most likely the GPU need&#39;s to be &quot;re-balled&quot;. Over time, as the GPU keeps getting hot, the BGA solder ball contacts loosen and become dry joints. The solution is to take a  flame torch or hot air blower and heat the GPU to about 230 deg Celsius. I just did this for my brothers Dell and solved it. And I did the same hack for another Dell a few months ago. Here&#39;s a video : <a href=\"http://youtu.be/g1Ww5N1qF2M\" class=\"ot-anchor\">http://youtu.be/g1Ww5N1qF2M</a>",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2014-08-16T16:07:07.178Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2014-08-16T16:07:07.178Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/o4MHTzTWToRXL-b9uhEVLfvWhyQ\"",
+        "id" : "z12bgfwjtoeydpuai04cexrqywbvcrqgizk0k.1408282403915536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "I did blow out any dust I found but the computer was surprisingly clean. I can try your GPU trick. I have nothing to lose.",
+          "objectType" : "comment",
+          "originalContent" : "I did blow out any dust I found but the computer was surprisingly clean. I can try your GPU trick. I have nothing to lose."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2014-08-17T13:33:23.915Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2014-08-17T13:33:23.915Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 2
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/bbMeYUnjpLd"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-08-15T13:19:37.053Z",
+  "title" : "I did a #teardown of my Aunt's computer last night. I believe it's a Toshiba Satellite A205. The model...",
+  "updated" : "2014-08-15T13:19:37.053Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/bbMeYUnjpLd",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

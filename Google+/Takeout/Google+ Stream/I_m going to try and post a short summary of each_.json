@@ -1,0 +1,61 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/54ve1psvOn7NUyb13DK4PdlCnG4\"",
+  "id" : "z13yuv0xduq2jhu3p22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "content" : "I&#39;m going to try and post a short summary of each day&#39;s work on Google+ when I work with electronics. I noticed that I only post final projects on my blog at <a href=\"http://tinkeringetc.blogspot.com/\" class=\"ot-anchor\">http://tinkeringetc.blogspot.com/</a> so I wanted a way to keep people updated on my day-to-day tasks... and remind myself what I have done each day.<br /><br />I received some sample parts from Texas Instruments and Maxim for the CEE (<a href=\"http://www.nonolithlabs.com/cee/\" class=\"ot-anchor\">http://www.nonolithlabs.com/cee/</a>) that I got a bare board for from their Kickstarter. I have the majority of the parts soldered on (See above post for the pictures) and soldered the Maxim op-amps on as well. The TI op-amps were in a QFN-12 package (AKA the leads are on the bottom) so I couldn&#39;t solder it on my hand. I have a hotplate that I made (<a href=\"http://tinkeringetc.blogspot.com/2011/06/homemade-pid-controlled-hotplate.html\" class=\"ot-anchor\">http://tinkeringetc.blogspot.com/2011/06/homemade-pid-controlled-hotplate.html</a>), but unfortunately, it is at my home now and I&#39;m at school. I&#39;ll have to pick it up over Spring break when I return home.<br /><br />I also created a new repository for my next project at <a href=\"https://github.com/dwaq/Homebrew-Gameboy-Cartridge\" class=\"ot-anchor\">https://github.com/dwaq/Homebrew-Gameboy-Cartridge</a> . Since I just finished my MSP430 Reaction Game project (<a href=\"http://tinkeringetc.blogspot.com/p/msp430-reaction-game.html\" class=\"ot-anchor\">http://tinkeringetc.blogspot.com/p/msp430-reaction-game.html</a>), I needed something else to occupy my time. Right now I only have a library that I made that contains the schematic symbols and footprints. I cannot guarantee that they are the exact size just yet as I haven&#39;t put much time into the project so far. I have made a version of a homebrew cart using a mess of wires from the idea on <a href=\"http://hackaday.com/2010/07/14/programmable-game-boy-cartridge-walk-through/\" class=\"ot-anchor\">http://hackaday.com/2010/07/14/programmable-game-boy-cartridge-walk-through/</a> (pictures are two posts up), but I&#39;d like to design a PCB too, and eventually 3D print a case for it so it appears just like a official Gameboy cartridge.",
+    "objectType" : "note",
+    "originalContent" : "I'm going to try and post a short summary of each day's work on Google+ when I work with electronics. I noticed that I only post final projects on my blog at http://tinkeringetc.blogspot.com/ so I wanted a way to keep people updated on my day-to-day tasks... and remind myself what I have done each day.\n\nI received some sample parts from Texas Instruments and Maxim for the CEE (http://www.nonolithlabs.com/cee/) that I got a bare board for from their Kickstarter. I have the majority of the parts soldered on (See above post for the pictures) and soldered the Maxim op-amps on as well. The TI op-amps were in a QFN-12 package (AKA the leads are on the bottom) so I couldn't solder it on my hand. I have a hotplate that I made (http://tinkeringetc.blogspot.com/2011/06/homemade-pid-controlled-hotplate.html), but unfortunately, it is at my home now and I'm at school. I'll have to pick it up over Spring break when I return home.\n\nI also created a new repository for my next project at https://github.com/dwaq/Homebrew-Gameboy-Cartridge . Since I just finished my MSP430 Reaction Game project (http://tinkeringetc.blogspot.com/p/msp430-reaction-game.html), I needed something else to occupy my time. Right now I only have a library that I made that contains the schematic symbols and footprints. I cannot guarantee that they are the exact size just yet as I haven't put much time into the project so far. I have made a version of a homebrew cart using a mess of wires from the idea on http://hackaday.com/2010/07/14/programmable-game-boy-cartridge-walk-through/ (pictures are two posts up), but I'd like to design a PCB too, and eventually 3D print a case for it so it appears just like a official Gameboy cartridge.",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/Lhzvh8tycQC"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2012-02-14T04:49:34.086Z",
+  "title" : "I'm going to try and post a short summary of each day's work on Google+ when I work with electronics...",
+  "updated" : "2012-02-15T04:57:09.000Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/Lhzvh8tycQC",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

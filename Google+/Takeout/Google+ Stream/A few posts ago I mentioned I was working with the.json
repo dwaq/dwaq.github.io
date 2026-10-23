@@ -1,0 +1,181 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/wvDQ4uE_B0ypS7PILO_xoeNprZ0\"",
+  "id" : "z13tfvagwsnbxpang22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "categories" : [ {
+        "schema" : "http://google.com/profiles/media/provider",
+        "term" : "picasa"
+      } ],
+      "content" : "IMG_5410.JPG",
+      "displayName" : "A few posts ago I mentioned I was working with the Pushover app to make a security system to my apartment. As of tonight, I have most of the code working. I still need to make a simple protoboard that will connect the sensors to the JeeNode and add code to interface with the Raspberry Pi Camera, but that's about it. Right now, I'm using a python script to read the serial data from a JeeLink (that's receiving the data wirelessly from the JeeNode) and parsing it to determine the states of the three switches. When something opens, I create a folder in Dropbox of the current date and time and location of the switch in my apartment. I then send that information as a push notification to my iPhone (see the attached screenshot). Over the next 30 seconds or so, I take a series of pictures with the camera and upload them to that Dropbox folder. This way I can receive the notification as the switch opens and then refresh the Dropbox folder and see new pictures as they're taken. The most time-consuming part of the project was figuring out how to take pictures in the background. After a lot of research, I found that python's subprocess.Popen() worked really well for backgrounding other python scripts. I'm using it for uploading to Dropbox and sending the Pushover notification and might use it for taking pictures with the camera as well. It's really powerful and simple to use after I took the time to really figure out how it worked.",
+      "fullImage" : {
+        "height" : 1136,
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-qzx222GWjD0/Uha70ytPYRI/AAAAAAAATMw/lriM6eNe1mc/s288/photo.jpg",
+        "width" : 640
+      },
+      "id" : "107457342204653676533.5915121676236841234",
+      "image" : {
+        "type" : "image/jpeg",
+        "url" : "https://lh5.googleusercontent.com/-qzx222GWjD0/Uha70ytPYRI/AAAAAAAATMw/lriM6eNe1mc/w506-h750/photo.jpg"
+      },
+      "objectType" : "photo",
+      "url" : "https://plus.google.com/photos/107457342204653676533/albums/5915121676451259713/5915121676236841234"
+    } ],
+    "content" : "A few posts ago I mentioned I was working with the Pushover app to make a security system to my apartment. As of tonight, I have most of the code working. I still need to make a simple protoboard that will connect the sensors to the JeeNode and add code to interface with the Raspberry Pi Camera, but that&#39;s about it. <br /><br />Right now, I&#39;m using a python script to read the serial data from a JeeLink (that&#39;s receiving the data wirelessly from the JeeNode) and parsing it to determine the states of the three switches. When something opens, I create a folder in Dropbox of the current date and time and location of the switch in my apartment. I then send that information as a push notification to my iPhone (see the attached screenshot). Over the next 30 seconds or so, I take a series of pictures with the camera and upload them to that Dropbox folder. This way I can receive the notification as the switch opens and then refresh the Dropbox folder and see new pictures as they&#39;re taken.<br /><br />The most time-consuming part of the project was figuring out how to take pictures in the background. After a lot of research, I found that python&#39;s subprocess.Popen() worked really well for backgrounding other python scripts. I&#39;m using it for uploading to Dropbox and sending the Pushover notification and might use it for taking pictures with the camera as well. It&#39;s really powerful and simple to use after I took the time to really figure out how it worked. ",
+    "objectType" : "note",
+    "originalContent" : "A few posts ago I mentioned I was working with the Pushover app to make a security system to my apartment. As of tonight, I have most of the code working. I still need to make a simple protoboard that will connect the sensors to the JeeNode and add code to interface with the Raspberry Pi Camera, but that's about it. \n\nRight now, I'm using a python script to read the serial data from a JeeLink (that's receiving the data wirelessly from the JeeNode) and parsing it to determine the states of the three switches. When something opens, I create a folder in Dropbox of the current date and time and location of the switch in my apartment. I then send that information as a push notification to my iPhone (see the attached screenshot). Over the next 30 seconds or so, I take a series of pictures with the camera and upload them to that Dropbox folder. This way I can receive the notification as the switch opens and then refresh the Dropbox folder and see new pictures as they're taken.\n\nThe most time-consuming part of the project was figuring out how to take pictures in the background. After a lot of research, I found that python's subprocess.Popen() worked really well for backgrounding other python scripts. I'm using it for uploading to Dropbox and sending the Pushover notification and might use it for taking pictures with the camera as well. It's really powerful and simple to use after I took the time to really figure out how it worked. ",
+    "plusoners" : {
+      "totalItems" : 4,
+      "items" : [ {
+        "displayName" : "Bryan Rentoul",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/I2WJmLrik0j0xXBUO_QTUewSHAk\"",
+        "id" : "115482461410471042241",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-CpJn8JnaPck/AAAAAAAAAAI/AAAAAAAAAAA/fI2kd8dEkA4/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/115482461410471042241"
+      }, {
+        "displayName" : "Carlos GS",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/-79w-4PnW1lHA1WdEkDq32Hter4\"",
+        "id" : "113437723819360223498",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-vFU04N8SKHY/AAAAAAAAAAI/AAAAAAAAAAA/vjNYSz8j4WU/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/113437723819360223498"
+      }, {
+        "displayName" : "james wolf",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1pOnIk2wStecV-UsYW2Ri2WJjGU\"",
+        "id" : "100923804654788847953",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-0GBrvs17dNE/AAAAAAAAAAI/AAAAAAAAAAA/7GEq8V2XgYE/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/100923804654788847953"
+      }, {
+        "displayName" : "Michael Leonard",
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/a-e1l839aZM8y75X94U6eQTzj6Q\"",
+        "id" : "114465359533396650695",
+        "image" : {
+          "url" : "https://lh3.googleusercontent.com/-3vliWlI8684/AAAAAAAAAAI/AAAAAAAAAAA/Ugjyjq7cMT4/photo.jpg?sz=50"
+        },
+        "kind" : "plus#person",
+        "url" : "https://profiles.google.com/114465359533396650695"
+      } ]
+    },
+    "replies" : {
+      "items" : [ {
+        "actor" : {
+          "displayName" : "Michael Leonard",
+          "id" : "114465359533396650695",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-3vliWlI8684/AAAAAAAAAAI/AAAAAAAAEBA/TkmR4LKxAaQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/114465359533396650695",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/1sC-fyrdDMudPukW_BrAPGlQkJA\"",
+        "id" : "z13tfvagwsnbxpang22rhxrr1yu5xn3rw04.1377226321417523",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "Cool use of Pushover. I&#39;ve been using it for a lot of different things ever since I tried it out on my BeagleBone Black. It integrates nicely with IFTTT as well.",
+          "objectType" : "comment"
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-08-23T02:52:01.417Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : false
+        },
+        "updated" : "2013-08-23T02:52:01.417Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      }, {
+        "actor" : {
+          "displayName" : "Dillon Nichols",
+          "id" : "107457342204653676533",
+          "image" : {
+            "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+          },
+          "url" : "https://plus.google.com/107457342204653676533",
+          "verification" : {
+            "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+          }
+        },
+        "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/6wnK9p95ZuQYlRH0KddaaFR7GDA\"",
+        "id" : "z13tfvagwsnbxpang22rhxrr1yu5xn3rw04.1377261297944536",
+        "kind" : "plus#comment",
+        "object" : {
+          "content" : "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/114465359533396650695\" oid=\"114465359533396650695\">Michael Leonard</a></span> It was your post that introduced me to it, so thank you for that. I can definitely see myself using it for many projects in the future.",
+          "objectType" : "comment",
+          "originalContent" : "@114465359533396650695 It was your post that introduced me to it, so thank you for that. I can definitely see myself using it for many projects in the future."
+        },
+        "plusoners" : {
+          "totalItems" : 0
+        },
+        "published" : "2013-08-23T12:34:57.944Z",
+        "statusForViewer" : {
+          "isPlusOned" : false,
+          "canUpdate" : true
+        },
+        "updated" : "2013-08-23T12:34:57.944Z",
+        "verb" : "post",
+        "moderationState" : "new"
+      } ],
+      "totalItems" : 2
+    },
+    "resharers" : {
+      "totalItems" : 0
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/K6m3zrRHcKK"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2013-08-23T01:33:07.768Z",
+  "title" : "A few posts ago I mentioned I was working with the Pushover app to make a security system to my apartment...",
+  "updated" : "2013-08-23T01:33:07.768Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/K6m3zrRHcKK",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}

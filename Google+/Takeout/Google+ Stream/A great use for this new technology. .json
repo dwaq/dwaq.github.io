@@ -1,0 +1,78 @@
+{
+  "access" : {
+    "accessSummary" : "Public",
+    "description" : "Public",
+    "items" : [ {
+      "type" : "public"
+    } ],
+    "kind" : "plus#acl"
+  },
+  "actor" : {
+    "displayName" : "Dillon Nichols",
+    "id" : "107457342204653676533",
+    "image" : {
+      "url" : "https://lh6.googleusercontent.com/-h4SCJ6OBSVU/AAAAAAAAAAI/AAAAAAAA0WE/UWdH_qi-gtQ/photo.jpg?sz=50"
+    },
+    "url" : "https://plus.google.com/107457342204653676533",
+    "verification" : {
+      "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+    }
+  },
+  "etag" : "\"Q44G99shyMl14lSVN9oTpl4EamI/BPoV5_Kh-RRXhpchiVE4jBw57fs\"",
+  "id" : "z131u5gjsrvxhjz3r22rhxrr1yu5xn3rw04",
+  "kind" : "plus#activity",
+  "object" : {
+    "actor" : {
+      "verification" : {
+        "adHocVerified" : "UNKNOWN_VERIFICATION_STATUS"
+      }
+    },
+    "attachments" : [ {
+      "content" : "We’re happy to announce that we recently deployed an over-the-air firmware update to all our users, enabling Apple’s new iBeacon technology in Automatic. What is iBeacon? iBeacon is Apple’s Bluetooth Low Energy wireless standard that allows apps on your iPhone to recognize that you’re near a special wireless transmitter, called a beacon. The beacon and …",
+      "displayName" : "Every Automatic on the road just became an iBeacon - Automatic Blog",
+      "fullImage" : {
+        "type" : "image/jpeg",
+        "url" : "http://blog.automatic.com/wp-content/uploads/2014/01/ibeacon-no-bubble.jpg"
+      },
+      "image" : {
+        "height" : 910,
+        "type" : "image/jpeg",
+        "url" : "https://lh3.googleusercontent.com/proxy/kXww14sQWMgNF4GGB8JBJh9qvhPwIIFDtoq43QFzagZc6aBd1T3jMCD0avMMxSkiOI3LFmH394kk1Lp4lxB64HQt8KLK3g4Rb2GZllk4-hgucCVTfj13MWQl=w506-h910",
+        "width" : 506
+      },
+      "objectType" : "article",
+      "url" : "http://blog.automatic.com/every-automatic-road-just-became-ibeacon/"
+    } ],
+    "content" : "A great use for this new technology. ",
+    "objectType" : "note",
+    "originalContent" : "A great use for this new technology. ",
+    "plusoners" : {
+      "totalItems" : 0
+    },
+    "replies" : {
+      "totalItems" : 0
+    },
+    "resharers" : {
+      "totalItems" : 1,
+      "items" : [ ]
+    },
+    "statusForViewer" : {
+      "canComment" : true,
+      "canPlusone" : true,
+      "isPlusOned" : false,
+      "resharingDisabled" : false,
+      "canUpdate" : true
+    },
+    "url" : "https://plus.google.com/+DillonNichols/posts/M4uA2WEKbcE"
+  },
+  "provider" : {
+    "title" : "Google+"
+  },
+  "published" : "2014-01-30T15:06:52.666Z",
+  "title" : "A great use for this new technology. ",
+  "updated" : "2014-01-30T15:06:52.666Z",
+  "url" : "https://plus.google.com/+DillonNichols/posts/M4uA2WEKbcE",
+  "verb" : "post",
+  "isSpam" : false,
+  "moderationState" : "new"
+}
