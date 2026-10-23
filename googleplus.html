@@ -62,10 +62,13 @@
         }
 
         .single-photo {
+            display: block;
             max-height: 400px;
             width: auto;
             max-width: 100%;
+            margin: 10px auto;
             object-fit: contain;
+            cursor: pointer;
         }
 
         .thumbnail .caption {
@@ -25474,7 +25477,6 @@
                         <img src="${thumbUrl}"
                              alt="${escapeHtml(attachment.displayName || 'Photo')}"
                              class="img-responsive single-photo"
-                             style="cursor: pointer; margin-top: 10px;"
                              data-full-url="${fullImageUrl}">
                     `;
                 }
